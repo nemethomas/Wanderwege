@@ -10,12 +10,18 @@ Benutzte Hilfsmittel:
 
 Vorraussetzungen
 Python 3.12.2
- 
-Overpy ist eine Python-Bibliothek, die es ermöglicht, Daten von der Overpass API (eine Schnittstelle für OpenStreetMap-Daten) abzufragen und zu verarbeiten. Die Overpass API ermöglicht es, Geodaten wie Straßennetze, Gebäude, POIs (Points of Interest) und vieles mehr aus dem OpenStreetMap-Projekt (OSM) abzurufen.
 
-SQLAlchemy ist eine umfassende ORM (Object-Relational Mapping)-Bibliothek für Python. Es dient dazu, SQL-Datenbanken mit Python-Code zu verbinden und erleichtert das Arbeiten mit relationalen Datenbanken (wie MySQL, PostgreSQL, SQLite etc.). SQLAlchemy bietet sowohl einen ORM-Ansatz als auch einen direkten Zugriff auf SQL-Datenbanken, was Flexibilität ermöglicht.
+Wir benutzen conda als Umgebungsmanagementsystem mit folgenden Python Bibliotheken:
+  
+  - overpy
+  - pandas
+  - pymysql
+  - sqlalchemy
+  - mysql-connector-python
 
+Eine neue Umgebung mit dem Namen www (kann im File geändert werden), inklusive allen benötigen Bibliotheken kann angelegt werden indem die Datei environment.yaml ausgeführt wird:
 
+conda env create -f environment.yaml
 
 Links:
 https://wiki.openstreetmap.org/wiki/Hiking
