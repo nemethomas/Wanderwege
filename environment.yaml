@@ -1,0 +1,10 @@
+name: www
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pandas
+  - sqlalchemy
+  - mysql-connector-python
+  - conda-forge::overpy
+  - conda-forge::pymysql
