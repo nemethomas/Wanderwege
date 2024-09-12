@@ -1,1 +1,15 @@
-ECHO ist eingeschaltet (ON).
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Config files with sensitive information (e.g., API keys, database credentials)
+config/*.json
