@@ -8,3 +8,12 @@ dependencies:
   - mysql-connector-python
   - conda-forge::overpy
   - conda-forge::pymysql
+  - numpy
+  - matplotlib 
+  - seaborn 
+  - requests
+  - requests-cache
+  - pip
+  - pip:
+    - openmeteo_requests
+    - retry-requests
