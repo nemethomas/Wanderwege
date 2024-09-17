@@ -13,6 +13,8 @@ dependencies:
   - seaborn 
   - requests
   - requests-cache
+  - pyodbc
+  - ipykernel
   - pip
   - pip:
     - openmeteo_requests
