@@ -1,0 +1,1001 @@
+lat,lon,country,county,local_administrative_area,locality,postcode,state,state_code,village
+46.6501430,10.2301992,Switzerland,Region Engiadina Bassa/Val Müstair,Zernez,Stabelchod,7530,Grisons,GR,Zernez
+47.4309774,9.6201700,Switzerland,Wahlkreis Rheintal,Berneck,Eichholz,9442,St. Gallen,N/A,Berneck
+47.3511680,8.4897796,Switzerland,District Zurich,Zurich,N/A,8063,Zurich,ZH,N/A
+47.3291235,8.5007261,Switzerland,Bezirk Affoltern,Stallikon,N/A,8143,Zurich,ZH,Stallikon
+47.3152439,8.5050559,Switzerland,Bezirk Affoltern,Stallikon,N/A,8143,Zurich,ZH,Stallikon
+47.3164826,8.5186003,Switzerland,Bezirk Horgen,Adliswil,N/A,8134,Zurich,ZH,N/A
+46.6864945,8.5941959,Switzerland,N/A,Wassen,N/A,6484,Uri,UR,Wassen
+46.7582930,8.6574212,Switzerland,N/A,Silenen,N/A,6476,Uri,UR,Amsteg
+47.5352432,8.0967558,Switzerland,Bezirk Laufenburg,Laufenburg,N/A,5085,Aargau,AG,Sulz
+46.8255681,6.5042809,Switzerland,District du Jura-Nord vaudois,Sainte-Croix,N/A,1450,Vaud,VD,Sainte-Croix
+46.8326800,6.5145084,Switzerland,District du Jura-Nord vaudois,Sainte-Croix,N/A,1450,Vaud,VD,Sainte-Croix
+46.8356755,6.5227180,Switzerland,District du Jura-Nord vaudois,Sainte-Croix,N/A,1450,Vaud,VD,Sainte-Croix
+46.8435439,6.5313614,Switzerland,District du Jura-Nord vaudois,Bullet,N/A,1452,Vaud,VD,Les Rasses
+46.8556668,6.5501737,Switzerland,District du Jura-Nord vaudois,Fiez,N/A,1453,Vaud,VD,Fiez
+46.8634566,6.5658229,Switzerland,District du Jura-Nord vaudois,Bullet,N/A,1453,Vaud,VD,Bullet
+46.8609414,6.6144089,Switzerland,District du Jura-Nord vaudois,Mauborget,N/A,1453,Vaud,VD,Mauborget
+46.8964957,6.6098089,Switzerland,N/A,Val-de-Travers,N/A,2112,Neuchâtel,NE,Môtiers NE
+47.3265932,9.0257357,Switzerland,Wahlkreis Toggenburg,Mosnang,N/A,9614,St. Gallen,N/A,Libingen
+47.3204765,9.0322050,Switzerland,Wahlkreis Toggenburg,Mosnang,N/A,9614,St. Gallen,N/A,Libingen
+47.3139131,9.0340285,Switzerland,Wahlkreis Toggenburg,Mosnang,N/A,9622,St. Gallen,N/A,Mosnang
+47.3096563,9.0309978,Switzerland,Wahlkreis Toggenburg,Mosnang,N/A,9614,St. Gallen,N/A,Mosnang
+47.3005555,9.0197317,Switzerland,Wahlkreis See-Gaster,Eschenbach (SG),N/A,8733,St. Gallen,N/A,N/A
+47.2960901,9.0220985,Switzerland,Wahlkreis Toggenburg,Wattwil,N/A,8375,St. Gallen,N/A,Wattwil
+47.2915794,9.0283607,Switzerland,Wahlkreis Toggenburg,Wattwil,N/A,8375,St. Gallen,N/A,Wattwil
+47.2808333,9.0325995,Switzerland,Wahlkreis See-Gaster,Eschenbach (SG),N/A,8733,St. Gallen,N/A,Walde SG
+47.2717847,9.0363372,Switzerland,Wahlkreis See-Gaster,Eschenbach (SG),N/A,8733,St. Gallen,N/A,N/A
+47.2671226,9.0409020,Switzerland,Wahlkreis See-Gaster,Gommiswald,N/A,8726,St. Gallen,N/A,Ricken SG
+47.3028875,8.5080851,Switzerland,Bezirk Affoltern,Stallikon,N/A,8143,Zurich,ZH,Stallikon
+47.2857101,8.5134809,Switzerland,Bezirk Horgen,Langnau am Albis,N/A,8135,Zurich,ZH,Langnau am Albis
+47.2712226,8.5262202,Switzerland,Bezirk Horgen,Langnau am Albis,N/A,8135,Zurich,ZH,Langnau am Albis
+47.2635986,8.5335671,Switzerland,Bezirk Affoltern,Hausen am Albis,N/A,8915,Zurich,ZH,Hausen am Albis
+47.2647956,8.5554930,Switzerland,Bezirk Horgen,Horgen,N/A,8810,Zurich,ZH,N/A
+47.5490567,8.1111345,Switzerland,Bezirk Laufenburg,Gansingen,N/A,5272,Aargau,AG,Gansingen
+47.3623550,8.4906313,Switzerland,District Zurich,Zurich,N/A,8063,Zurich,ZH,N/A
+47.3552026,8.4892329,Switzerland,District Zurich,Zurich,N/A,8063,Zurich,ZH,N/A
+47.3489275,8.4994754,Switzerland,District Zurich,Zurich,N/A,8063,Zurich,ZH,N/A
+47.2887772,8.8581679,Switzerland,Bezirk Hinwil,Hinwil,N/A,8340,Zurich,ZH,Hadlikon
+47.2950460,8.8502490,Switzerland,Bezirk Hinwil,Hinwil,N/A,8340,Zurich,ZH,Hadlikon
+47.2852540,8.8695647,Switzerland,Bezirk Hinwil,Dürnten,N/A,8635,Zurich,ZH,Breitenmatt
+47.2831134,8.8494622,Switzerland,Bezirk Hinwil,Dürnten,N/A,8635,Zurich,ZH,Oberdürnten
+47.2750342,8.8356737,Switzerland,Bezirk Hinwil,Dürnten,N/A,8632,Zurich,ZH,Tann
+47.2776044,8.8789713,Switzerland,Bezirk Hinwil,Dürnten,N/A,8635,Zurich,ZH,Breitenmatt
+47.2819308,8.8686143,Switzerland,Bezirk Hinwil,Dürnten,N/A,8635,Zurich,ZH,Breitenmatt
+47.2784240,8.8240752,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Bubikon
+47.2686736,8.8243599,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Bubikon
+47.2691917,8.8436149,Switzerland,Bezirk Hinwil,Dürnten,N/A,8632,Zurich,ZH,Tann
+47.2684960,8.8307534,Switzerland,Bezirk Hinwil,Dürnten,N/A,8608,Zurich,ZH,Dürnten
+47.2646347,8.8295722,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Bubikon
+47.2616268,8.8433170,Switzerland,Bezirk Hinwil,Rüti (ZH),N/A,8630,Zurich,ZH,N/A
+47.2928383,8.8341464,Switzerland,Bezirk Hinwil,Hinwil,N/A,8349,Zurich,ZH,Hinwil
+47.2889124,8.8389398,Switzerland,Bezirk Hinwil,Hinwil,N/A,8340,Zurich,ZH,Hadlikon
+47.2793684,8.8162043,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Bubikon
+47.2739260,8.8957778,Switzerland,Bezirk Hinwil,Wald (ZH),N/A,8663,Zurich,ZH,Wald (ZH)
+47.2715449,8.8646750,Switzerland,Bezirk Hinwil,Dürnten,N/A,8635,Zurich,ZH,Oberdürnten
+47.2672644,8.8559288,Switzerland,Bezirk Hinwil,Dürnten,N/A,8632,Zurich,ZH,Tann
+47.2637302,8.8556643,Switzerland,Bezirk Hinwil,Rüti (ZH),Joweid Zentrum,8630,Zurich,ZH,N/A
+47.2678451,8.8666451,Switzerland,Bezirk Hinwil,Rüti (ZH),N/A,8630,Zurich,ZH,N/A
+47.2698096,8.8204598,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Wolfhausen
+47.2540752,8.8199090,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Wolfhausen
+47.2706680,8.8120444,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Bubikon
+47.2729998,8.8442826,Switzerland,Bezirk Hinwil,Dürnten,N/A,8632,Zurich,ZH,Tann
+47.2642278,8.8520052,Switzerland,Bezirk Hinwil,Dürnten,N/A,8632,Zurich,ZH,Tann
+47.2828357,8.8697479,Switzerland,Bezirk Hinwil,Dürnten,N/A,8635,Zurich,ZH,Breitenmatt
+47.2736486,8.8562662,Switzerland,Bezirk Hinwil,Dürnten,N/A,8632,Zurich,ZH,Tann
+47.3001847,8.8212979,Switzerland,Bezirk Hinwil,Hinwil,N/A,8349,Zurich,ZH,Hinwil
+47.2585925,7.4437102,Switzerland,Amtei Thal-Gäu,Welschenrohr-Gänsbrunnen,N/A,4716,Solothurn,SO,Welschenrohr-Gänsbrunnen
+47.2573848,7.3944437,Switzerland,Bernese Jura administrative district,Court,N/A,2738,Bern,BE,Court
+47.2841676,7.3859360,Switzerland,Bernese Jura administrative district,Moutier,N/A,2740,Bern,BE,N/A
+47.2892260,7.3930404,Switzerland,Bernese Jura administrative district,Belprahon,N/A,2740,Bern,BE,Belprahon
+47.2923335,7.4015379,Switzerland,Bernese Jura administrative district,Belprahon,Gressins dessous,2744,Bern,BE,Belprahon
+47.2974282,7.4120652,Switzerland,Bernese Jura administrative district,Belprahon,N/A,2744,Bern,BE,Belprahon
+47.3018145,7.4201357,Switzerland,Bernese Jura administrative district,Grandval,N/A,2745,Bern,BE,Grandval
+47.2954952,7.4551799,Switzerland,Bernese Jura administrative district,Corcelles (BE),La Côte au Boeuf,2747,Bern,BE,Corcelles (BE)
+47.2795081,7.4549841,Switzerland,Bernese Jura administrative district,Crémines,N/A,2746,Bern,BE,Crémines
+47.2692217,7.4606337,Switzerland,Bernese Jura administrative district,Crémines,N/A,2746,Bern,BE,Crémines
+47.2647082,7.4663391,Switzerland,Amtei Thal-Gäu,Welschenrohr-Gänsbrunnen,N/A,4716,Solothurn,SO,Gänsbrunnen
+47.3243165,8.7474880,Switzerland,Bezirk Uster,Uster,N/A,8614,Zurich,ZH,Sulzbach
+46.8276562,9.3566913,Switzerland,Imboden,Trin,N/A,7014,Grisons,GR,Trin Mulin
+46.8148423,9.3304239,Switzerland,Imboden,Trin,N/A,7016,Grisons,GR,Trin
+46.8071233,9.3196379,Switzerland,Surselva,Safiental,N/A,7104,Grisons,GR,Versam
+46.7992609,9.2926408,Switzerland,Surselva,Sagogn,N/A,7152,Grisons,GR,Sagogn
+47.2733557,9.4699772,Switzerland,N/A,Schwende-Rüte,N/A,9058,Appenzell Innerrhoden,AI,Rüte
+47.2847553,9.4866094,Switzerland,Wahlkreis Rheintal,Altstätten,N/A,9464,St. Gallen,N/A,Lienz
+47.2873653,9.4882582,Switzerland,Wahlkreis Rheintal,Altstätten,N/A,9464,St. Gallen,N/A,Lienz
+47.3004458,9.4947814,Switzerland,Wahlkreis Rheintal,Altstätten,N/A,9058,St. Gallen,N/A,N/A
+47.3076614,9.4976513,Switzerland,Wahlkreis Rheintal,Altstätten,N/A,9464,St. Gallen,N/A,N/A
+47.3116644,9.4949743,Switzerland,N/A,Schwende-Rüte,N/A,9058,Appenzell Innerrhoden,AI,Rüte
+47.3208381,9.4905903,Switzerland,N/A,Schwende-Rüte,N/A,9453,Appenzell Innerrhoden,AI,Rüte
+47.3291531,9.4794768,Switzerland,N/A,Schwende-Rüte,N/A,9056,Appenzell Innerrhoden,AI,Rüte
+47.3264746,9.4474003,Switzerland,N/A,Schwende-Rüte,N/A,9056,Appenzell Innerrhoden,AI,Rüte
+47.6020574,8.2314126,Switzerland,Bezirk Zurzach,Klingnau,N/A,5313,Aargau,AG,Klingnau
+47.5843118,8.2398148,Switzerland,Bezirk Zurzach,Klingnau,N/A,5313,Aargau,AG,Klingnau
+47.5745137,8.2547056,Switzerland,Bezirk Zurzach,Döttingen,N/A,5312,Aargau,AG,Döttingen
+47.4705361,7.1289368,Switzerland,District de Porrentruy,Basse-Vendline,Combe au Sanera,2943,Jura,JU,N/A
+47.4643414,7.0999051,Switzerland,District de Porrentruy,Damphreux-Lugnez,N/A,2933,Jura,JU,Damphreux
+47.4532464,7.0910017,Switzerland,District de Porrentruy,Cœuve,N/A,2932,Jura,JU,Cœuve
+47.4690560,7.0695034,Switzerland,District de Porrentruy,Damphreux-Lugnez,En l'Aidiaice,2933,Jura,JU,Lugnez
+47.4924464,7.0359068,Switzerland,District de Porrentruy,Basse-Allaine,N/A,2925,Jura,JU,Buix
+47.1387062,8.4378550,Switzerland,N/A,Risch-Rotkreuz,N/A,6343,Zug,ZG,N/A
+47.2300876,9.3380956,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A
+47.2210069,9.3499408,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A
+47.2281315,9.3530293,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A
+47.2291379,9.3519242,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A
+47.2340179,9.3603323,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A
+47.2403127,9.3686166,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A
+47.2245686,9.3336317,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A
+46.9552769,8.3615696,Switzerland,N/A,Stans,N/A,6370,Nidwalden,NW,N/A
+46.9519948,8.3583168,Switzerland,N/A,Stans,N/A,6371,Nidwalden,NW,N/A
+46.9496846,8.3540999,Switzerland,N/A,Stans,N/A,6371,Nidwalden,NW,N/A
+46.9472859,8.3510576,Switzerland,N/A,Stans,N/A,6370,Nidwalden,NW,N/A
+46.9435259,8.3491933,Switzerland,N/A,Stans,N/A,6371,Nidwalden,NW,N/A
+46.9360011,8.3482672,Switzerland,N/A,Stans,Alp Bluematt,6370,Nidwalden,NW,N/A
+46.9316985,8.3474707,Switzerland,N/A,Dallenwil,N/A,6383,Nidwalden,NW,Dallenwil
+47.1050349,8.6751580,Switzerland,Schwyz,Rothenthurm,N/A,6418,Schwyz,SZ,Rothenthurm
+47.0941150,8.6864452,Switzerland,Schwyz,Rothenthurm,N/A,6418,Schwyz,SZ,Rothenthurm
+47.0731657,8.6907012,Switzerland,Schwyz,Rothenthurm,N/A,6418,Schwyz,SZ,Rothenthurm
+47.0603091,8.6769881,Switzerland,Schwyz,Schwyz,N/A,8849,Schwyz,SZ,N/A
+47.0653198,8.6626505,Switzerland,Schwyz,Schwyz,N/A,6417,Schwyz,SZ,N/A
+47.0730247,8.6420986,Switzerland,Schwyz,Sattel,N/A,6417,Schwyz,SZ,Sattel
+46.7598806,7.5724681,Switzerland,Thun administrative district,Thierachern,N/A,3634,Bern,BE,Thierachern
+47.5711865,8.1720509,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5276,Aargau,AG,Wil
+47.5735287,8.1566963,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5276,Aargau,AG,Wil
+47.5657155,8.1372072,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5276,Aargau,AG,Mettau
+47.5768602,8.1454112,Switzerland,Bezirk Laufenburg,Schwaderloch,N/A,5326,Aargau,AG,Schwaderloch
+47.5845854,8.1535930,Switzerland,Bezirk Laufenburg,Schwaderloch,N/A,5326,Aargau,AG,Schwaderloch
+47.5815338,8.1638673,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5325,Aargau,AG,N/A
+46.6874174,9.3699912,Switzerland,Viamala,Tschappina,N/A,7428,Grisons,GR,Tschappina
+46.6901223,9.3641409,Switzerland,Viamala,Tschappina,N/A,7428,Grisons,GR,Tschappina
+46.7069690,9.3413993,Switzerland,Surselva,Safiental,N/A,7107,Grisons,GR,N/A
+46.6313920,9.2784807,Switzerland,Surselva,Safiental,N/A,7109,Grisons,GR,N/A
+47.2743819,8.7933419,Switzerland,Bezirk Hinwil,Bubikon,N/A,8626,Zurich,ZH,Bubikon
+47.2899811,8.8731512,Switzerland,Bezirk Hinwil,Hinwil,N/A,8342,Zurich,ZH,Wernetshausen
+47.2919467,8.8717868,Switzerland,Bezirk Hinwil,Hinwil,N/A,8342,Zurich,ZH,Wernetshausen
+47.3006265,8.8538109,Switzerland,Bezirk Hinwil,Hinwil,N/A,8340,Zurich,ZH,Wernetshausen
+47.2382059,9.3533639,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9057,St. Gallen,N/A,N/A
+47.2202034,9.3339613,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A
+47.2173451,9.3378799,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A
+47.2135064,9.3455220,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,Wildhaus
+47.2111651,9.3491776,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,Wildhaus
+47.2071583,9.3524133,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,Wildhaus
+46.6940310,9.3579837,Switzerland,Viamala,Tschappina,N/A,7428,Grisons,GR,Tschappina
+46.6973702,9.3557830,Switzerland,Viamala,Tschappina,N/A,7428,Grisons,GR,Tschappina
+46.7026232,9.3573366,Switzerland,Viamala,Tschappina,N/A,7428,Grisons,GR,Tschappina
+46.6149023,9.2790415,Switzerland,Surselva,Safiental,N/A,7109,Grisons,GR,N/A
+46.5916665,9.2744012,Switzerland,Surselva,Safiental,Grossalp,7109,Grisons,GR,N/A
+47.5831771,8.1767364,Switzerland,Bezirk Zurzach,Leibstadt,N/A,5325,Aargau,AG,Leibstadt
+47.5770419,8.1721576,Switzerland,Bezirk Zurzach,Leibstadt,N/A,5325,Aargau,AG,Leibstadt
+47.5700726,8.1791919,Switzerland,Bezirk Zurzach,Leuggern,N/A,5317,Aargau,AG,Etzwil
+47.5555259,8.1810596,Switzerland,Bezirk Brugg,Mandach,N/A,5318,Aargau,AG,Mandach
+47.5844347,8.1677826,Switzerland,Bezirk Zurzach,Leibstadt,Hintere Brüehhalde,5325,Aargau,AG,Leibstadt
+46.7582613,7.5382492,Switzerland,Thun administrative district,Forst-Längenbühl,N/A,3636,Bern,BE,Längenbühl
+46.7623297,7.5376834,Switzerland,Thun administrative district,Gurzelen,N/A,3636,Bern,BE,Längenbühl
+46.7624084,7.5348264,Switzerland,Thun administrative district,Gurzelen,N/A,3663,Bern,BE,Gurzelen
+47.5358736,8.1806160,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5318,Aargau,AG,N/A
+47.5303159,8.1640510,Switzerland,Bezirk Brugg,Villigen,N/A,5236,Aargau,AG,Villigen
+47.5237182,8.1401891,Switzerland,Bezirk Brugg,Mönthal,N/A,5237,Aargau,AG,Mönthal
+47.5316528,8.1539101,Switzerland,Bezirk Laufenburg,Gansingen,N/A,5272,Aargau,AG,Gansingen
+47.5516985,8.1493464,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5276,Aargau,AG,Wil
+46.3697229,10.0369988,Switzerland,Bernina,Poschiavo,N/A,7741,Grisons,GR,Poschiavo
+46.3621156,10.0463310,Switzerland,Bernina,Poschiavo,N/A,7741,Grisons,GR,Poschiavo
+46.3515016,10.0477146,Switzerland,Bernina,Poschiavo,N/A,7741,Grisons,GR,San Carlo
+46.3260896,10.0565728,Switzerland,Bernina,Poschiavo,N/A,7742,Grisons,GR,Cologna
+47.5209172,8.1705452,Switzerland,Bezirk Brugg,Remigen,N/A,5236,Aargau,AG,Remigen
+46.3788051,10.0309017,Switzerland,Bernina,Poschiavo,N/A,7710,Grisons,GR,Poschiavo
+46.3962758,10.0267021,Switzerland,Bernina,Poschiavo,N/A,7710,Grisons,GR,Poschiavo
+46.4121423,10.0137134,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina
+46.4160309,10.0048646,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina
+46.4228898,9.9985475,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina
+46.4379612,9.9872077,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina
+46.4431775,9.9747797,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina
+46.4316523,9.9934176,Switzerland,Maloja,Pontresina,Alp da Buond Suot,7504,Grisons,GR,Pontresina
+47.5637093,8.0882016,Germany,Landkreis Waldshut,N/A,N/A,79725,Baden-Württemberg,BW,N/A
+47.4229054,8.0566062,Switzerland,Bezirk Aarau,Küttigen,N/A,5024,Aargau,AG,Rombach
+47.4264270,8.0818478,Switzerland,Bezirk Aarau,Biberstein,N/A,5023,Aargau,AG,Biberstein
+47.4214686,8.0743602,Switzerland,Bezirk Aarau,Biberstein,N/A,5023,Aargau,AG,Biberstein
+47.4243831,8.1029744,Switzerland,Bezirk Brugg,Biberstein,N/A,5023,Aargau,AG,Biberstein
+47.0384793,8.6997849,Switzerland,Schwyz,Alpthal,N/A,8849,Schwyz,SZ,Brunni
+47.0318757,8.6973159,Switzerland,Schwyz,Schwyz,N/A,8849,Schwyz,SZ,N/A
+47.0292475,8.6932785,Switzerland,Schwyz,Schwyz,N/A,8849,Schwyz,SZ,N/A
+47.0313045,8.6939265,Switzerland,Schwyz,Schwyz,N/A,8849,Schwyz,SZ,N/A
+47.0338127,8.6863747,Switzerland,Schwyz,Schwyz,N/A,6432,Schwyz,SZ,N/A
+47.0377903,8.6965291,Switzerland,Schwyz,Alpthal,N/A,8849,Schwyz,SZ,Brunni
+47.0439694,8.7048389,Switzerland,Schwyz,Alpthal,N/A,8849,Schwyz,SZ,Brunni
+47.0288790,9.2448662,Switzerland,Wahlkreis Sarganserland,Flums,Lauiboden,N/A,St. Gallen,N/A,Flums
+47.3501403,8.7361590,Switzerland,Bezirk Uster,Uster,N/A,8615,Zurich,ZH,Wermatswil
+47.5250677,8.0703421,Switzerland,Bezirk Laufenburg,Kaisten,N/A,5083,Aargau,AG,Ittenthal
+47.5279642,8.0791207,Switzerland,Bezirk Laufenburg,Kaisten,N/A,5083,Aargau,AG,Ittenthal
+47.5201194,8.0696143,Switzerland,Bezirk Laufenburg,Kaisten,N/A,5083,Aargau,AG,Ittenthal
+47.5087437,8.0462899,Switzerland,Bezirk Laufenburg,Böztal,N/A,5075,Aargau,AG,Hornussen
+46.6481220,9.0926843,Switzerland,Surselva,Lumnezia,N/A,7149,Grisons,GR,Vrin
+46.6389767,9.0757543,Switzerland,Surselva,Lumnezia,N/A,7149,Grisons,GR,N/A
+46.6341223,9.0596659,Switzerland,Surselva,Sumvitg,N/A,7149,Grisons,GR,Sumvitg
+46.6338109,9.0340723,Switzerland,Surselva,Lumnezia,N/A,N/A,Grisons,GR,N/A
+46.6334198,9.0094369,Switzerland,Surselva,Sumvitg,N/A,N/A,Grisons,GR,Sumvitg
+46.6230750,8.9994194,Switzerland,Surselva,Sumvitg,N/A,N/A,Grisons,GR,Sumvitg
+46.6025949,9.0013488,Switzerland,Distretto di Blenio,Blenio,Mutarasc,N/A,Ticino,TI,Blenio
+46.5831004,8.9971843,Switzerland,Distretto di Blenio,Blenio,N/A,6718,Ticino,TI,Blenio
+46.5708805,8.9899191,Switzerland,Distretto di Blenio,Blenio,N/A,6718,Ticino,TI,Blenio
+46.5647079,8.9764791,Switzerland,Distretto di Blenio,Blenio,N/A,6720,Ticino,TI,Campo (Blenio)
+46.5305959,8.9789582,Switzerland,Distretto di Blenio,Blenio,Alpe Carassino,6719,Ticino,TI,Blenio
+46.7538002,7.5735557,Switzerland,Thun administrative district,Thierachern,N/A,3634,Bern,BE,Thierachern
+47.3779717,8.4790121,Switzerland,District Zurich,Zurich,N/A,8048,Zurich,ZH,N/A
+47.3743453,8.4773379,Switzerland,District Zurich,Zurich,N/A,8047,Zurich,ZH,N/A
+47.3679735,8.4478256,Switzerland,Bezirk Dietikon,Uitikon,N/A,8142,Zurich,ZH,Waldegg
+47.3734085,8.4328740,Switzerland,Bezirk Dietikon,Urdorf,N/A,8902,Zurich,ZH,Urdorf
+47.3865239,8.4628501,Switzerland,District Zurich,Zurich,N/A,8142,Zurich,ZH,N/A
+47.3821870,8.4266496,Switzerland,Bezirk Dietikon,Urdorf,N/A,8902,Zurich,ZH,Urdorf
+47.3898200,8.4392441,Switzerland,Bezirk Dietikon,Schlieren,N/A,8952,Zurich,ZH,N/A
+47.3723332,8.4616488,Switzerland,Bezirk Dietikon,Uitikon,N/A,8142,Zurich,ZH,Waldegg
+47.0587260,8.4725542,Switzerland,Schwyz,Arth,N/A,6356,Schwyz,SZ,N/A
+47.5969907,8.2570831,Switzerland,Bezirk Zurzach,Klingnau,N/A,5313,Aargau,AG,Klingnau
+46.9794269,9.4297457,Switzerland,Wahlkreis Sarganserland,Pfäfers,N/A,7317,St. Gallen,N/A,Pfäfers
+46.9793142,9.4223706,Switzerland,Wahlkreis Sarganserland,Pfäfers,N/A,7317,St. Gallen,N/A,Pfäfers
+46.9788731,9.4190178,Switzerland,Wahlkreis Sarganserland,Vilters-Wangs,N/A,7323,St. Gallen,N/A,N/A
+46.9754090,9.4072240,Switzerland,Wahlkreis Sarganserland,Vilters-Wangs,N/A,7323,St. Gallen,N/A,N/A
+46.9650542,9.3756508,Switzerland,Wahlkreis Sarganserland,Mels,N/A,7326,St. Gallen,N/A,Mels
+46.9661916,9.3522379,Switzerland,Wahlkreis Sarganserland,Mels,N/A,7326,St. Gallen,N/A,Mels
+46.9814402,9.3469641,Switzerland,Wahlkreis Sarganserland,Mels,N/A,7326,St. Gallen,N/A,Weisstannen
+46.7729983,8.7465782,Switzerland,N/A,Silenen,N/A,6475,Uri,UR,Silenen
+46.7815588,8.7754817,Switzerland,N/A,Silenen,N/A,N/A,Uri,UR,Silenen
+46.7947950,8.8083262,Switzerland,N/A,Silenen,N/A,N/A,Uri,UR,Silenen
+46.7874793,8.8033043,Switzerland,N/A,Silenen,N/A,N/A,Uri,UR,Silenen
+46.7600689,8.8063435,Switzerland,N/A,Silenen,N/A,N/A,Uri,UR,Silenen
+46.7529915,8.8466774,Switzerland,Surselva,Disentis/Mustér,Cavardiras,N/A,Grisons,GR,Disentis/Mustér
+46.7414670,8.8895135,Switzerland,Surselva,Disentis/Mustér,Punt Barcuns,7182,Grisons,GR,Disentis/Mustér
+46.7236843,8.9267996,Switzerland,Surselva,Sumvitg,N/A,7175,Grisons,GR,Cumpadials
+46.7219217,8.9106556,Switzerland,Surselva,Sumvitg,N/A,7175,Grisons,GR,Cumpadials
+47.3391448,8.7691310,Switzerland,Bezirk Hinwil,Seegräben,N/A,8607,Zurich,ZH,Sack
+47.0142772,8.5555356,Switzerland,Schwyz,Lauerz,N/A,6424,Schwyz,SZ,Lauerz
+47.0157944,8.5638243,Switzerland,Schwyz,Lauerz,N/A,6424,Schwyz,SZ,Lauerz
+47.3809160,7.7497248,Switzerland,Bezirk Waldenburg,Waldenburg,N/A,4437,Basel-Landschaft,BL,Waldenburg
+47.3811486,7.7586338,Switzerland,Bezirk Waldenburg,Waldenburg,N/A,4437,Basel-Landschaft,BL,Waldenburg
+47.3786133,7.7713990,Switzerland,Bezirk Waldenburg,Waldenburg,N/A,4437,Basel-Landschaft,BL,Waldenburg
+47.3770474,7.7850876,Switzerland,Bezirk Waldenburg,Langenbruck,Lauch,4438,Basel-Landschaft,BL,Langenbruck
+47.3741066,7.7953276,Switzerland,Bezirk Waldenburg,Eptingen,N/A,4458,Basel-Landschaft,BL,Eptingen
+47.3684208,7.8000786,Switzerland,Bezirk Waldenburg,Eptingen,N/A,4438,Basel-Landschaft,BL,Eptingen
+47.3545211,7.7655252,Switzerland,Bezirk Waldenburg,Langenbruck,N/A,4438,Basel-Landschaft,BL,Langenbruck
+47.3567646,7.7589523,Switzerland,Bezirk Waldenburg,Langenbruck,N/A,4438,Basel-Landschaft,BL,Langenbruck
+47.3698170,7.7516528,Switzerland,Bezirk Waldenburg,Waldenburg,N/A,4437,Basel-Landschaft,BL,Waldenburg
+47.0008450,6.7975322,Switzerland,N/A,Rochefort,N/A,2019,Neuchâtel,NE,Rochefort
+47.0176240,6.8109911,Switzerland,N/A,Val-de-Ruz,N/A,2019,Neuchâtel,NE,N/A
+47.0265658,6.8212958,Switzerland,N/A,Val-de-Ruz,N/A,2206,Neuchâtel,NE,Les Geneveys-sur-Coffrane
+47.0374001,6.8331348,Switzerland,N/A,Val-de-Ruz,N/A,2314,Neuchâtel,NE,N/A
+47.0487439,6.8467639,Switzerland,N/A,Val-de-Ruz,N/A,2208,Neuchâtel,NE,N/A
+47.0548538,6.8549186,Switzerland,N/A,Val-de-Ruz,N/A,2208,Neuchâtel,NE,N/A
+47.0640287,6.8632931,Switzerland,N/A,Val-de-Ruz,N/A,2208,Neuchâtel,NE,N/A
+47.0592572,6.8707240,Switzerland,N/A,Val-de-Ruz,N/A,2052,Neuchâtel,NE,N/A
+47.0674127,8.2184641,Switzerland,N/A,Lucerne,N/A,6016,Lucerne,LU,N/A
+47.0710115,8.2077621,Switzerland,N/A,Lucerne,N/A,6016,Lucerne,LU,N/A
+47.0728553,8.2115095,Switzerland,N/A,Lucerne,N/A,6016,Lucerne,LU,N/A
+47.0706224,8.1985631,Switzerland,N/A,Neuenkirch,N/A,6016,Lucerne,LU,Hellbühl
+47.0694164,8.2220825,Switzerland,N/A,Lucerne,N/A,6016,Lucerne,LU,N/A
+47.0662254,8.2255817,Switzerland,N/A,Lucerne,N/A,6014,Lucerne,LU,N/A
+47.0600906,8.2084058,Switzerland,N/A,Malters,N/A,6102,Lucerne,LU,Malters
+47.0573093,8.2275911,Switzerland,N/A,Malters,N/A,6102,Lucerne,LU,Malters
+47.0725778,8.2264717,Switzerland,N/A,Lucerne,N/A,6016,Lucerne,LU,N/A
+47.0768969,8.2242565,Switzerland,N/A,Lucerne,N/A,6016,Lucerne,LU,N/A
+47.0725778,8.2264717,Switzerland,N/A,Lucerne,N/A,6016,Lucerne,LU,N/A
+47.3044062,8.8478419,Switzerland,Bezirk Hinwil,Hinwil,N/A,8340,Zurich,ZH,Ringwil
+47.0112425,8.5674115,Switzerland,Schwyz,Lauerz,N/A,6424,Schwyz,SZ,Lauerz
+46.8084915,8.4287571,Switzerland,N/A,Engelberg,N/A,6391,Obwalden,OW,Engelberg
+46.8078592,8.4333772,Switzerland,N/A,Engelberg,N/A,6391,Obwalden,OW,Engelberg
+46.8027390,8.4495195,Switzerland,N/A,Engelberg,N/A,6391,Obwalden,OW,Engelberg
+46.8090195,8.4490720,Switzerland,N/A,Engelberg,N/A,6391,Obwalden,OW,Engelberg
+46.7975812,8.4661666,Switzerland,N/A,Engelberg,N/A,6391,Obwalden,OW,Engelberg
+46.7976513,8.4884875,Switzerland,N/A,Attinghausen,N/A,6468,Uri,UR,Attinghausen
+46.8073903,8.4987666,Switzerland,N/A,Attinghausen,N/A,6468,Uri,UR,Attinghausen
+46.8200857,8.5091798,Switzerland,N/A,Attinghausen,Butzen,6468,Uri,UR,Attinghausen
+46.8311462,8.5307230,Switzerland,N/A,Attinghausen,N/A,6468,Uri,UR,Attinghausen
+46.8387007,8.5817857,Switzerland,N/A,Attinghausen,Kulm,6468,Uri,UR,Attinghausen
+46.8409370,8.5576790,Switzerland,N/A,Isenthal,N/A,6461,Uri,UR,Isenthal
+46.8441639,8.5760813,Switzerland,N/A,Attinghausen,Eyfrutt,6468,Uri,UR,Attinghausen
+46.8454120,8.5944996,Switzerland,N/A,Seedorf (UR),N/A,6462,Uri,UR,Seedorf (UR)
+46.8434325,8.5991908,Switzerland,N/A,Erstfeld,N/A,6472,Uri,UR,Erstfeld
+46.8420383,8.6069284,Switzerland,N/A,Erstfeld,N/A,6472,Uri,UR,Erstfeld
+47.2634571,8.8113496,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Wolfhausen
+47.2473322,8.8191070,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8645,St. Gallen,N/A,N/A
+47.2454945,8.8131129,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8633,St. Gallen,N/A,N/A
+47.2558402,8.8368723,Switzerland,Bezirk Hinwil,Rüti (ZH),N/A,8632,Zurich,ZH,N/A
+47.2481259,8.8120372,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8633,St. Gallen,N/A,N/A
+47.2428529,8.8182308,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8645,St. Gallen,N/A,N/A
+47.2420391,8.8124552,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8645,St. Gallen,N/A,N/A
+47.2397486,8.8174886,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8645,St. Gallen,N/A,N/A
+47.2381302,8.8157630,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A
+47.2318108,8.8181050,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A
+47.2327052,8.8213298,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A
+47.2318265,8.8207999,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A
+47.2304590,8.8215011,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A
+47.2295259,8.8204753,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A
+47.2288785,8.8215300,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A
+47.2268787,8.8174746,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A
+47.2268787,8.8158322,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A
+47.2249908,8.8162452,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A
+47.2540639,8.7717979,Switzerland,Bezirk Meilen,Hombrechtikon,N/A,8634,Zurich,ZH,Hombrechtikon
+47.2599709,8.7868148,Switzerland,Bezirk Hinwil,Bubikon,N/A,8633,Zurich,ZH,Wolfhausen
+47.2692331,8.8008541,Switzerland,Bezirk Hinwil,Bubikon,N/A,8633,Zurich,ZH,Bubikon
+47.2614382,8.7977432,Switzerland,Bezirk Hinwil,Bubikon,N/A,8633,Zurich,ZH,Wolfhausen
+46.6717412,6.4135073,Switzerland,District du Jura-Nord vaudois,La Praz,N/A,1148,Vaud,VD,La Praz
+47.0350818,9.0060363,Switzerland,N/A,Glarus,N/A,8750,Glarus,GL,N/A
+47.0250262,9.0305856,Switzerland,N/A,Glarus,Ahoren,8750,Glarus,GL,N/A
+47.0332850,9.0167941,Switzerland,N/A,Glarus,N/A,8750,Glarus,GL,N/A
+46.5372696,7.7688525,Switzerland,Frutigen-Niedersimmental administrative district,Reichenbach im Kandertal,N/A,3723,Bern,BE,Reichenbach im Kandertal
+47.0449579,8.7202431,Switzerland,Schwyz,Alpthal,N/A,8849,Schwyz,SZ,Brunni
+47.0338658,8.7273620,Switzerland,Schwyz,Alpthal,N/A,8849,Schwyz,SZ,Brunni
+47.0236034,8.7177184,Switzerland,Schwyz,Alpthal,N/A,8849,Schwyz,SZ,Alpthal
+47.0240833,8.7100261,Switzerland,Schwyz,Alpthal,N/A,8849,Schwyz,SZ,Alpthal
+47.0271321,8.7014096,Switzerland,Schwyz,Alpthal,N/A,8849,Schwyz,SZ,Brunni
+46.1821821,7.1192933,Switzerland,Martigny,Fully,L'Erié,1926,Wallis,VS,Fully
+47.5168786,8.1014048,Switzerland,Bezirk Laufenburg,Böztal,N/A,5077,Aargau,AG,Elfingen
+47.5112778,8.1098510,Switzerland,Bezirk Laufenburg,Böztal,N/A,5077,Aargau,AG,Elfingen
+47.5215601,8.0809712,Switzerland,Bezirk Laufenburg,Laufenburg,N/A,5085,Aargau,AG,Sulz
+47.1756604,8.7563491,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.5338084,7.8266673,Switzerland,Bezirk Rheinfelden,Magden,N/A,4312,Aargau,AG,Magden
+47.5335153,7.8404002,Switzerland,Bezirk Rheinfelden,Möhlin,N/A,4464,Aargau,AG,N/A
+47.5387354,7.8716412,Switzerland,Bezirk Rheinfelden,Zeiningen,N/A,4314,Aargau,AG,Zeiningen
+47.5291088,7.8505010,Switzerland,Bezirk Sissach,Maisprach,N/A,4464,Basel-Landschaft,BL,Maisprach
+47.5332877,7.8534772,Switzerland,Bezirk Sissach,Maisprach,N/A,4464,Basel-Landschaft,BL,Maisprach
+47.5232129,7.8584179,Switzerland,Bezirk Sissach,Maisprach,N/A,4464,Basel-Landschaft,BL,Maisprach
+47.5099781,7.8604488,Switzerland,Bezirk Sissach,Buus,N/A,4463,Basel-Landschaft,BL,Buus
+47.5178944,7.8468660,Switzerland,Bezirk Sissach,Maisprach,N/A,4464,Basel-Landschaft,BL,Maisprach
+47.5000602,7.8448398,Switzerland,Bezirk Sissach,Buus,N/A,4463,Basel-Landschaft,BL,Buus
+47.4905691,7.8458410,Switzerland,Bezirk Sissach,Rickenbach (BL),N/A,4462,Basel-Landschaft,BL,Rickenbach (BL)
+47.4838747,7.8198943,Switzerland,Bezirk Sissach,Sissach,N/A,4450,Basel-Landschaft,BL,Sissach
+47.4828568,7.8169037,Switzerland,Bezirk Sissach,Sissach,N/A,4450,Basel-Landschaft,BL,Sissach
+47.4870983,7.7998050,Switzerland,Bezirk Sissach,Nusshof,N/A,4450,Basel-Landschaft,BL,Nusshof
+47.4874010,7.8032958,Switzerland,Bezirk Sissach,Nusshof,N/A,4450,Basel-Landschaft,BL,Nusshof
+47.4856717,7.7951539,Switzerland,Bezirk Sissach,Sissach,N/A,4450,Basel-Landschaft,BL,Sissach
+47.4900382,7.8011321,Switzerland,Bezirk Sissach,Nusshof,N/A,4453,Basel-Landschaft,BL,Nusshof
+47.4994609,7.8045231,Switzerland,Bezirk Rheinfelden,Magden,N/A,4312,Aargau,AG,Magden
+47.5174911,7.8117794,Switzerland,Bezirk Rheinfelden,Magden,N/A,4312,Aargau,AG,Magden
+47.5290459,7.7978014,Switzerland,Bezirk Rheinfelden,Magden,N/A,4312,Aargau,AG,Magden
+47.5394431,7.8024964,Switzerland,Bezirk Rheinfelden,Magden,N/A,4312,Aargau,AG,Magden
+47.1779308,8.7462560,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1793626,8.7575341,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1836887,8.7482144,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1752630,8.7414052,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1864320,8.7475436,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1914480,8.7419149,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1878817,8.7411228,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1906646,8.7309885,Switzerland,Höfe,Freienbach,N/A,8832,Schwyz,SZ,Wilen b. Wollerau
+47.1938844,8.7265302,Switzerland,Höfe,Freienbach,N/A,8832,Schwyz,SZ,Wilen b. Wollerau
+47.1950267,8.7314329,Switzerland,Höfe,Freienbach,N/A,8832,Schwyz,SZ,Wilen b. Wollerau
+47.1940771,8.7332354,Switzerland,Höfe,Freienbach,N/A,8832,Schwyz,SZ,Wilen b. Wollerau
+47.1966385,8.7365679,Switzerland,Höfe,Freienbach,N/A,8806,Schwyz,SZ,Wilen b. Wollerau
+47.1810390,8.7426009,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1800926,8.7298108,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Schindellegi
+47.1754968,8.7248507,Switzerland,Höfe,Feusisberg,N/A,8834,Schwyz,SZ,Schindellegi
+47.1717607,8.7242200,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Schindellegi
+47.1717453,8.7409955,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1726683,8.7384139,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.2697628,8.5567196,Switzerland,Bezirk Horgen,Horgen,N/A,8810,Zurich,ZH,N/A
+47.2674404,8.5586955,Switzerland,Bezirk Horgen,Horgen,N/A,8810,Zurich,ZH,N/A
+47.2690025,8.5583046,Switzerland,Bezirk Horgen,Oberrieden,N/A,8942,Zurich,ZH,Oberrieden
+47.2542416,8.5686358,Switzerland,Bezirk Horgen,Horgen,N/A,8810,Zurich,ZH,N/A
+47.2298498,8.5803718,Switzerland,Bezirk Horgen,Horgen,N/A,8810,Zurich,ZH,N/A
+47.1872869,8.7226421,Switzerland,Höfe,Wollerau,N/A,8832,Schwyz,SZ,Wollerau
+47.1774214,8.7296723,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Schindellegi
+47.1788326,8.7091373,Switzerland,Höfe,Feusisberg,N/A,8834,Schwyz,SZ,Schindellegi
+47.1856947,8.7047854,Switzerland,Höfe,Wollerau,N/A,8832,Schwyz,SZ,Wollerau
+47.1908676,8.7135647,Switzerland,Höfe,Wollerau,N/A,8832,Schwyz,SZ,Wollerau
+47.1894524,8.7152119,Switzerland,Höfe,Wollerau,N/A,8832,Schwyz,SZ,Wollerau
+47.1883961,8.6977083,Switzerland,Höfe,Wollerau,N/A,8832,Schwyz,SZ,Wollerau
+47.1841559,8.6998224,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Schindellegi
+47.5352245,8.2048976,Switzerland,Bezirk Brugg,Villigen,N/A,5318,Aargau,AG,Villigen
+46.4120906,7.4406378,Switzerland,Obersimmental-Saanen administrative district,Lenk,N/A,3775,Bern,BE,Lenk
+46.4108820,7.4422486,Switzerland,Obersimmental-Saanen administrative district,Lenk,N/A,3775,Bern,BE,Lenk
+46.4092088,7.4429651,Switzerland,Obersimmental-Saanen administrative district,Lenk,N/A,3775,Bern,BE,Lenk
+46.4016660,7.4436795,Switzerland,Obersimmental-Saanen administrative district,Lenk,N/A,3775,Bern,BE,Lenk
+46.3945822,7.4460219,Switzerland,Obersimmental-Saanen administrative district,Lenk,N/A,3775,Bern,BE,Lenk
+46.3872633,7.4541798,Switzerland,Obersimmental-Saanen administrative district,Lenk,N/A,3775,Bern,BE,Lenk
+46.3837507,7.4602701,Switzerland,Obersimmental-Saanen administrative district,Lenk,N/A,3775,Bern,BE,Lenk
+46.3828616,7.4646050,Switzerland,Obersimmental-Saanen administrative district,Lenk,N/A,3775,Bern,BE,Lenk
+46.3815925,7.4700185,Switzerland,Obersimmental-Saanen administrative district,Lenk,N/A,3775,Bern,BE,Lenk
+46.3755458,7.4790094,Switzerland,Sierre,Icogne,N/A,1977,Wallis,VS,Icogne
+46.3704645,7.4877982,Switzerland,Sierre,Crans-Montana,N/A,3960,Wallis,VS,Mollens (VS)
+46.3707834,7.4958940,Switzerland,Sierre,Crans-Montana,N/A,3960,Wallis,VS,Mollens (VS)
+46.3665107,7.5034471,Switzerland,Sierre,Crans-Montana,N/A,3960,Wallis,VS,Mollens (VS)
+46.3569686,7.4964299,Switzerland,Sierre,Crans-Montana,N/A,3960,Wallis,VS,Mollens (VS)
+46.3609406,7.4963980,Switzerland,Sierre,Crans-Montana,Les Violettes,3960,Wallis,VS,Randogne
+47.5272509,8.1890628,Switzerland,Bezirk Brugg,Villigen,N/A,5236,Aargau,AG,Villigen
+47.5446915,8.1902233,Switzerland,Bezirk Brugg,Mandach,N/A,5318,Aargau,AG,Mandach
+47.2011000,8.7440819,Switzerland,Höfe,Freienbach,N/A,8806,Schwyz,SZ,Wilen b. Wollerau
+47.2042599,8.7459641,Switzerland,Höfe,Freienbach,N/A,8806,Schwyz,SZ,Wilen b. Wollerau
+47.1969716,8.7403560,Switzerland,Höfe,Freienbach,N/A,8806,Schwyz,SZ,Wilen b. Wollerau
+47.1988607,8.7473280,Switzerland,Höfe,Freienbach,N/A,8807,Schwyz,SZ,Wilen b. Wollerau
+47.2024330,8.7529052,Switzerland,Höfe,Freienbach,N/A,8807,Schwyz,SZ,Wilen b. Wollerau
+47.2003567,8.7565016,Switzerland,Höfe,Freienbach,N/A,8807,Schwyz,SZ,Freienbach
+47.2022625,8.7597761,Switzerland,Höfe,Freienbach,N/A,8808,Schwyz,SZ,Freienbach
+47.2018804,8.7695393,Switzerland,Höfe,Freienbach,N/A,8808,Schwyz,SZ,Freienbach
+47.2049935,8.7671270,Switzerland,Höfe,Freienbach,N/A,8808,Schwyz,SZ,Freienbach
+47.2059663,8.7549849,Switzerland,Höfe,Freienbach,N/A,8808,Schwyz,SZ,Freienbach
+47.2055035,8.7762759,Switzerland,Höfe,Freienbach,N/A,8808,Schwyz,SZ,Freienbach
+47.5825580,8.2244231,Switzerland,Bezirk Zurzach,Leuggern,N/A,5316,Aargau,AG,Gippingen
+47.1858819,8.7603604,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1837327,8.7725174,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1799983,8.7757170,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1796454,8.7688708,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1757521,8.7896002,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Egg
+47.5430406,7.7521233,Switzerland,Bezirk Rheinfelden,Kaiseraugst,N/A,4303,Aargau,AG,Kaiseraugst
+47.3095158,8.6132841,Switzerland,Bezirk Meilen,Küsnacht (ZH),N/A,8700,Zurich,ZH,N/A
+47.1844448,8.7831255,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1787784,8.7827142,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1934272,8.7853287,Switzerland,Höfe,Freienbach,N/A,8808,Schwyz,SZ,Freienbach
+47.1972461,8.7777993,Switzerland,Höfe,Freienbach,N/A,8808,Schwyz,SZ,Freienbach
+47.5609097,7.8120555,Switzerland,Bezirk Rheinfelden,Rheinfelden,N/A,4310,Aargau,AG,N/A
+47.1661039,8.7808700,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Egg
+47.1719144,8.7758286,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Egg
+47.1757315,8.7698299,Switzerland,Einsiedeln,Einsiedeln,N/A,8847,Schwyz,SZ,N/A
+47.1750162,8.7587535,Switzerland,Höfe,Feusisberg,N/A,8840,Schwyz,SZ,Egg
+47.1693609,8.7639293,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Egg
+47.1705071,8.7692019,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Egg
+47.1616537,8.7818794,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Egg
+47.5304719,7.8167732,Switzerland,Bezirk Rheinfelden,Magden,N/A,4312,Aargau,AG,Magden
+47.1391455,8.7544271,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,N/A
+47.1566133,8.7579471,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,N/A
+47.1383786,8.7575924,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,N/A
+46.0529077,7.3047994,Switzerland,Entremont,Val de Bagnes,N/A,1934,Wallis,VS,Fionnay
+47.1555360,8.7723368,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Egg
+47.1645477,8.7739149,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Egg
+47.1585409,8.7674345,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Egg
+46.0386997,7.3042478,Switzerland,Entremont,Val de Bagnes,N/A,1934,Wallis,VS,Fionnay
+46.0264382,7.3189395,Switzerland,Entremont,Val de Bagnes,N/A,1934,Wallis,VS,Fionnay
+46.0121862,7.3353701,Switzerland,Entremont,Val de Bagnes,N/A,1934,Wallis,VS,N/A
+46.0000205,7.3427264,Switzerland,Entremont,Val de Bagnes,N/A,1934,Wallis,VS,N/A
+46.0010420,7.3390405,Switzerland,Entremont,Val de Bagnes,N/A,1934,Wallis,VS,N/A
+46.0024013,7.3216154,Switzerland,Entremont,Val de Bagnes,N/A,1934,Wallis,VS,N/A
+45.9963668,7.3050350,Switzerland,Entremont,Val de Bagnes,N/A,1934,Wallis,VS,N/A
+46.0080117,7.2946114,Switzerland,Entremont,Val de Bagnes,N/A,1934,Wallis,VS,N/A
+47.1525903,8.7455677,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Bennau
+47.1563826,8.7504540,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Bennau
+47.1648581,8.7636734,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,N/A
+47.1621996,8.7540981,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,N/A
+47.1552104,8.7278832,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Bennau
+47.1513385,8.7319910,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Bennau
+47.1526766,8.7261080,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Bennau
+47.5014575,8.1131687,Switzerland,Bezirk Laufenburg,Böztal,N/A,5078,Aargau,AG,Effingen
+46.0238794,7.2801839,Switzerland,Entremont,Val de Bagnes,La Maye,1934,Wallis,VS,N/A
+46.0333132,7.2587795,Switzerland,Entremont,Val de Bagnes,N/A,1934,Wallis,VS,N/A
+46.0261057,7.2322741,Switzerland,Entremont,Val de Bagnes,N/A,1934,Wallis,VS,Champsec
+46.0167768,7.2148168,Switzerland,Entremont,Orsières,N/A,1945,Wallis,VS,Orsières
+46.0092426,7.2099956,Switzerland,Entremont,Liddes,N/A,1945,Wallis,VS,Liddes
+46.0020210,7.2029378,Switzerland,Entremont,Liddes,N/A,1945,Wallis,VS,Liddes
+45.9954124,7.1895210,Switzerland,Entremont,Liddes,N/A,1945,Wallis,VS,Dranse (Liddes)
+47.4477823,8.1764360,Switzerland,Bezirk Brugg,Lupfig,Langacher,5246,Aargau,AG,Scherz
+47.4052343,7.2325226,Switzerland,District de Delémont,Bourrignon,N/A,2803,Jura,JU,Bourrignon
+47.1754799,8.7109137,Switzerland,Höfe,Feusisberg,N/A,8834,Schwyz,SZ,Schindellegi
+47.1661707,8.8384524,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1629025,8.8311119,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1606362,8.8250912,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1588567,8.8164774,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,N/A
+47.1643272,8.8046856,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Egg
+47.1666369,8.7893400,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Egg
+47.1680188,8.7947760,Switzerland,Einsiedeln,Einsiedeln,N/A,8847,Schwyz,SZ,Egg
+47.1775432,8.8050972,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1730325,8.7895142,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Egg
+47.1709139,8.7840783,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Egg
+47.1777067,8.8154793,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1720541,8.8354506,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.0691348,7.6959456,Switzerland,Emmental administrative district,Heimiswil,N/A,3413,Bern,BE,Heimiswil
+47.1891339,8.7740496,Switzerland,Höfe,Freienbach,N/A,8808,Schwyz,SZ,Freienbach
+47.1870408,8.8452144,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1836396,8.8341409,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1827681,8.8176027,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1829722,8.7998298,Switzerland,Höfe,Freienbach,N/A,8808,Schwyz,SZ,Freienbach
+47.1816234,8.8068920,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1972268,8.7148570,Switzerland,Höfe,Wollerau,N/A,8832,Schwyz,SZ,Wollerau
+47.2038107,8.7059194,Switzerland,Bezirk Horgen,Richterswil,N/A,8805,Zurich,ZH,N/A
+47.1592322,8.7433779,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Bennau
+47.3466599,8.6698221,Switzerland,Bezirk Uster,Maur,N/A,8124,Zurich,ZH,Maur
+47.3701844,8.6630034,Switzerland,Bezirk Uster,Schwerzenbach,N/A,8603,Zurich,ZH,Schwerzenbach
+47.3746637,8.6664707,Switzerland,Bezirk Uster,Schwerzenbach,N/A,8603,Zurich,ZH,Schwerzenbach
+47.3375595,8.7010074,Switzerland,Bezirk Uster,Uster,N/A,8616,Zurich,ZH,Riedikon
+47.3304037,8.6938816,Switzerland,Bezirk Uster,Maur,N/A,9610,Zurich,ZH,Maur
+47.3400781,8.6741228,Switzerland,Bezirk Uster,Maur,N/A,8124,Zurich,ZH,Aesch
+47.3587555,8.6463957,Switzerland,Bezirk Uster,Fällanden,N/A,8121,Zurich,ZH,Benglen
+47.3541677,8.6831021,Switzerland,Bezirk Uster,Greifensee,N/A,8606,Zurich,ZH,Greifensee
+47.3395449,8.6453312,Switzerland,Bezirk Uster,Maur,N/A,8123,Zurich,ZH,Ebmatingen
+47.3228115,8.7024345,Switzerland,Bezirk Uster,Mönchaltorf,N/A,8616,Zurich,ZH,Mönchaltorf
+47.3071475,8.6930593,Switzerland,Bezirk Uster,Egg,N/A,8132,Zurich,ZH,Hinteregg
+47.3027893,8.6757174,Switzerland,Bezirk Uster,Egg,N/A,8132,Zurich,ZH,Hinteregg
+47.2956212,8.6828284,Switzerland,Bezirk Uster,Egg,N/A,8132,Zurich,ZH,Hinteregg
+47.3214014,8.6646915,Switzerland,Bezirk Uster,Maur,N/A,8127,Zurich,ZH,Aesch
+47.3172978,8.7139158,Switzerland,Bezirk Uster,Mönchaltorf,N/A,8617,Zurich,ZH,Mönchaltorf
+47.3017791,8.7117603,Switzerland,Bezirk Uster,Mönchaltorf,N/A,8617,Zurich,ZH,Esslingen
+47.3337163,8.7368321,Switzerland,Bezirk Uster,Uster,N/A,8614,Zurich,ZH,Sulzbach
+47.3562883,8.7094599,Switzerland,Bezirk Uster,Uster,N/A,8610,Zurich,ZH,N/A
+47.3656125,8.6934648,Switzerland,Bezirk Uster,Uster,N/A,8606,Zurich,ZH,Nänikon
+47.3776596,8.7050805,Switzerland,Bezirk Uster,Uster,N/A,8605,Zurich,ZH,Nänikon
+47.3668010,8.6810736,Switzerland,Bezirk Uster,Greifensee,N/A,8606,Zurich,ZH,Greifensee
+47.3708479,8.6688914,Switzerland,Bezirk Uster,Greifensee,N/A,8606,Zurich,ZH,Greifensee
+47.3766974,8.6729564,Switzerland,Bezirk Uster,Greifensee,N/A,8606,Zurich,ZH,Greifensee
+47.3753272,8.6569492,Switzerland,Bezirk Uster,Schwerzenbach,N/A,8603,Zurich,ZH,Schwerzenbach
+47.3871041,8.6411758,Switzerland,Bezirk Uster,Dübendorf,N/A,8603,Zurich,ZH,N/A
+47.3922619,8.6409709,Switzerland,Bezirk Uster,Dübendorf,N/A,8603,Zurich,ZH,N/A
+47.3669796,8.6094415,Switzerland,District Zurich,Zurich,N/A,8053,Zurich,ZH,N/A
+47.3708481,8.5947561,Switzerland,District Zurich,Zurich,N/A,8053,Zurich,ZH,N/A
+47.3684703,8.5836298,Switzerland,District Zurich,Zurich,N/A,8032,Zurich,ZH,N/A
+47.3732305,8.5907687,Switzerland,District Zurich,Zurich,N/A,8053,Zurich,ZH,N/A
+47.3715325,8.5778304,Switzerland,District Zurich,Zurich,N/A,8032,Zurich,ZH,N/A
+47.3699544,8.6139650,Switzerland,Bezirk Uster,Dübendorf,N/A,8044,Zurich,ZH,N/A
+47.5451070,7.6725354,Germany,Landkreis Lörrach,N/A,N/A,79639,Baden-Württemberg,BW,N/A
+47.1947444,8.8195946,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1976959,8.8143401,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.2018647,8.7950133,Switzerland,Höfe,Freienbach,N/A,8808,Schwyz,SZ,Freienbach
+47.1966733,8.8053769,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1940513,8.8225057,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1932990,8.7975121,Switzerland,Höfe,Freienbach,N/A,8808,Schwyz,SZ,Freienbach
+47.1956316,8.7930325,Switzerland,Höfe,Freienbach,N/A,8808,Schwyz,SZ,Freienbach
+47.1978379,8.7870303,Switzerland,Höfe,Freienbach,N/A,8808,Schwyz,SZ,Freienbach
+47.1918869,8.8226226,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1919215,8.8104814,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1919230,8.8108964,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1911318,8.8130248,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1908564,8.8015262,Switzerland,March,Altendorf,N/A,8808,Schwyz,SZ,Altendorf
+47.1852368,8.8048190,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.3178043,8.7539422,Switzerland,Bezirk Hinwil,Gossau (ZH),N/A,8614,Zurich,ZH,Bertschikon (Gossau ZH)
+47.3043269,8.7463027,Switzerland,Bezirk Hinwil,Gossau (ZH),N/A,8625,Zurich,ZH,N/A
+47.3349326,8.7213397,Switzerland,Bezirk Uster,Uster,N/A,8616,Zurich,ZH,Riedikon
+47.3258712,8.7263814,Switzerland,Bezirk Uster,Uster,N/A,8616,Zurich,ZH,Riedikon
+47.3787972,8.5745852,Switzerland,District Zurich,Zurich,N/A,8044,Zurich,ZH,N/A
+47.3781402,8.9321274,Switzerland,Bezirk Pfäffikon,Bauma,N/A,8499,Zurich,ZH,Sternenberg
+47.3733070,8.9356321,Switzerland,Bezirk Pfäffikon,Bauma,N/A,8499,Zurich,ZH,Sternenberg
+47.4742841,8.3070817,Switzerland,Bezirk Baden,Baden,N/A,5401,Aargau,AG,N/A
+47.4720897,8.2923794,Switzerland,Bezirk Baden,Baden,N/A,5400,Aargau,AG,N/A
+47.4749030,8.2712198,Switzerland,Bezirk Baden,Baden,N/A,5300,Aargau,AG,N/A
+47.4828962,8.2555286,Switzerland,Bezirk Baden,Gebenstorf,N/A,5412,Aargau,AG,Gebenstorf
+47.4832920,8.2459971,Switzerland,Bezirk Baden,Gebenstorf,N/A,5412,Aargau,AG,Gebenstorf
+47.4815112,8.2284885,Switzerland,Bezirk Brugg,Windisch,N/A,5210,Aargau,AG,Windisch
+47.4833876,8.2169011,Switzerland,Bezirk Brugg,Windisch,N/A,5210,Aargau,AG,Windisch
+47.4741589,8.3117108,Switzerland,Bezirk Baden,Ennetbaden,N/A,5408,Aargau,AG,Ennetbaden
+47.4771386,8.3337808,Switzerland,Bezirk Baden,Ennetbaden,N/A,5408,Aargau,AG,Ennetbaden
+47.4803571,8.3581996,Switzerland,Bezirk Baden,Ehrendingen,N/A,5420,Aargau,AG,Ehrendingen
+47.4934744,8.3711082,Switzerland,Bezirk Dielsdorf,Niederweningen,N/A,8166,Zurich,ZH,Niederweningen
+47.3870701,8.9118066,Switzerland,Bezirk Pfäffikon,Bauma,N/A,8499,Zurich,ZH,Sternenberg
+47.3811265,8.9350546,Switzerland,Bezirk Pfäffikon,Bauma,N/A,8499,Zurich,ZH,Bauma
+47.3551049,8.5983308,Switzerland,District Zurich,Zurich,N/A,8053,Zurich,ZH,N/A
+46.6545434,8.4888363,Switzerland,N/A,Göschenen,N/A,6487,Uri,UR,Göschenen
+47.1940419,8.8267698,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1920900,8.8421007,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1856135,8.8162082,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1881674,8.8252404,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1895823,8.8357595,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1798522,8.8262589,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1697173,8.8242538,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1783884,8.8474561,Switzerland,March,Altendorf,N/A,8853,Schwyz,SZ,Altendorf
+47.1900819,8.8529249,Switzerland,March,Lachen,N/A,8853,Schwyz,SZ,Lachen
+47.1981425,8.7230099,Switzerland,Höfe,Wollerau,N/A,8832,Schwyz,SZ,Wollerau
+47.1752978,8.8041773,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1945479,8.7037693,Switzerland,Höfe,Wollerau,N/A,8832,Schwyz,SZ,Wollerau
+47.1904472,8.4633561,Switzerland,N/A,Cham,N/A,6330,Zug,ZG,N/A
+47.1948863,8.4631434,Switzerland,N/A,Cham,N/A,6330,Zug,ZG,N/A
+47.1955164,8.4576108,Switzerland,N/A,Cham,N/A,6330,Zug,ZG,N/A
+47.1968069,8.4664259,Switzerland,N/A,Cham,N/A,6330,Zug,ZG,N/A
+47.1998020,8.4662251,Switzerland,N/A,Cham,N/A,6330,Zug,ZG,N/A
+47.2037337,8.4683380,Switzerland,N/A,Cham,N/A,6312,Zug,ZG,N/A
+46.7080541,8.2271796,Switzerland,Interlaken-Oberhasli administrative district,Innertkirchen,N/A,3862,Bern,BE,Innertkirchen
+46.7165183,8.2173578,Switzerland,Interlaken-Oberhasli administrative district,Innertkirchen,N/A,3862,Bern,BE,Innertkirchen
+47.5389666,7.7882616,Switzerland,Bezirk Rheinfelden,Rheinfelden,N/A,4310,Aargau,AG,N/A
+47.4750301,8.1870560,Switzerland,Bezirk Brugg,Villnachern,N/A,5213,Aargau,AG,Villnachern
+47.4667464,8.1651629,Switzerland,Bezirk Brugg,Villnachern,N/A,5213,Aargau,AG,Villnachern
+47.4706088,8.1479336,Switzerland,Bezirk Brugg,Villnachern,Vorderbuech,5213,Aargau,AG,Villnachern
+47.4736475,8.1359322,Switzerland,Bezirk Brugg,Bözberg,N/A,5213,Aargau,AG,N/A
+47.4787920,8.1492082,Switzerland,Bezirk Brugg,Villnachern,N/A,5213,Aargau,AG,Villnachern
+47.4822154,8.1729453,Switzerland,Bezirk Brugg,Bözberg,N/A,5225,Aargau,AG,Hafen
+47.4852741,8.1978289,Switzerland,Bezirk Brugg,Brugg,N/A,5200,Aargau,AG,Umiken
+47.0860197,8.9164711,Switzerland,March,Innerthal,N/A,8858,Schwyz,SZ,Innerthal
+47.4668941,8.1290590,Switzerland,Bezirk Brugg,Schinznach,N/A,5224,Aargau,AG,Linn
+47.4588544,8.1185936,Switzerland,Bezirk Brugg,Schinznach,N/A,5107,Aargau,AG,Schinznach
+47.4534109,8.1065028,Switzerland,Bezirk Brugg,Thalheim,N/A,5112,Aargau,AG,Thalheim
+47.4505474,8.0975447,Switzerland,Bezirk Brugg,Thalheim,N/A,5112,Aargau,AG,Thalheim
+47.4342341,8.0633253,Switzerland,Bezirk Aarau,Densbüren,N/A,5025,Aargau,AG,Asp
+47.4350569,8.0528756,Switzerland,Bezirk Aarau,Densbüren,N/A,5025,Aargau,AG,Asp
+47.4361763,8.0376008,Switzerland,Bezirk Aarau,Küttigen,N/A,5025,Aargau,AG,Küttigen
+47.4341796,8.0225403,Switzerland,Bezirk Aarau,Küttigen,N/A,5025,Aargau,AG,Küttigen
+47.4312627,8.0193420,Switzerland,Bezirk Aarau,Küttigen,N/A,5025,Aargau,AG,Küttigen
+47.4299057,8.0085183,Switzerland,Bezirk Laufenburg,Oberhof,N/A,5062,Aargau,AG,Oberhof
+47.4287041,7.9901902,Switzerland,Bezirk Aarau,Erlinsbach (AG),N/A,5017,Aargau,AG,Erlinsbach (AG)
+47.4243885,7.9718974,Switzerland,Bezirk Aarau,Erlinsbach (AG),N/A,5017,Aargau,AG,Erlinsbach (AG)
+47.4190736,7.9546139,Switzerland,Bezirk Sissach,Oltingen,N/A,4494,Basel-Landschaft,BL,Oltingen
+47.4168200,7.9485446,Switzerland,Bezirk Sissach,Oltingen,N/A,4494,Basel-Landschaft,BL,Oltingen
+47.4116691,7.9402158,Switzerland,Amtei Olten-Gösgen,Stüsslingen,N/A,4655,Solothurn,SO,Rohr
+47.4071038,7.9331539,Switzerland,Amtei Olten-Gösgen,Stüsslingen,N/A,4655,Solothurn,SO,Rohr
+47.4044418,7.9289011,Switzerland,Amtei Olten-Gösgen,Stüsslingen,N/A,4655,Solothurn,SO,Rohr
+47.3975589,7.9152875,Switzerland,Amtei Olten-Gösgen,Lostorf,N/A,4654,Solothurn,SO,Mahren
+47.3903361,7.9051695,Switzerland,Amtei Olten-Gösgen,Wisen (SO),N/A,4634,Solothurn,SO,Wisen (SO)
+47.3859966,7.8991119,Switzerland,Amtei Olten-Gösgen,Lostorf,N/A,4654,Solothurn,SO,Lostorf
+47.3812345,7.8831017,Switzerland,Amtei Olten-Gösgen,Trimbach,N/A,4632,Solothurn,SO,Trimbach
+47.0342380,8.7132089,Switzerland,Schwyz,Alpthal,N/A,8849,Schwyz,SZ,Brunni
+47.3957104,8.5575103,Switzerland,District Zurich,Zurich,N/A,8057,Zurich,ZH,N/A
+46.9135897,9.0966700,Switzerland,N/A,Glarus Süd,Steinböden,N/A,Glarus,GL,N/A
+46.9125445,9.0739501,Switzerland,N/A,Glarus Süd,Fäneli,N/A,Glarus,GL,N/A
+45.9328427,8.9921042,Switzerland,Distretto di Lugano,Val Mara,N/A,6821,Ticino,TI,Rovio
+45.9269156,8.9994250,Switzerland,Distretto di Lugano,Val Mara,N/A,6821,Ticino,TI,Rovio
+45.9163944,9.0031667,Switzerland,Distretto di Mendrisio,Castel San Pietro,N/A,6875,Ticino,TI,Castel San Pietro
+45.9199430,9.0109448,Switzerland,Distretto di Mendrisio,Castel San Pietro,N/A,6875,Ticino,TI,Castel San Pietro
+45.9402604,9.0177188,Switzerland,Distretto di Lugano,Val Mara,N/A,6821,Ticino,TI,Rovio
+45.9540748,9.0090382,Switzerland,Distretto di Lugano,Arogno,N/A,6821,Ticino,TI,Arogno
+45.9569876,9.0008553,Switzerland,Distretto di Lugano,Arogno,N/A,6822,Ticino,TI,Arogno
+45.9438365,8.9885252,Switzerland,Distretto di Lugano,Arogno,N/A,6821,Ticino,TI,Arogno
+46.4884439,9.1764608,Switzerland,Moësa,Mesocco,N/A,6565,Grisons,GR,San Bernardino
+46.4749660,9.1855158,Switzerland,Moësa,Mesocco,N/A,6565,Grisons,GR,San Bernardino
+46.0084694,8.9989771,Switzerland,Distretto di Lugano,Lugano,N/A,6979,Ticino,TI,N/A
+46.0167402,8.9982248,Switzerland,Distretto di Lugano,Lugano,N/A,6979,Ticino,TI,N/A
+46.0282957,8.9999174,Switzerland,Distretto di Lugano,Lugano,N/A,6979,Ticino,TI,N/A
+46.0379720,9.0093920,Switzerland,Distretto di Lugano,Lugano,N/A,6966,Ticino,TI,Villa Luganese
+46.0344746,9.0095824,Switzerland,Distretto di Lugano,Lugano,N/A,6966,Ticino,TI,Villa Luganese
+46.0260373,9.0037367,Switzerland,Distretto di Lugano,Lugano,N/A,6979,Ticino,TI,N/A
+47.2185095,8.6905694,Switzerland,Bezirk Horgen,Richterswil,N/A,8805,Zurich,ZH,N/A
+47.4055233,8.6321305,Switzerland,Bezirk Uster,Dübendorf,N/A,8600,Zurich,ZH,N/A
+47.3907653,8.6282410,Switzerland,Bezirk Uster,Dübendorf,N/A,8600,Zurich,ZH,N/A
+47.3910335,8.6117133,Switzerland,Bezirk Uster,Dübendorf,N/A,8044,Zurich,ZH,N/A
+47.3879259,8.5949543,Switzerland,Bezirk Uster,Dübendorf,N/A,8301,Zurich,ZH,N/A
+47.4290052,8.5036142,Switzerland,District Zurich,Zurich,N/A,8046,Zurich,ZH,N/A
+47.3877691,8.0240059,Switzerland,Amtei Olten-Gösgen,Eppenberg-Wöschnau,N/A,5012,Solothurn,SO,Eppenberg-Wöschnau
+47.3946155,8.0425961,Switzerland,Bezirk Aarau,Aarau,N/A,5000,Aargau,AG,N/A
+47.3952101,8.0221648,Switzerland,Bezirk Aarau,Erlinsbach (AG),N/A,5018,Aargau,AG,Erlinsbach (AG)
+47.4450594,8.5200249,Switzerland,Bezirk Dielsdorf,Rümlang,N/A,8153,Zurich,ZH,Rümlang
+47.4005897,8.0578466,Switzerland,Bezirk Aarau,Aarau,N/A,5000,Aargau,AG,N/A
+47.3792640,8.0053782,Switzerland,Amtei Olten-Gösgen,Schönenwerd,N/A,5012,Solothurn,SO,Schönenwerd
+47.0326042,6.9653022,Switzerland,N/A,Neuchâtel,N/A,2067,Neuchâtel,NE,Savagnier
+47.0435576,6.9770474,Switzerland,N/A,Neuchâtel,N/A,2067,Neuchâtel,NE,Savagnier
+47.0502414,6.9803726,Switzerland,N/A,Neuchâtel,N/A,2067,Neuchâtel,NE,N/A
+47.4991069,7.7521309,Switzerland,Bezirk Liestal,Liestal,N/A,4422,Basel-Landschaft,BL,N/A
+47.3858635,8.0121148,Switzerland,Amtei Olten-Gösgen,Erlinsbach (SO),N/A,5015,Solothurn,SO,Erlinsbach (SO)
+47.3891245,8.0245703,Switzerland,Amtei Olten-Gösgen,Eppenberg-Wöschnau,N/A,5012,Solothurn,SO,Eppenberg-Wöschnau
+47.3968996,8.0449461,Switzerland,Bezirk Aarau,Aarau,N/A,5000,Aargau,AG,N/A
+47.3981546,8.0386306,Switzerland,Bezirk Aarau,Aarau,N/A,5000,Aargau,AG,N/A
+46.7812328,8.6680717,Switzerland,N/A,Silenen,N/A,6474,Uri,UR,Amsteg
+46.8072628,8.6571537,Switzerland,N/A,Erstfeld,N/A,6472,Uri,UR,Erstfeld
+46.8416027,8.6386090,Switzerland,N/A,Erstfeld,N/A,6472,Uri,UR,Erstfeld
+46.8740095,8.6261512,Switzerland,N/A,Altdorf (UR),N/A,6460,Uri,UR,N/A
+46.8862973,8.6118292,Switzerland,N/A,Seedorf (UR),N/A,6462,Uri,UR,Seedorf (UR)
+46.8904069,8.5997437,Switzerland,N/A,Seedorf (UR),N/A,6462,Uri,UR,Seedorf (UR)
+46.8956564,8.5945066,Switzerland,N/A,Seedorf (UR),N/A,6462,Uri,UR,Seedorf (UR)
+46.9080737,8.5935955,Switzerland,N/A,Seedorf (UR),N/A,6461,Uri,UR,Isleten
+46.9274005,8.5868162,Switzerland,N/A,Seedorf (UR),N/A,6466,Uri,UR,Bauen
+47.3805527,8.5868401,Switzerland,District Zurich,Zurich,N/A,8044,Zurich,ZH,N/A
+47.3787951,8.5885254,Switzerland,District Zurich,Zurich,N/A,8053,Zurich,ZH,N/A
+47.3885703,8.5889556,Switzerland,Bezirk Uster,Dübendorf,N/A,8051,Zurich,ZH,N/A
+47.3955560,8.5949348,Switzerland,Bezirk Uster,Dübendorf,N/A,8301,Zurich,ZH,N/A
+47.5106293,7.8918880,Switzerland,Bezirk Rheinfelden,Zuzgen,N/A,4315,Aargau,AG,Zuzgen
+47.4943099,7.8776687,Switzerland,Bezirk Sissach,Buus,N/A,4463,Basel-Landschaft,BL,Buus
+47.4975750,7.8914074,Switzerland,Bezirk Sissach,Hemmiken,N/A,4465,Basel-Landschaft,BL,Hemmiken
+47.5030029,7.9121543,Switzerland,Bezirk Rheinfelden,Hellikon,N/A,4316,Aargau,AG,Hellikon
+47.4922201,7.9012098,Switzerland,Bezirk Sissach,Hemmiken,N/A,4465,Basel-Landschaft,BL,Hemmiken
+47.4780681,7.8894662,Switzerland,Bezirk Sissach,Ormalingen,N/A,4466,Basel-Landschaft,BL,Ormalingen
+47.4875196,7.9023118,Switzerland,Bezirk Sissach,Hemmiken,N/A,4465,Basel-Landschaft,BL,Hemmiken
+47.4858283,7.9046804,Switzerland,Bezirk Sissach,Hemmiken,N/A,4317,Basel-Landschaft,BL,Hemmiken
+47.4848906,7.9084609,Switzerland,Bezirk Rheinfelden,Wegenstetten,N/A,4317,Aargau,AG,Wegenstetten
+47.4737944,7.9101007,Switzerland,Bezirk Sissach,Rothenfluh,N/A,4467,Basel-Landschaft,BL,Rothenfluh
+47.4836875,7.9225125,Switzerland,Bezirk Sissach,Rothenfluh,N/A,4467,Basel-Landschaft,BL,Rothenfluh
+47.4837610,7.9355129,Switzerland,Bezirk Rheinfelden,Wegenstetten,N/A,4317,Aargau,AG,Wegenstetten
+47.4806944,7.9354266,Switzerland,Bezirk Sissach,Rothenfluh,N/A,4467,Basel-Landschaft,BL,Rothenfluh
+47.4860755,7.9420952,Switzerland,Bezirk Laufenburg,Wittnau,N/A,5064,Aargau,AG,Wittnau
+47.4825180,7.9613094,Switzerland,Bezirk Laufenburg,Wittnau,N/A,5064,Aargau,AG,Wittnau
+47.4882103,7.9479645,Switzerland,Bezirk Laufenburg,Wittnau,N/A,5064,Aargau,AG,Wittnau
+47.4997940,7.9528965,Switzerland,Bezirk Rheinfelden,Wegenstetten,N/A,4317,Aargau,AG,Wegenstetten
+47.5101950,7.9590090,Switzerland,Bezirk Rheinfelden,Schupfart,N/A,4325,Aargau,AG,Schupfart
+47.5121896,7.9417087,Switzerland,Bezirk Rheinfelden,Hellikon,N/A,4316,Aargau,AG,Hellikon
+46.8871038,8.6046339,Switzerland,N/A,Seedorf (UR),N/A,6462,Uri,UR,Seedorf (UR)
+46.8926860,8.6088519,Switzerland,N/A,Seedorf (UR),N/A,6462,Uri,UR,Seedorf (UR)
+46.8954376,8.6107623,Switzerland,N/A,Seedorf (UR),N/A,6462,Uri,UR,Seedorf (UR)
+46.8970367,8.6167739,Switzerland,N/A,Flüelen,N/A,6460,Uri,UR,Flüelen
+46.8997823,8.6217725,Switzerland,N/A,Flüelen,N/A,6454,Uri,UR,Flüelen
+46.9086132,8.6233753,Switzerland,N/A,Flüelen,N/A,6454,Uri,UR,Flüelen
+47.4101764,8.6105659,Switzerland,Bezirk Bülach,Wallisellen,N/A,8304,Zurich,ZH,N/A
+47.3980150,8.0479987,Switzerland,Bezirk Aarau,Aarau,N/A,5000,Aargau,AG,N/A
+47.3660371,8.6360167,Switzerland,Bezirk Uster,Fällanden,N/A,8121,Zurich,ZH,Benglen
+47.3564117,8.6372329,Switzerland,Bezirk Uster,Maur,N/A,8121,Zurich,ZH,Ebmatingen
+47.3894024,8.5154535,Switzerland,District Zurich,Zurich,N/A,8010,Zurich,ZH,N/A
+46.9887129,6.8888258,Switzerland,N/A,Neuchâtel,N/A,2034,Neuchâtel,NE,Peseux
+47.0354278,6.9855029,Switzerland,N/A,Saint-Blaise,N/A,2072,Neuchâtel,NE,Saint-Blaise
+47.0065444,6.9415807,Switzerland,N/A,Neuchâtel,N/A,2000,Neuchâtel,NE,N/A
+47.1846354,8.6971726,Switzerland,Höfe,Wollerau,N/A,8832,Schwyz,SZ,Wollerau
+47.3795703,8.5909386,Switzerland,District Zurich,Zurich,N/A,8053,Zurich,ZH,N/A
+47.5155842,8.0807107,Switzerland,Bezirk Laufenburg,Böztal,N/A,5075,Aargau,AG,Hornussen
+47.5168655,8.1005584,Switzerland,Bezirk Laufenburg,Böztal,N/A,5077,Aargau,AG,Elfingen
+47.4040957,8.4551314,Switzerland,Bezirk Dietikon,Schlieren,N/A,8952,Zurich,ZH,N/A
+47.4663062,8.4254907,Switzerland,Bezirk Dielsdorf,Buchs (ZH),N/A,8107,Zurich,ZH,Buchs (ZH)
+47.4141375,8.4369682,Switzerland,Bezirk Dietikon,Weiningen (ZH),N/A,8104,Zurich,ZH,Weiningen (ZH)
+47.4169639,8.0895819,Switzerland,Bezirk Aarau,Biberstein,N/A,5023,Aargau,AG,Biberstein
+47.4077891,8.0747748,Switzerland,Bezirk Aarau,Biberstein,N/A,5023,Aargau,AG,Biberstein
+47.4107209,8.1025445,Switzerland,Bezirk Aarau,Biberstein,N/A,5023,Aargau,AG,Biberstein
+47.3973039,8.0711481,Switzerland,Bezirk Aarau,Buchs (AG),N/A,5033,Aargau,AG,Buchs (AG)
+47.4837224,8.1371928,Switzerland,Bezirk Brugg,Bözberg,N/A,5224,Aargau,AG,Gallenkirch
+47.4884798,8.1207330,Switzerland,Bezirk Laufenburg,Böztal,N/A,5078,Aargau,AG,Effingen
+47.4883989,8.1207330,Switzerland,Bezirk Laufenburg,Böztal,N/A,5078,Aargau,AG,Effingen
+47.4642651,8.1000589,Switzerland,Bezirk Laufenburg,Zeihen,N/A,5079,Aargau,AG,Oberzeihen
+47.4551742,8.0980514,Switzerland,Bezirk Brugg,Thalheim,N/A,5112,Aargau,AG,Thalheim
+47.4559297,8.1031176,Switzerland,Bezirk Brugg,Thalheim,N/A,5112,Aargau,AG,Thalheim
+47.5250231,8.2111192,Switzerland,Bezirk Brugg,Villigen,N/A,5234,Aargau,AG,Villigen
+47.5237821,8.2108154,Switzerland,Bezirk Brugg,Villigen,N/A,5234,Aargau,AG,Villigen
+46.9686563,6.8769867,Switzerland,N/A,Milvignes,N/A,2012,Neuchâtel,NE,N/A
+46.9561158,6.8724489,Switzerland,N/A,Milvignes,N/A,2013,Neuchâtel,NE,N/A
+47.4175812,8.4574470,Switzerland,Bezirk Dietikon,Unterengstringen,N/A,8103,Zurich,ZH,Unterengstringen
+47.4249284,8.4340752,Switzerland,Bezirk Dietikon,Weiningen (ZH),N/A,8104,Zurich,ZH,Weiningen (ZH)
+47.5085772,8.2069232,Switzerland,Bezirk Brugg,Rüfenach,N/A,5235,Aargau,AG,Hinterrein
+47.4497270,8.1241493,Switzerland,Bezirk Brugg,Schinznach,N/A,5108,Aargau,AG,Oberflachs
+46.9636921,6.8126814,Switzerland,N/A,Boudry,N/A,2019,Neuchâtel,NE,Boudry
+46.9622543,6.7972533,Switzerland,N/A,Boudry,N/A,2019,Neuchâtel,NE,Boudry
+46.9595448,6.7768859,Switzerland,N/A,Boudry,N/A,2149,Neuchâtel,NE,Boudry
+46.9623877,6.7909673,Switzerland,N/A,Boudry,N/A,2149,Neuchâtel,NE,Boudry
+47.4780836,8.4317412,Switzerland,Bezirk Dielsdorf,Regensberg,N/A,8158,Zurich,ZH,Regensberg
+47.1600791,8.4538079,Switzerland,N/A,Risch-Rotkreuz,N/A,6343,Zug,ZG,Holzhäusern
+46.9960780,6.8824555,Switzerland,N/A,Neuchâtel,N/A,2034,Neuchâtel,NE,Peseux
+47.4799180,8.1592163,Switzerland,Bezirk Brugg,Bözberg,N/A,5225,Aargau,AG,Ursprung
+47.4896890,8.1744283,Switzerland,Bezirk Brugg,Riniken,N/A,5223,Aargau,AG,Riniken
+47.4886426,8.1499462,Switzerland,Bezirk Brugg,Bözberg,N/A,5225,Aargau,AG,Ursprung
+47.4940419,8.1579513,Switzerland,Bezirk Brugg,Bözberg,N/A,5225,Aargau,AG,Oberbözberg
+47.4932821,8.1385266,Switzerland,Bezirk Brugg,Bözberg,N/A,5225,Aargau,AG,Oberbözberg
+47.5057842,8.0688607,Switzerland,Bezirk Laufenburg,Böztal,N/A,5075,Aargau,AG,Hornussen
+46.0574811,7.1435570,Switzerland,Entremont,Sembrancher,N/A,1933,Wallis,VS,Chamoille (Sembrancher)
+47.1722757,8.8386881,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1681485,8.8542633,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1725968,8.8573788,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1794756,8.8566552,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1859247,8.8520276,Switzerland,March,Lachen,N/A,8853,Schwyz,SZ,Lachen
+47.1812373,8.8650707,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1772760,8.8772985,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1791858,8.8822266,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1799506,8.8949830,Switzerland,March,Wangen (SZ),N/A,8854,Schwyz,SZ,Wangen (SZ)
+47.1781898,8.8764978,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1727482,8.8973311,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1694077,8.8936000,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1665926,8.8864213,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1656797,8.8756253,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1685538,8.8609731,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1733285,8.9130604,Switzerland,March,Schübelbach,N/A,8862,Schwyz,SZ,Siebnen
+47.1795366,8.8658837,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.4068418,8.6630304,Switzerland,Bezirk Uster,Wangen-Brüttisellen,N/A,8604,Zurich,ZH,Wangen-Brüttisellen
+47.4165965,8.6609774,Switzerland,Bezirk Uster,Wangen-Brüttisellen,N/A,8317,Zurich,ZH,Wangen-Brüttisellen
+47.0262226,7.7127826,Switzerland,Emmental administrative district,Lützelflüh,N/A,3452,Bern,BE,Lützelflüh
+47.3762321,8.0320288,Switzerland,Bezirk Aarau,Aarau,N/A,5000,Aargau,AG,N/A
+47.3644273,8.0232559,Switzerland,Bezirk Aarau,Oberentfelden,N/A,5035,Aargau,AG,Oberentfelden
+47.3798408,8.0359982,Switzerland,Bezirk Aarau,Aarau,N/A,5000,Aargau,AG,N/A
+47.4675092,8.7018519,Switzerland,Bezirk Winterthur,Winterthur,N/A,8312,Zurich,ZH,N/A
+47.1747467,8.6909020,Switzerland,Höfe,Wollerau,N/A,8832,Schwyz,SZ,Wollerau
+47.1747114,8.6863510,Switzerland,Höfe,Wollerau,N/A,8832,Schwyz,SZ,Wollerau
+47.1708877,8.6870042,Switzerland,Bezirk Horgen,Wädenswil,N/A,8820,Zurich,ZH,Hütten
+47.4527649,8.4131402,Switzerland,Bezirk Dielsdorf,Otelfingen,N/A,8112,Zurich,ZH,Otelfingen
+47.3627147,8.6266226,Switzerland,Bezirk Uster,Fällanden,N/A,8118,Zurich,ZH,Pfaffhausen
+47.5160950,8.1222938,Switzerland,Bezirk Brugg,Mönthal,N/A,5237,Aargau,AG,Mönthal
+47.5070836,8.1300964,Switzerland,Bezirk Brugg,Mönthal,N/A,5237,Aargau,AG,Mönthal
+47.1583017,8.8547731,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1582931,8.8600052,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1562785,8.8580013,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1666601,8.8689490,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1623169,8.8573751,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1636740,8.8709971,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1666601,8.8689490,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+46.9575113,8.5828397,Switzerland,N/A,Seelisberg,N/A,6377,Uri,UR,Seelisberg
+46.9652304,8.5154361,Switzerland,N/A,Beckenried,N/A,6375,Nidwalden,NW,Beckenried
+46.9676691,8.5852038,Switzerland,N/A,Seelisberg,N/A,6377,Uri,UR,Seelisberg
+46.9697441,8.5860820,Switzerland,N/A,Seelisberg,N/A,6377,Uri,UR,Seelisberg
+46.9606112,8.5838634,Switzerland,N/A,Seelisberg,N/A,6377,Uri,UR,Seelisberg
+46.9454565,8.5796170,Switzerland,N/A,Seelisberg,N/A,6377,Uri,UR,Seelisberg
+46.9675025,8.5288491,Switzerland,N/A,Emmetten,N/A,6466,Nidwalden,NW,Emmetten
+46.9629586,8.4919439,Switzerland,N/A,Beckenried,N/A,6375,Nidwalden,NW,Beckenried
+46.9708565,8.5462124,Switzerland,N/A,Emmetten,N/A,6376,Nidwalden,NW,Emmetten
+46.9754637,8.5732609,Switzerland,N/A,Seelisberg,N/A,6377,Uri,UR,Seelisberg
+46.9733353,8.5864554,Switzerland,N/A,Seelisberg,N/A,6377,Uri,UR,Seelisberg
+46.9641436,8.5868162,Switzerland,N/A,Seelisberg,N/A,6377,Uri,UR,Seelisberg
+47.3819468,8.0575535,Switzerland,Bezirk Aarau,Aarau,N/A,5000,Aargau,AG,N/A
+47.1518943,8.8600303,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1881028,8.5281562,Switzerland,N/A,Baar,N/A,6340,Zug,ZG,Inwil
+47.1970438,8.5303080,Switzerland,N/A,Baar,N/A,6340,Zug,ZG,N/A
+47.2045033,8.5392469,Switzerland,N/A,Baar,N/A,5340,Zug,ZG,N/A
+47.1771218,8.5281699,Switzerland,N/A,Baar,N/A,6341,Zug,ZG,Arbach
+47.1726252,8.5197036,Switzerland,N/A,Zug,N/A,6302,Zug,ZG,N/A
+47.2118123,8.5576738,Switzerland,N/A,Baar,N/A,6340,Zug,ZG,N/A
+47.2097847,8.5495677,Switzerland,N/A,Baar,N/A,8925,Zug,ZG,N/A
+47.2125682,8.5661145,Switzerland,N/A,Baar,N/A,6345,Zug,ZG,N/A
+47.2152527,8.5730215,Switzerland,N/A,Baar,N/A,6340,Zug,ZG,N/A
+47.2089336,8.5604495,Switzerland,N/A,Baar,N/A,6345,Zug,ZG,N/A
+47.2008981,8.5367023,Switzerland,N/A,Baar,N/A,5340,Zug,ZG,N/A
+47.4578037,8.5348967,Switzerland,Bezirk Dielsdorf,Rümlang,N/A,8153,Zurich,ZH,Rümlang
+47.5422169,8.0555410,Switzerland,Bezirk Laufenburg,Kaisten,N/A,5082,Aargau,AG,Kaisten
+47.0207664,7.6651259,Switzerland,Emmental administrative district,Rüegsau,N/A,3417,Bern,BE,Rüegsauschachen
+47.4981977,8.1465632,Switzerland,Bezirk Brugg,Bözberg,N/A,5225,Aargau,AG,Oberbözberg
+47.1566050,8.8308715,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1520864,8.8399721,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1493969,8.8311507,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1583099,8.8358887,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.4081577,8.6667930,Switzerland,Bezirk Uster,Wangen-Brüttisellen,N/A,8604,Zurich,ZH,Wangen-Brüttisellen
+46.9972872,6.8942605,Switzerland,N/A,Neuchâtel,N/A,2034,Neuchâtel,NE,Peseux
+47.0100978,6.9026969,Switzerland,N/A,Neuchâtel,N/A,2042,Neuchâtel,NE,Valangin
+47.0106073,6.9016800,Switzerland,N/A,Neuchâtel,N/A,2042,Neuchâtel,NE,Valangin
+47.5648043,8.1490678,Switzerland,Bezirk Laufenburg,Mettauertal,Grundbachhof,5276,Aargau,AG,Wil
+47.3877993,8.0452411,Switzerland,Bezirk Aarau,Aarau,N/A,5000,Aargau,AG,N/A
+47.3814723,8.0341943,Switzerland,Bezirk Aarau,Aarau,N/A,5000,Aargau,AG,N/A
+47.1344888,8.8564362,Switzerland,March,Vorderthal,N/A,8857,Schwyz,SZ,Vorderthal
+47.1323666,8.8452303,Switzerland,March,Vorderthal,N/A,8840,Schwyz,SZ,Vorderthal
+47.1409032,8.8488810,Switzerland,March,Vorderthal,N/A,8857,Schwyz,SZ,Vorderthal
+47.1510110,8.8763765,Switzerland,March,Vorderthal,N/A,8854,Schwyz,SZ,Vorderthal
+47.1560838,8.8401306,Switzerland,March,Altendorf,N/A,8852,Schwyz,SZ,Altendorf
+47.1625411,8.8857466,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1469422,8.8570831,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.5676692,8.1187918,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5275,Aargau,AG,Etzgen
+47.5783258,8.1265646,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5275,Aargau,AG,Etzgen
+47.5855080,8.1443238,Switzerland,Bezirk Laufenburg,Schwaderloch,N/A,5326,Aargau,AG,Schwaderloch
+47.1478151,8.8602254,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1472608,8.8696605,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1567036,8.8708384,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1596190,8.8830386,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.1526980,8.8787112,Switzerland,March,Galgenen,N/A,8854,Schwyz,SZ,Galgenen
+47.5411902,8.0778723,Switzerland,Bezirk Laufenburg,Laufenburg,N/A,5085,Aargau,AG,Sulz
+47.3131439,8.6727824,Switzerland,Bezirk Uster,Egg,N/A,8132,Zurich,ZH,Hinteregg
+47.3101095,8.6666487,Switzerland,Bezirk Uster,Egg,N/A,8132,Zurich,ZH,Hinteregg
+47.3258106,8.6749852,Switzerland,Bezirk Uster,Maur,N/A,8124,Zurich,ZH,Aesch
+47.3094611,8.6577052,Switzerland,Bezirk Uster,Maur,N/A,8127,Zurich,ZH,Maur
+47.5385236,8.0322679,Switzerland,Bezirk Laufenburg,Kaisten,N/A,5072,Aargau,AG,Kaisten
+47.5350409,8.0047732,Switzerland,Bezirk Laufenburg,Eiken,N/A,5074,Aargau,AG,Eiken
+47.5481530,8.0728220,Switzerland,Bezirk Laufenburg,Laufenburg,N/A,5084,Aargau,AG,Rheinsulz
+47.5448818,8.0685330,Switzerland,Bezirk Laufenburg,Kaisten,N/A,5082,Aargau,AG,Kaisten
+47.7259346,8.5088653,Switzerland,N/A,Siblingen,N/A,8225,Schaffhausen,SH,Siblingen
+47.1331019,8.8092645,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Willerzell
+47.1378563,8.7930166,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Willerzell
+47.1344863,8.7918559,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Willerzell
+47.1484290,8.8218690,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Willerzell
+47.1409702,8.8258727,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Willerzell
+47.1412497,8.8048612,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Willerzell
+47.1386508,8.8367364,Switzerland,March,Altendorf,N/A,8846,Schwyz,SZ,Altendorf
+47.1247641,8.8266029,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Euthal
+47.1319420,8.7979194,Switzerland,Einsiedeln,Einsiedeln,N/A,8846,Schwyz,SZ,Willerzell
+47.1329792,8.7925450,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Willerzell
+47.1260964,8.8001020,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Willerzell
+47.7389114,8.5421512,Switzerland,N/A,Schaffhausen,N/A,8228,Schaffhausen,SH,N/A
+47.7380746,8.5362913,Switzerland,N/A,Siblingen,N/A,8225,Schaffhausen,SH,Siblingen
+47.7416976,8.5460507,Switzerland,N/A,Schaffhausen,N/A,8228,Schaffhausen,SH,N/A
+47.7494674,8.5440268,Switzerland,N/A,Beggingen,N/A,8228,Schaffhausen,SH,Beggingen
+47.7476590,8.5595127,Switzerland,N/A,Beggingen,N/A,8228,Schaffhausen,SH,Beggingen
+47.7450302,8.5482105,Switzerland,N/A,Schaffhausen,N/A,8228,Schaffhausen,SH,N/A
+47.7451415,8.5549567,Switzerland,N/A,Schaffhausen,N/A,8228,Schaffhausen,SH,N/A
+47.4467820,9.5359416,Switzerland,Vorderland,Heiden,N/A,9410,Appenzell Ausserrhoden,AR,Heiden
+47.7513015,8.5318011,Switzerland,N/A,Beggingen,N/A,8228,Schaffhausen,SH,Beggingen
+46.0241947,7.3322037,Switzerland,Entremont,Val de Bagnes,N/A,1934,Wallis,VS,Fionnay
+46.0152175,7.3382200,Switzerland,Entremont,Val de Bagnes,N/A,1934,Wallis,VS,N/A
+46.0355668,7.3472479,Switzerland,Entremont,Val de Bagnes,N/A,1934,Wallis,VS,N/A
+45.9860690,7.3444192,Switzerland,Entremont,Val de Bagnes,N/A,1934,Wallis,VS,N/A
+47.7499059,8.5006596,Switzerland,N/A,Schleitheim,N/A,8226,Schaffhausen,SH,Schleitheim
+47.7515643,8.5228633,Switzerland,N/A,Beggingen,N/A,8228,Schaffhausen,SH,Beggingen
+47.7512234,8.5186763,Switzerland,N/A,Beggingen,N/A,8228,Schaffhausen,SH,Beggingen
+46.0122299,7.2761073,Switzerland,Entremont,Val de Bagnes,La Maye,1934,Wallis,VS,N/A
+45.9129015,7.3503425,Switzerland,Entremont,Val de Bagnes,N/A,1934,Wallis,VS,N/A
+45.9984847,7.2919765,Switzerland,Entremont,Val de Bagnes,Kin,1934,Wallis,VS,N/A
+46.0733350,7.3150976,Switzerland,Entremont,Val de Bagnes,N/A,1934,Wallis,VS,N/A
+46.0797055,7.2943504,Switzerland,Conthey,Nendaz,N/A,1997,Wallis,VS,Nendaz
+46.0974082,7.2331221,Switzerland,Entremont,Val de Bagnes,N/A,1936,Wallis,VS,Verbier
+47.7479615,8.4726923,Switzerland,N/A,Schleitheim,N/A,8226,Schaffhausen,SH,Schleitheim
+47.7407716,8.4896303,Switzerland,N/A,Schleitheim,N/A,8226,Schaffhausen,SH,Schleitheim
+47.7197471,8.5016832,Switzerland,Bezirk Oberklettgau,Gächlingen,N/A,8214,Schaffhausen,SH,Gächlingen
+47.3497727,8.7947176,Switzerland,Bezirk Pfäffikon,Pfäffikon,N/A,8331,Zurich,ZH,Auslikon
+47.3607119,8.7871651,Switzerland,Bezirk Pfäffikon,Pfäffikon,N/A,8330,Zurich,ZH,Pfäffikon
+47.3415416,8.7831444,Switzerland,Bezirk Hinwil,Wetzikon (ZH),N/A,8621,Zurich,ZH,N/A
+47.3605738,8.7743840,Switzerland,Bezirk Pfäffikon,Pfäffikon,N/A,8300,Zurich,ZH,Pfäffikon
+47.3658880,8.7830606,Switzerland,Bezirk Pfäffikon,Pfäffikon,N/A,8330,Zurich,ZH,Pfäffikon
+46.5862787,9.7782823,Switzerland,Albula,Bergün Filisur,N/A,7482,Grisons,GR,Preda
+46.5895931,9.7699691,Switzerland,Albula,Bergün Filisur,N/A,7482,Grisons,GR,Preda
+46.5857498,9.7758850,Switzerland,Albula,Bergün Filisur,N/A,7482,Grisons,GR,Preda
+46.5875439,9.7759230,Switzerland,Albula,Bergün Filisur,N/A,7482,Grisons,GR,Preda
+46.5889747,9.7763277,Switzerland,Albula,Bergün Filisur,N/A,7482,Grisons,GR,Preda
+46.5905183,9.7697159,Switzerland,Albula,Bergün Filisur,N/A,7482,Grisons,GR,Preda
+46.6123944,9.7569893,Switzerland,Albula,Bergün Filisur,N/A,7482,Grisons,GR,Bergün/Bravuogn
+46.6102897,9.7550967,Switzerland,Albula,Bergün Filisur,N/A,7482,Grisons,GR,Bergün/Bravuogn
+46.6405926,9.7355304,Switzerland,Albula,Bergün Filisur,N/A,7484,Grisons,GR,Bergün/Bravuogn
+46.6520763,9.7181888,Switzerland,Albula,Bergün Filisur,N/A,7477,Grisons,GR,Stugl
+46.6300432,9.7464553,Switzerland,Albula,Bergün Filisur,N/A,7482,Grisons,GR,Bergün/Bravuogn
+46.6741352,9.6851879,Switzerland,Albula,Bergün Filisur,N/A,7477,Grisons,GR,Filisur
+46.6641047,9.6993854,Switzerland,Albula,Bergün Filisur,N/A,7477,Grisons,GR,Filisur
+47.4794105,8.1153498,Switzerland,Bezirk Brugg,Bözberg,N/A,5225,Aargau,AG,Gallenkirch
+47.1455210,8.8884910,Switzerland,March,Vorderthal,N/A,8854,Schwyz,SZ,Vorderthal
+47.1030742,8.9048984,Switzerland,March,Innerthal,N/A,8858,Schwyz,SZ,Innerthal
+47.0976170,8.9093074,Switzerland,March,Innerthal,N/A,8858,Schwyz,SZ,Innerthal
+47.0859755,8.9226696,Switzerland,March,Innerthal,Rüti,8858,Schwyz,SZ,Innerthal
+47.1219879,8.8996200,Switzerland,March,Vorderthal,N/A,8857,Schwyz,SZ,Vorderthal
+47.0676184,8.9125102,Switzerland,March,Innerthal,N/A,8858,Schwyz,SZ,Innerthal
+47.1061395,8.9121473,Switzerland,March,Innerthal,N/A,8858,Schwyz,SZ,Innerthal
+47.1269727,8.8932107,Switzerland,March,Vorderthal,N/A,8857,Schwyz,SZ,Vorderthal
+47.0194178,6.9372184,Switzerland,N/A,Neuchâtel,N/A,2063,Neuchâtel,NE,N/A
+47.0054592,6.9213685,Switzerland,N/A,Neuchâtel,N/A,2042,Neuchâtel,NE,Valangin
+46.5230949,8.6719468,Switzerland,Distretto di Leventina,Quinto,N/A,6776,Ticino,TI,Piotta
+47.0656735,6.9889191,Switzerland,N/A,Enges,N/A,2057,Neuchâtel,NE,Enges
+46.4581951,8.8369361,Switzerland,Distretto di Leventina,Faido,N/A,6746,Ticino,TI,Lavorgo
+47.1207319,8.8475228,Switzerland,March,Vorderthal,N/A,8857,Schwyz,SZ,Vorderthal
+47.1177280,8.8275296,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,N/A
+47.2603761,7.5234461,Switzerland,Amtei Thal-Gäu,Welschenrohr-Gänsbrunnen,N/A,4716,Solothurn,SO,Welschenrohr-Gänsbrunnen
+47.2590515,7.5240096,Switzerland,Amtei Thal-Gäu,Welschenrohr-Gänsbrunnen,N/A,4716,Solothurn,SO,Welschenrohr-Gänsbrunnen
+47.2539142,7.4998475,Switzerland,Amtei Thal-Gäu,Welschenrohr-Gänsbrunnen,N/A,4716,Solothurn,SO,Welschenrohr-Gänsbrunnen
+47.2646750,7.5402443,Switzerland,Amtei Solothurn-Lebern,Balm bei Günsberg,N/A,4524,Solothurn,SO,Balm bei Günsberg
+47.2450135,7.4716764,Switzerland,Amtei Solothurn-Lebern,Oberdorf (SO),N/A,4514,Solothurn,SO,Oberdorf (SO)
+47.2420523,7.4474961,Switzerland,Amtei Solothurn-Lebern,Selzach,N/A,2545,Solothurn,SO,Selzach
+47.2193291,7.3832501,Switzerland,Amtei Solothurn-Lebern,Grenchen,N/A,2540,Solothurn,SO,N/A
+47.2394801,7.4335461,Switzerland,Amtei Solothurn-Lebern,Selzach,N/A,2545,Solothurn,SO,Selzach
+47.2158143,7.3759064,Switzerland,Amtei Solothurn-Lebern,Grenchen,N/A,2540,Solothurn,SO,N/A
+47.2253590,7.3883773,Switzerland,Amtei Solothurn-Lebern,Grenchen,N/A,2540,Solothurn,SO,N/A
+47.2330754,7.4085374,Switzerland,Amtei Solothurn-Lebern,Bettlach,N/A,2544,Solothurn,SO,Bettlach
+47.2107984,7.3661097,Switzerland,Amtei Solothurn-Lebern,Grenchen,N/A,2540,Solothurn,SO,N/A
+47.1949565,7.3063561,Switzerland,Bernese Jura administrative district,Sauge,N/A,2536,Bern,BE,Plagne
+47.2064353,7.3447791,Switzerland,Amtei Solothurn-Lebern,Grenchen,N/A,2540,Solothurn,SO,N/A
+47.1680272,7.2556744,Switzerland,Bernese Jura administrative district,Sauge,N/A,2535,Bern,BE,Vauffelin
+47.1808745,7.2777676,Switzerland,Bernese Jura administrative district,Sauge,N/A,2536,Bern,BE,Plagne
+47.1713336,7.2640288,Switzerland,Bernese Jura administrative district,Sauge,N/A,2535,Bern,BE,Vauffelin
+47.1544529,8.8217867,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,N/A
+47.1665586,7.1898220,Switzerland,Bernese Jura administrative district,Orvin,N/A,2605,Bern,BE,Orvin
+47.1701921,7.2402119,Switzerland,Bernese Jura administrative district,Péry-La Heutte,N/A,2535,Bern,BE,Péry
+47.1583484,7.1474171,Switzerland,Bernese Jura administrative district,Corgémont,N/A,2606,Bern,BE,Corgémont
+47.1121456,7.0168041,Switzerland,Bernese Jura administrative district,Lignières,N/A,2523,Neuchâtel,NE,Lignières
+47.1393423,7.0840362,Switzerland,Bernese Jura administrative district,Nods,N/A,2518,Bern,BE,Nods
+47.0919048,6.9617613,Switzerland,N/A,Val-de-Ruz,N/A,2056,Neuchâtel,NE,Dombresson
+47.0668359,6.8779014,Switzerland,N/A,Val-de-Ruz,Les Loges,2052,Neuchâtel,NE,N/A
+47.0854736,6.9202889,Switzerland,N/A,Val-de-Ruz,N/A,2054,Neuchâtel,NE,Chézard-Saint-Martin
+47.0770682,6.8867706,Switzerland,N/A,Val-de-Ruz,N/A,2053,Neuchâtel,NE,N/A
+47.0533975,6.9967990,Switzerland,N/A,Cressier (NE),N/A,2088,Neuchâtel,NE,Cressier (NE)
+47.0757560,7.0105652,Switzerland,N/A,Enges,N/A,2073,Neuchâtel,NE,Enges
+47.0642679,7.0168618,Switzerland,N/A,Enges,N/A,2073,Neuchâtel,NE,Enges
+47.0882720,7.0013987,Switzerland,N/A,Val-de-Ruz,N/A,2058,Neuchâtel,NE,N/A
+47.0971639,7.0058989,Switzerland,Bernese Jura administrative district,Val-de-Ruz,N/A,2523,Neuchâtel,NE,N/A
+47.0417245,9.1534778,Switzerland,Wahlkreis Sarganserland,Quarten,N/A,N/A,St. Gallen,N/A,Quarten
+47.0612063,9.1979674,Switzerland,Wahlkreis Sarganserland,Quarten,N/A,N/A,St. Gallen,N/A,Quarten
+47.0641124,9.1729126,Switzerland,N/A,Glarus Nord,Tschermannen,8758,Glarus,GL,N/A
+47.1864937,7.7842218,Switzerland,Oberaargau administrative district,Lotzwil,N/A,4932,Bern,BE,Lotzwil
+47.5556890,8.0677604,Switzerland,Bezirk Laufenburg,Laufenburg,N/A,5080,Aargau,AG,N/A
+46.9590376,6.8261739,Switzerland,N/A,Boudry,N/A,2017,Neuchâtel,NE,Boudry
+46.9563636,6.8088204,Switzerland,N/A,Boudry,N/A,2017,Neuchâtel,NE,Boudry
+46.9552206,6.7958026,Switzerland,N/A,Boudry,N/A,2149,Neuchâtel,NE,Boudry
+46.9407709,6.7623410,Switzerland,N/A,La Grande-Béroche,N/A,2023,Neuchâtel,NE,Gorgier
+46.9460451,6.7737000,Switzerland,N/A,Boudry,N/A,2149,Neuchâtel,NE,Boudry
+46.9382563,6.7580923,Switzerland,N/A,La Grande-Béroche,N/A,2023,Neuchâtel,NE,Gorgier
+47.1670542,7.7559974,Switzerland,Oberaargau administrative district,Bleienbach,N/A,3368,Bern,BE,Bleienbach
+47.1743558,7.7634320,Switzerland,Oberaargau administrative district,Rütschelen,N/A,4933,Bern,BE,Rütschelen
+47.5333485,8.5901609,Switzerland,Bezirk Bülach,Freienstein-Teufen,N/A,8427,Zurich,ZH,Freienstein-Teufen
+46.9386176,6.7189875,Switzerland,N/A,Val-de-Travers,N/A,2103,Neuchâtel,NE,Noiraigue
+46.9324667,6.7321463,Switzerland,N/A,La Grande-Béroche,N/A,2023,Neuchâtel,NE,Saint-Aubin-Sauges
+46.9503952,6.7237945,Switzerland,N/A,Val-de-Travers,N/A,2103,Neuchâtel,NE,Noiraigue
+46.9614854,6.8157928,Switzerland,N/A,Boudry,N/A,2019,Neuchâtel,NE,Boudry
+46.9656858,6.8292272,Switzerland,N/A,Boudry,N/A,2014,Neuchâtel,NE,Boudry
+46.9357930,6.7482613,Switzerland,N/A,La Grande-Béroche,N/A,2023,Neuchâtel,NE,Gorgier
+47.0093980,6.8910518,Switzerland,N/A,Neuchâtel,N/A,2042,Neuchâtel,NE,Valangin
+47.5263907,8.5469962,Switzerland,Bezirk Bülach,Bülach,N/A,8180,Zurich,ZH,N/A
+47.1295955,8.5664373,Switzerland,N/A,Unterägeri,N/A,6314,Zug,ZG,Unterägeri
+47.1673523,8.5141327,Switzerland,N/A,Zug,N/A,6300,Zug,ZG,N/A
+47.1634090,8.5281848,Switzerland,N/A,Zug,N/A,6317,Zug,ZG,Oberwil
+47.1421442,8.5547800,Switzerland,N/A,Unterägeri,N/A,6314,Zug,ZG,Unterägeri
+47.1367406,8.5808706,Switzerland,N/A,Unterägeri,N/A,6314,Zug,ZG,Unterägeri
+47.1660814,8.5335430,Switzerland,N/A,Zug,N/A,6302,Zug,ZG,N/A
+47.1629589,8.5197619,Switzerland,N/A,Zug,N/A,6300,Zug,ZG,N/A
+47.1594571,8.5451688,Switzerland,N/A,Baar,N/A,6319,Zug,ZG,Allenwinden
+47.1673896,8.7183087,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Schindellegi
+47.1673008,8.6920709,Switzerland,Höfe,Wollerau,N/A,8832,Schwyz,SZ,Wollerau
+47.1605061,8.7212971,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Schindellegi
+47.1632026,8.6940438,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Schindellegi
+47.1630136,8.7011904,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1716600,8.7026323,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Schindellegi
+47.1618637,8.7127242,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Schindellegi
+47.1580381,8.7225880,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1822618,7.7573568,Switzerland,Oberaargau administrative district,Bleienbach,N/A,3368,Bern,BE,Bleienbach
+47.1442644,7.7532021,Switzerland,Oberaargau administrative district,Madiswil,N/A,4934,Bern,BE,Leimiswil
+47.1680804,7.7735695,Switzerland,Oberaargau administrative district,Rütschelen,N/A,4933,Bern,BE,Rütschelen
+47.1860233,7.7589765,Switzerland,Oberaargau administrative district,Bleienbach,N/A,3368,Bern,BE,Bleienbach
+47.1628482,7.7681473,Switzerland,Oberaargau administrative district,Rütschelen,N/A,4933,Bern,BE,Rütschelen
+47.1806380,7.7674202,Switzerland,Oberaargau administrative district,Rütschelen,N/A,4933,Bern,BE,Rütschelen
+47.1721996,7.7754337,Switzerland,Oberaargau administrative district,Rütschelen,N/A,4933,Bern,BE,Rütschelen
+47.1743604,7.7557992,Switzerland,Oberaargau administrative district,Bleienbach,N/A,3368,Bern,BE,Bleienbach
+46.4383873,9.9370825,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina
+46.4490646,9.9538014,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina
+46.4319450,9.9326319,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina
+46.4916508,9.8997459,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina
+46.4425753,9.9362131,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina
+46.4690329,9.9216928,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina
+47.1783310,7.7782688,Switzerland,Oberaargau administrative district,Rütschelen,N/A,4933,Bern,BE,Rütschelen
+47.1566227,7.7542402,Switzerland,Oberaargau administrative district,Ochlenberg,N/A,3367,Bern,BE,Ochlenberg
+47.1579330,8.7033642,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1568968,8.7192110,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1554336,8.7166027,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Feusisberg
+47.1616645,8.6940375,Switzerland,Höfe,Feusisberg,N/A,8835,Schwyz,SZ,Schindellegi
+46.0833545,7.1394275,Switzerland,Entremont,Val de Bagnes,N/A,1934,Wallis,VS,Vens
+47.1699537,7.7863335,Switzerland,Oberaargau administrative district,Madiswil,N/A,4934,Bern,BE,Madiswil
+47.1496918,8.6912347,Switzerland,N/A,Oberägeri,N/A,6315,Zug,ZG,Oberägeri
+47.1337658,8.6921115,Switzerland,Schwyz,Rothenthurm,N/A,6418,Schwyz,SZ,Rothenthurm
+47.1317817,8.7362407,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,N/A
+47.1492735,8.7231041,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Schwyzerbrugg
+47.1430171,8.6923888,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Schwyzerbrugg
+47.1416696,8.6642335,Switzerland,N/A,Oberägeri,N/A,6315,Zug,ZG,Oberägeri
+47.1465991,8.6736880,Switzerland,N/A,Oberägeri,N/A,6315,Zug,ZG,Oberägeri
+47.1425330,8.7261078,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Bennau
+47.1338685,8.7088573,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Bennau
+47.1351145,8.6750540,Switzerland,N/A,Oberägeri,N/A,6315,Zug,ZG,Oberägeri
+47.1374591,8.6662051,Switzerland,N/A,Oberägeri,N/A,6315,Zug,ZG,Oberägeri
+47.0713001,8.8108015,Switzerland,Schwyz,Unteriberg,N/A,8842,Schwyz,SZ,Unteriberg
+47.0933310,8.8194742,Switzerland,Einsiedeln,Einsiedeln,N/A,8844,Schwyz,SZ,Euthal
+47.1000284,8.7969866,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Euthal
+47.0873379,8.8291344,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Euthal
+47.0905769,8.8171436,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Euthal
+47.0821277,8.8536612,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,N/A
+47.0789543,8.8287825,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,N/A
+47.0883300,8.8521432,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,N/A
+47.0757646,8.8374605,Switzerland,Schwyz,Unteriberg,N/A,8845,Schwyz,SZ,Studen
+47.0901801,8.8160090,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Euthal
+47.0908527,8.8031424,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Euthal
+47.0811989,8.8364843,Switzerland,Einsiedeln,Einsiedeln,N/A,8840,Schwyz,SZ,Euthal
