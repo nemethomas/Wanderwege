@@ -15,4 +15,4 @@ venv/
 config/*.json
 
 # Cache
-.cache.sqlite
+#.cache.sqlite
