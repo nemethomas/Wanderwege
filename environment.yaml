@@ -8,6 +8,7 @@ dependencies:
   - mysql-connector-python
   - conda-forge::overpy
   - conda-forge::pymysql
+  - pymssql
   - numpy
   - matplotlib 
   - seaborn 
