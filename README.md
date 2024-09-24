@@ -1,15 +1,19 @@
 # Wanderwege
 
-Vorraussetzungen
-Python 3.12.2
+Prerequisites: Python 3.12.2
 
-Wir benutzen Conda um Installation, Aktualisierung und Verwaltung von Softwarepaketen sowie Abhängigkeiten sauber zu trennen. 
+We use ([Conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)) to cleanly manage the installation, updating, and handling of software packages and dependencies.
 
-https://conda.io/projects/conda/en/latest/user-guide/install/index.html
+A new environment (www) can be created with all the necessary libraries by executing the environment.yaml file:
 
-Danach kann die neue Umgebung (www) mit allen benötigten Bibliotheken angelegt werden indem die Datei environment.yaml ausgeführt wird:
-
+```bash
 conda env create -f environment.yaml
+```
 
-Damit der Zugriff auf die Azure Cloud funktioniert muss das das db_config.json File im Ordner Wanderwege/config abgelegt werden. Zudem muss auf Azure die IP des Benutzers hinterlegt werden
+Activate the new environment with:
 
+```bash
+conda activate www
+```
+
+For access to the Azure Cloud to work, the db_config.json file must be placed in the Wanderwege/config folder. Additionally, the user's IP address must be registered in Azure.
