@@ -17,6 +17,7 @@ dependencies:
   - pyodbc
   - ipykernel
   - pprint
+  - json
   - pip
   - pip:
     - openmeteo_requests
