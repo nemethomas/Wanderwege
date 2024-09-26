@@ -1,300 +1,300 @@
 lat,lon,country,county,local_administrative_area,locality,postcode,state,state_code,village,timestamp_apicall
-46.650143,10.2301992,Switzerland,Region Engiadina Bassa/Val Müstair,Zernez,Stabelchod,7530,Grisons,GR,Zernez,2024-09-24 23:02:11
-47.4309774,9.62017,Switzerland,Wahlkreis Rheintal,Berneck,Eichholz,9442,St. Gallen,N/A,Berneck,2024-09-24 23:02:11
-47.351168,8.4897796,Switzerland,District Zurich,Zurich,N/A,8063,Zurich,ZH,N/A,2024-09-24 23:02:11
-47.3291235,8.5007261,Switzerland,Bezirk Affoltern,Stallikon,N/A,8143,Zurich,ZH,Stallikon,2024-09-24 23:02:11
-47.3152439,8.5050559,Switzerland,Bezirk Affoltern,Stallikon,N/A,8143,Zurich,ZH,Stallikon,2024-09-24 23:02:11
-47.3164826,8.5186003,Switzerland,Bezirk Horgen,Adliswil,N/A,8134,Zurich,ZH,N/A,2024-09-24 23:02:11
-46.6864945,8.5941959,Switzerland,N/A,Wassen,N/A,6484,Uri,UR,Wassen,2024-09-24 23:02:11
-46.758293,8.6574212,Switzerland,N/A,Silenen,N/A,6476,Uri,UR,Amsteg,2024-09-24 23:02:11
-47.5352432,8.0967558,Switzerland,Bezirk Laufenburg,Laufenburg,N/A,5085,Aargau,AG,Sulz,2024-09-24 23:02:11
-46.8255681,6.5042809,Switzerland,District du Jura-Nord vaudois,Sainte-Croix,N/A,1450,Vaud,VD,Sainte-Croix,2024-09-24 23:02:11
-46.83268,6.5145084,Switzerland,District du Jura-Nord vaudois,Sainte-Croix,N/A,1450,Vaud,VD,Sainte-Croix,2024-09-24 23:02:11
-46.8356755,6.522718,Switzerland,District du Jura-Nord vaudois,Sainte-Croix,N/A,1450,Vaud,VD,Sainte-Croix,2024-09-24 23:02:11
-46.8435439,6.5313614,Switzerland,District du Jura-Nord vaudois,Bullet,N/A,1452,Vaud,VD,Les Rasses,2024-09-24 23:02:11
-46.8556668,6.5501737,Switzerland,District du Jura-Nord vaudois,Fiez,N/A,1453,Vaud,VD,Fiez,2024-09-24 23:02:11
-46.8634566,6.5658229,Switzerland,District du Jura-Nord vaudois,Bullet,N/A,1453,Vaud,VD,Bullet,2024-09-24 23:02:11
-46.8609414,6.6144089,Switzerland,District du Jura-Nord vaudois,Mauborget,N/A,1453,Vaud,VD,Mauborget,2024-09-24 23:02:11
-46.8964957,6.6098089,Switzerland,N/A,Val-de-Travers,N/A,2112,Neuchâtel,NE,Môtiers NE,2024-09-24 23:02:11
-47.3265932,9.0257357,Switzerland,Wahlkreis Toggenburg,Mosnang,N/A,9614,St. Gallen,N/A,Libingen,2024-09-24 23:02:11
-47.3204765,9.032205,Switzerland,Wahlkreis Toggenburg,Mosnang,N/A,9614,St. Gallen,N/A,Libingen,2024-09-24 23:02:11
-47.3139131,9.0340285,Switzerland,Wahlkreis Toggenburg,Mosnang,N/A,9622,St. Gallen,N/A,Mosnang,2024-09-24 23:02:11
-47.3096563,9.0309978,Switzerland,Wahlkreis Toggenburg,Mosnang,N/A,9614,St. Gallen,N/A,Mosnang,2024-09-24 23:02:11
-47.3005555,9.0197317,Switzerland,Wahlkreis See-Gaster,Eschenbach (SG),N/A,8733,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2960901,9.0220985,Switzerland,Wahlkreis Toggenburg,Wattwil,N/A,8375,St. Gallen,N/A,Wattwil,2024-09-24 23:02:11
-47.2915794,9.0283607,Switzerland,Wahlkreis Toggenburg,Wattwil,N/A,8375,St. Gallen,N/A,Wattwil,2024-09-24 23:02:11
-47.2808333,9.0325995,Switzerland,Wahlkreis See-Gaster,Eschenbach (SG),N/A,8733,St. Gallen,N/A,Walde SG,2024-09-24 23:02:11
-47.2717847,9.0363372,Switzerland,Wahlkreis See-Gaster,Eschenbach (SG),N/A,8733,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2671226,9.040902,Switzerland,Wahlkreis See-Gaster,Gommiswald,N/A,8726,St. Gallen,N/A,Ricken SG,2024-09-24 23:02:11
-47.3028875,8.5080851,Switzerland,Bezirk Affoltern,Stallikon,N/A,8143,Zurich,ZH,Stallikon,2024-09-24 23:02:11
-47.2857101,8.5134809,Switzerland,Bezirk Horgen,Langnau am Albis,N/A,8135,Zurich,ZH,Langnau am Albis,2024-09-24 23:02:11
-47.2712226,8.5262202,Switzerland,Bezirk Horgen,Langnau am Albis,N/A,8135,Zurich,ZH,Langnau am Albis,2024-09-24 23:02:11
-47.2635986,8.5335671,Switzerland,Bezirk Affoltern,Hausen am Albis,N/A,8915,Zurich,ZH,Hausen am Albis,2024-09-24 23:02:11
-47.2647956,8.555493,Switzerland,Bezirk Horgen,Horgen,N/A,8810,Zurich,ZH,N/A,2024-09-24 23:02:11
-47.5490567,8.1111345,Switzerland,Bezirk Laufenburg,Gansingen,N/A,5272,Aargau,AG,Gansingen,2024-09-24 23:02:11
-47.362355,8.4906313,Switzerland,District Zurich,Zurich,N/A,8063,Zurich,ZH,N/A,2024-09-24 23:02:11
-47.3552026,8.4892329,Switzerland,District Zurich,Zurich,N/A,8063,Zurich,ZH,N/A,2024-09-24 23:02:11
-47.3489275,8.4994754,Switzerland,District Zurich,Zurich,N/A,8063,Zurich,ZH,N/A,2024-09-24 23:02:11
-47.2887772,8.8581679,Switzerland,Bezirk Hinwil,Hinwil,N/A,8340,Zurich,ZH,Hadlikon,2024-09-24 23:02:11
-47.295046,8.850249,Switzerland,Bezirk Hinwil,Hinwil,N/A,8340,Zurich,ZH,Hadlikon,2024-09-24 23:02:11
-47.285254,8.8695647,Switzerland,Bezirk Hinwil,Dürnten,N/A,8635,Zurich,ZH,Breitenmatt,2024-09-24 23:02:11
-47.2831134,8.8494622,Switzerland,Bezirk Hinwil,Dürnten,N/A,8635,Zurich,ZH,Oberdürnten,2024-09-24 23:02:11
-47.2750342,8.8356737,Switzerland,Bezirk Hinwil,Dürnten,N/A,8632,Zurich,ZH,Tann,2024-09-24 23:02:11
-47.2776044,8.8789713,Switzerland,Bezirk Hinwil,Dürnten,N/A,8635,Zurich,ZH,Breitenmatt,2024-09-24 23:02:11
-47.2819308,8.8686143,Switzerland,Bezirk Hinwil,Dürnten,N/A,8635,Zurich,ZH,Breitenmatt,2024-09-24 23:02:11
-47.278424,8.8240752,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Bubikon,2024-09-24 23:02:11
-47.2686736,8.8243599,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Bubikon,2024-09-24 23:02:11
-47.2691917,8.8436149,Switzerland,Bezirk Hinwil,Dürnten,N/A,8632,Zurich,ZH,Tann,2024-09-24 23:02:11
-47.268496,8.8307534,Switzerland,Bezirk Hinwil,Dürnten,N/A,8608,Zurich,ZH,Dürnten,2024-09-24 23:02:11
-47.2646347,8.8295722,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Bubikon,2024-09-24 23:02:11
-47.2616268,8.843317,Switzerland,Bezirk Hinwil,Rüti (ZH),N/A,8630,Zurich,ZH,N/A,2024-09-24 23:02:11
-47.2928383,8.8341464,Switzerland,Bezirk Hinwil,Hinwil,N/A,8349,Zurich,ZH,Hinwil,2024-09-24 23:02:11
-47.2889124,8.8389398,Switzerland,Bezirk Hinwil,Hinwil,N/A,8340,Zurich,ZH,Hadlikon,2024-09-24 23:02:11
-47.2793684,8.8162043,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Bubikon,2024-09-24 23:02:11
-47.273926,8.8957778,Switzerland,Bezirk Hinwil,Wald (ZH),N/A,8663,Zurich,ZH,Wald (ZH),2024-09-24 23:02:11
-47.2715449,8.864675,Switzerland,Bezirk Hinwil,Dürnten,N/A,8635,Zurich,ZH,Oberdürnten,2024-09-24 23:02:11
-47.2672644,8.8559288,Switzerland,Bezirk Hinwil,Dürnten,N/A,8632,Zurich,ZH,Tann,2024-09-24 23:02:11
-47.2637302,8.8556643,Switzerland,Bezirk Hinwil,Rüti (ZH),Joweid Zentrum,8630,Zurich,ZH,N/A,2024-09-24 23:02:11
-47.2678451,8.8666451,Switzerland,Bezirk Hinwil,Rüti (ZH),N/A,8630,Zurich,ZH,N/A,2024-09-24 23:02:11
-47.2698096,8.8204598,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Wolfhausen,2024-09-24 23:02:11
-47.2540752,8.819909,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Wolfhausen,2024-09-24 23:02:11
-47.270668,8.8120444,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Bubikon,2024-09-24 23:02:11
-47.2729998,8.8442826,Switzerland,Bezirk Hinwil,Dürnten,N/A,8632,Zurich,ZH,Tann,2024-09-24 23:02:11
-47.2642278,8.8520052,Switzerland,Bezirk Hinwil,Dürnten,N/A,8632,Zurich,ZH,Tann,2024-09-24 23:02:11
-47.2828357,8.8697479,Switzerland,Bezirk Hinwil,Dürnten,N/A,8635,Zurich,ZH,Breitenmatt,2024-09-24 23:02:11
-47.2736486,8.8562662,Switzerland,Bezirk Hinwil,Dürnten,N/A,8632,Zurich,ZH,Tann,2024-09-24 23:02:11
-47.3001847,8.8212979,Switzerland,Bezirk Hinwil,Hinwil,N/A,8349,Zurich,ZH,Hinwil,2024-09-24 23:02:11
-47.2585925,7.4437102,Switzerland,Amtei Thal-Gäu,Welschenrohr-Gänsbrunnen,N/A,4716,Solothurn,SO,Welschenrohr-Gänsbrunnen,2024-09-24 23:02:11
-47.2573848,7.3944437,Switzerland,Bernese Jura administrative district,Court,N/A,2738,Bern,BE,Court,2024-09-24 23:02:11
-47.2841676,7.385936,Switzerland,Bernese Jura administrative district,Moutier,N/A,2740,Bern,BE,N/A,2024-09-24 23:02:11
-47.289226,7.3930404,Switzerland,Bernese Jura administrative district,Belprahon,N/A,2740,Bern,BE,Belprahon,2024-09-24 23:02:11
-47.2923335,7.4015379,Switzerland,Bernese Jura administrative district,Belprahon,Gressins dessous,2744,Bern,BE,Belprahon,2024-09-24 23:02:11
-47.2974282,7.4120652,Switzerland,Bernese Jura administrative district,Belprahon,N/A,2744,Bern,BE,Belprahon,2024-09-24 23:02:11
-47.3018145,7.4201357,Switzerland,Bernese Jura administrative district,Grandval,N/A,2745,Bern,BE,Grandval,2024-09-24 23:02:11
-47.2954952,7.4551799,Switzerland,Bernese Jura administrative district,Corcelles (BE),La Côte au Boeuf,2747,Bern,BE,Corcelles (BE),2024-09-24 23:02:11
-47.2795081,7.4549841,Switzerland,Bernese Jura administrative district,Crémines,N/A,2746,Bern,BE,Crémines,2024-09-24 23:02:11
-47.2692217,7.4606337,Switzerland,Bernese Jura administrative district,Crémines,N/A,2746,Bern,BE,Crémines,2024-09-24 23:02:11
-47.2647082,7.4663391,Switzerland,Amtei Thal-Gäu,Welschenrohr-Gänsbrunnen,N/A,4716,Solothurn,SO,Gänsbrunnen,2024-09-24 23:02:11
-47.3243165,8.747488,Switzerland,Bezirk Uster,Uster,N/A,8614,Zurich,ZH,Sulzbach,2024-09-24 23:02:11
-46.8276562,9.3566913,Switzerland,Imboden,Trin,N/A,7014,Grisons,GR,Trin Mulin,2024-09-24 23:02:11
-46.8148423,9.3304239,Switzerland,Imboden,Trin,N/A,7016,Grisons,GR,Trin,2024-09-24 23:02:11
-46.8071233,9.3196379,Switzerland,Surselva,Safiental,N/A,7104,Grisons,GR,Versam,2024-09-24 23:02:11
-46.7992609,9.2926408,Switzerland,Surselva,Sagogn,N/A,7152,Grisons,GR,Sagogn,2024-09-24 23:02:11
-47.2733557,9.4699772,Switzerland,N/A,Schwende-Rüte,N/A,9058,Appenzell Innerrhoden,AI,Rüte,2024-09-24 23:02:11
-47.2847553,9.4866094,Switzerland,Wahlkreis Rheintal,Altstätten,N/A,9464,St. Gallen,N/A,Lienz,2024-09-24 23:02:11
-47.2873653,9.4882582,Switzerland,Wahlkreis Rheintal,Altstätten,N/A,9464,St. Gallen,N/A,Lienz,2024-09-24 23:02:11
-47.3004458,9.4947814,Switzerland,Wahlkreis Rheintal,Altstätten,N/A,9058,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.3076614,9.4976513,Switzerland,Wahlkreis Rheintal,Altstätten,N/A,9464,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.3116644,9.4949743,Switzerland,N/A,Schwende-Rüte,N/A,9058,Appenzell Innerrhoden,AI,Rüte,2024-09-24 23:02:11
-47.3208381,9.4905903,Switzerland,N/A,Schwende-Rüte,N/A,9453,Appenzell Innerrhoden,AI,Rüte,2024-09-24 23:02:11
-47.3291531,9.4794768,Switzerland,N/A,Schwende-Rüte,N/A,9056,Appenzell Innerrhoden,AI,Rüte,2024-09-24 23:02:11
-47.3264746,9.4474003,Switzerland,N/A,Schwende-Rüte,N/A,9056,Appenzell Innerrhoden,AI,Rüte,2024-09-24 23:02:11
-47.6020574,8.2314126,Switzerland,Bezirk Zurzach,Klingnau,N/A,5313,Aargau,AG,Klingnau,2024-09-24 23:02:11
-47.5843118,8.2398148,Switzerland,Bezirk Zurzach,Klingnau,N/A,5313,Aargau,AG,Klingnau,2024-09-24 23:02:11
-47.5745137,8.2547056,Switzerland,Bezirk Zurzach,Döttingen,N/A,5312,Aargau,AG,Döttingen,2024-09-24 23:02:11
-47.4705361,7.1289368,Switzerland,District de Porrentruy,Basse-Vendline,Combe au Sanera,2943,Jura,JU,N/A,2024-09-24 23:02:11
-47.4643414,7.0999051,Switzerland,District de Porrentruy,Damphreux-Lugnez,N/A,2933,Jura,JU,Damphreux,2024-09-24 23:02:11
-47.4532464,7.0910017,Switzerland,District de Porrentruy,Cœuve,N/A,2932,Jura,JU,Cœuve,2024-09-24 23:02:11
-47.469056,7.0695034,Switzerland,District de Porrentruy,Damphreux-Lugnez,En l'Aidiaice,2933,Jura,JU,Lugnez,2024-09-24 23:02:11
-47.4924464,7.0359068,Switzerland,District de Porrentruy,Basse-Allaine,N/A,2925,Jura,JU,Buix,2024-09-24 23:02:11
-47.1387062,8.437855,Switzerland,N/A,Risch-Rotkreuz,N/A,6343,Zug,ZG,N/A,2024-09-24 23:02:11
-47.2300876,9.3380956,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2210069,9.3499408,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2281315,9.3530293,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2291379,9.3519242,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2340179,9.3603323,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2403127,9.3686166,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2245686,9.3336317,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-46.9552769,8.3615696,Switzerland,N/A,Stans,N/A,6370,Nidwalden,NW,N/A,2024-09-24 23:02:11
-46.9519948,8.3583168,Switzerland,N/A,Stans,N/A,6371,Nidwalden,NW,N/A,2024-09-24 23:02:11
-46.9496846,8.3540999,Switzerland,N/A,Stans,N/A,6371,Nidwalden,NW,N/A,2024-09-24 23:02:11
-46.9472859,8.3510576,Switzerland,N/A,Stans,N/A,6370,Nidwalden,NW,N/A,2024-09-24 23:02:11
-46.9435259,8.3491933,Switzerland,N/A,Stans,N/A,6371,Nidwalden,NW,N/A,2024-09-24 23:02:11
-46.9360011,8.3482672,Switzerland,N/A,Stans,Alp Bluematt,6370,Nidwalden,NW,N/A,2024-09-24 23:02:11
-46.9316985,8.3474707,Switzerland,N/A,Dallenwil,N/A,6383,Nidwalden,NW,Dallenwil,2024-09-24 23:02:11
-47.1050349,8.675158,Switzerland,Schwyz,Rothenthurm,N/A,6418,Schwyz,SZ,Rothenthurm,2024-09-24 23:02:11
-47.094115,8.6864452,Switzerland,Schwyz,Rothenthurm,N/A,6418,Schwyz,SZ,Rothenthurm,2024-09-24 23:02:11
-47.0731657,8.6907012,Switzerland,Schwyz,Rothenthurm,N/A,6418,Schwyz,SZ,Rothenthurm,2024-09-24 23:02:11
-47.0603091,8.6769881,Switzerland,Schwyz,Schwyz,N/A,8849,Schwyz,SZ,N/A,2024-09-24 23:02:11
-47.0653198,8.6626505,Switzerland,Schwyz,Schwyz,N/A,6417,Schwyz,SZ,N/A,2024-09-24 23:02:11
-47.0730247,8.6420986,Switzerland,Schwyz,Sattel,N/A,6417,Schwyz,SZ,Sattel,2024-09-24 23:02:11
-46.7598806,7.5724681,Switzerland,Thun administrative district,Thierachern,N/A,3634,Bern,BE,Thierachern,2024-09-24 23:02:11
-47.5711865,8.1720509,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5276,Aargau,AG,Wil,2024-09-24 23:02:11
-47.5735287,8.1566963,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5276,Aargau,AG,Wil,2024-09-24 23:02:11
-47.5657155,8.1372072,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5276,Aargau,AG,Mettau,2024-09-24 23:02:11
-47.5768602,8.1454112,Switzerland,Bezirk Laufenburg,Schwaderloch,N/A,5326,Aargau,AG,Schwaderloch,2024-09-24 23:02:11
-47.5845854,8.153593,Switzerland,Bezirk Laufenburg,Schwaderloch,N/A,5326,Aargau,AG,Schwaderloch,2024-09-24 23:02:11
-47.5815338,8.1638673,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5325,Aargau,AG,N/A,2024-09-24 23:02:11
-46.6874174,9.3699912,Switzerland,Viamala,Tschappina,N/A,7428,Grisons,GR,Tschappina,2024-09-24 23:02:11
-46.6901223,9.3641409,Switzerland,Viamala,Tschappina,N/A,7428,Grisons,GR,Tschappina,2024-09-24 23:02:11
-46.706969,9.3413993,Switzerland,Surselva,Safiental,N/A,7107,Grisons,GR,N/A,2024-09-24 23:02:11
-46.631392,9.2784807,Switzerland,Surselva,Safiental,N/A,7109,Grisons,GR,N/A,2024-09-24 23:02:11
-47.2743819,8.7933419,Switzerland,Bezirk Hinwil,Bubikon,N/A,8626,Zurich,ZH,Bubikon,2024-09-24 23:02:11
-47.2899811,8.8731512,Switzerland,Bezirk Hinwil,Hinwil,N/A,8342,Zurich,ZH,Wernetshausen,2024-09-24 23:02:11
-47.2919467,8.8717868,Switzerland,Bezirk Hinwil,Hinwil,N/A,8342,Zurich,ZH,Wernetshausen,2024-09-24 23:02:11
-47.3006265,8.8538109,Switzerland,Bezirk Hinwil,Hinwil,N/A,8340,Zurich,ZH,Wernetshausen,2024-09-24 23:02:11
-47.2382059,9.3533639,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9057,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2202034,9.3339613,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2173451,9.3378799,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2135064,9.345522,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,Wildhaus,2024-09-24 23:02:11
-47.2111651,9.3491776,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,Wildhaus,2024-09-24 23:02:11
-47.2071583,9.3524133,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,Wildhaus,2024-09-24 23:02:11
-46.694031,9.3579837,Switzerland,Viamala,Tschappina,N/A,7428,Grisons,GR,Tschappina,2024-09-24 23:02:11
-46.6973702,9.355783,Switzerland,Viamala,Tschappina,N/A,7428,Grisons,GR,Tschappina,2024-09-24 23:02:11
-46.7026232,9.3573366,Switzerland,Viamala,Tschappina,N/A,7428,Grisons,GR,Tschappina,2024-09-24 23:02:11
-46.6149023,9.2790415,Switzerland,Surselva,Safiental,N/A,7109,Grisons,GR,N/A,2024-09-24 23:02:11
-46.5916665,9.2744012,Switzerland,Surselva,Safiental,Grossalp,7109,Grisons,GR,N/A,2024-09-24 23:02:11
-47.5831771,8.1767364,Switzerland,Bezirk Zurzach,Leibstadt,N/A,5325,Aargau,AG,Leibstadt,2024-09-24 23:02:11
-47.5770419,8.1721576,Switzerland,Bezirk Zurzach,Leibstadt,N/A,5325,Aargau,AG,Leibstadt,2024-09-24 23:02:11
-47.5700726,8.1791919,Switzerland,Bezirk Zurzach,Leuggern,N/A,5317,Aargau,AG,Etzwil,2024-09-24 23:02:11
-47.5555259,8.1810596,Switzerland,Bezirk Brugg,Mandach,N/A,5318,Aargau,AG,Mandach,2024-09-24 23:02:11
-47.5844347,8.1677826,Switzerland,Bezirk Zurzach,Leibstadt,Hintere Brüehhalde,5325,Aargau,AG,Leibstadt,2024-09-24 23:02:11
-46.7582613,7.5382492,Switzerland,Thun administrative district,Forst-Längenbühl,N/A,3636,Bern,BE,Längenbühl,2024-09-24 23:02:11
-46.7623297,7.5376834,Switzerland,Thun administrative district,Gurzelen,N/A,3636,Bern,BE,Längenbühl,2024-09-24 23:02:11
-46.7624084,7.5348264,Switzerland,Thun administrative district,Gurzelen,N/A,3663,Bern,BE,Gurzelen,2024-09-24 23:02:11
-47.5358736,8.180616,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5318,Aargau,AG,N/A,2024-09-24 23:02:11
-47.5303159,8.164051,Switzerland,Bezirk Brugg,Villigen,N/A,5236,Aargau,AG,Villigen,2024-09-24 23:02:11
-47.5237182,8.1401891,Switzerland,Bezirk Brugg,Mönthal,N/A,5237,Aargau,AG,Mönthal,2024-09-24 23:02:11
-47.5316528,8.1539101,Switzerland,Bezirk Laufenburg,Gansingen,N/A,5272,Aargau,AG,Gansingen,2024-09-24 23:02:11
-47.5516985,8.1493464,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5276,Aargau,AG,Wil,2024-09-24 23:02:11
-46.3697229,10.0369988,Switzerland,Bernina,Poschiavo,N/A,7741,Grisons,GR,Poschiavo,2024-09-24 23:02:11
-46.3621156,10.046331,Switzerland,Bernina,Poschiavo,N/A,7741,Grisons,GR,Poschiavo,2024-09-24 23:02:11
-46.3515016,10.0477146,Switzerland,Bernina,Poschiavo,N/A,7741,Grisons,GR,San Carlo,2024-09-24 23:02:11
-46.3260896,10.0565728,Switzerland,Bernina,Poschiavo,N/A,7742,Grisons,GR,Cologna,2024-09-24 23:02:11
-47.5209172,8.1705452,Switzerland,Bezirk Brugg,Remigen,N/A,5236,Aargau,AG,Remigen,2024-09-24 23:02:11
-46.3788051,10.0309017,Switzerland,Bernina,Poschiavo,N/A,7710,Grisons,GR,Poschiavo,2024-09-24 23:02:11
-46.3962758,10.0267021,Switzerland,Bernina,Poschiavo,N/A,7710,Grisons,GR,Poschiavo,2024-09-24 23:02:11
-46.4121423,10.0137134,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina,2024-09-24 23:02:11
-46.4160309,10.0048646,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina,2024-09-24 23:02:11
-46.4228898,9.9985475,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina,2024-09-24 23:02:11
-46.4379612,9.9872077,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina,2024-09-24 23:02:11
-46.4431775,9.9747797,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina,2024-09-24 23:02:11
-46.4316523,9.9934176,Switzerland,Maloja,Pontresina,Alp da Buond Suot,7504,Grisons,GR,Pontresina,2024-09-24 23:02:11
-47.5637093,8.0882016,Germany,Landkreis Waldshut,N/A,N/A,79725,Baden-Württemberg,BW,N/A,2024-09-24 23:02:11
-47.4229054,8.0566062,Switzerland,Bezirk Aarau,Küttigen,N/A,5024,Aargau,AG,Rombach,2024-09-24 23:02:11
-47.426427,8.0818478,Switzerland,Bezirk Aarau,Biberstein,N/A,5023,Aargau,AG,Biberstein,2024-09-24 23:02:11
-47.4214686,8.0743602,Switzerland,Bezirk Aarau,Biberstein,N/A,5023,Aargau,AG,Biberstein,2024-09-24 23:02:11
-47.4243831,8.1029744,Switzerland,Bezirk Brugg,Biberstein,N/A,5023,Aargau,AG,Biberstein,2024-09-24 23:02:11
-47.0384793,8.6997849,Switzerland,Schwyz,Alpthal,N/A,8849,Schwyz,SZ,Brunni,2024-09-24 23:02:11
-47.0318757,8.6973159,Switzerland,Schwyz,Schwyz,N/A,8849,Schwyz,SZ,N/A,2024-09-24 23:02:11
-47.0292475,8.6932785,Switzerland,Schwyz,Schwyz,N/A,8849,Schwyz,SZ,N/A,2024-09-24 23:02:11
-47.0313045,8.6939265,Switzerland,Schwyz,Schwyz,N/A,8849,Schwyz,SZ,N/A,2024-09-24 23:02:11
-47.0338127,8.6863747,Switzerland,Schwyz,Schwyz,N/A,6432,Schwyz,SZ,N/A,2024-09-24 23:02:11
-47.0377903,8.6965291,Switzerland,Schwyz,Alpthal,N/A,8849,Schwyz,SZ,Brunni,2024-09-24 23:02:11
-47.0439694,8.7048389,Switzerland,Schwyz,Alpthal,N/A,8849,Schwyz,SZ,Brunni,2024-09-24 23:02:11
-47.028879,9.2448662,Switzerland,Wahlkreis Sarganserland,Flums,Lauiboden,N/A,St. Gallen,N/A,Flums,2024-09-24 23:02:11
-47.3501403,8.736159,Switzerland,Bezirk Uster,Uster,N/A,8615,Zurich,ZH,Wermatswil,2024-09-24 23:02:11
-47.5250677,8.0703421,Switzerland,Bezirk Laufenburg,Kaisten,N/A,5083,Aargau,AG,Ittenthal,2024-09-24 23:02:11
-47.5279642,8.0791207,Switzerland,Bezirk Laufenburg,Kaisten,N/A,5083,Aargau,AG,Ittenthal,2024-09-24 23:02:11
-47.5201194,8.0696143,Switzerland,Bezirk Laufenburg,Kaisten,N/A,5083,Aargau,AG,Ittenthal,2024-09-24 23:02:11
-47.5087437,8.0462899,Switzerland,Bezirk Laufenburg,Böztal,N/A,5075,Aargau,AG,Hornussen,2024-09-24 23:02:11
-46.648122,9.0926843,Switzerland,Surselva,Lumnezia,N/A,7149,Grisons,GR,Vrin,2024-09-24 23:02:11
-46.6389767,9.0757543,Switzerland,Surselva,Lumnezia,N/A,7149,Grisons,GR,N/A,2024-09-24 23:02:11
-46.6341223,9.0596659,Switzerland,Surselva,Sumvitg,N/A,7149,Grisons,GR,Sumvitg,2024-09-24 23:02:11
-46.6338109,9.0340723,Switzerland,Surselva,Lumnezia,N/A,N/A,Grisons,GR,N/A,2024-09-24 23:02:11
-46.6334198,9.0094369,Switzerland,Surselva,Sumvitg,N/A,N/A,Grisons,GR,Sumvitg,2024-09-24 23:02:11
-46.623075,8.9994194,Switzerland,Surselva,Sumvitg,N/A,N/A,Grisons,GR,Sumvitg,2024-09-24 23:02:11
-46.6025949,9.0013488,Switzerland,Distretto di Blenio,Blenio,Mutarasc,N/A,Ticino,TI,Blenio,2024-09-24 23:02:11
-46.5831004,8.9971843,Switzerland,Distretto di Blenio,Blenio,N/A,6718,Ticino,TI,Blenio,2024-09-24 23:02:11
-46.5708805,8.9899191,Switzerland,Distretto di Blenio,Blenio,N/A,6718,Ticino,TI,Blenio,2024-09-24 23:02:11
-46.5647079,8.9764791,Switzerland,Distretto di Blenio,Blenio,N/A,6720,Ticino,TI,Campo (Blenio),2024-09-24 23:02:11
-46.5305959,8.9789582,Switzerland,Distretto di Blenio,Blenio,Alpe Carassino,6719,Ticino,TI,Blenio,2024-09-24 23:02:11
-46.7538002,7.5735557,Switzerland,Thun administrative district,Thierachern,N/A,3634,Bern,BE,Thierachern,2024-09-24 23:02:11
-47.3779717,8.4790121,Switzerland,District Zurich,Zurich,N/A,8048,Zurich,ZH,N/A,2024-09-24 23:02:11
-47.3743453,8.4773379,Switzerland,District Zurich,Zurich,N/A,8047,Zurich,ZH,N/A,2024-09-24 23:02:11
-47.3679735,8.4478256,Switzerland,Bezirk Dietikon,Uitikon,N/A,8142,Zurich,ZH,Waldegg,2024-09-24 23:02:11
-47.3734085,8.432874,Switzerland,Bezirk Dietikon,Urdorf,N/A,8902,Zurich,ZH,Urdorf,2024-09-24 23:02:11
-47.3865239,8.4628501,Switzerland,District Zurich,Zurich,N/A,8142,Zurich,ZH,N/A,2024-09-24 23:02:11
-47.382187,8.4266496,Switzerland,Bezirk Dietikon,Urdorf,N/A,8902,Zurich,ZH,Urdorf,2024-09-24 23:02:11
-47.38982,8.4392441,Switzerland,Bezirk Dietikon,Schlieren,N/A,8952,Zurich,ZH,N/A,2024-09-24 23:02:11
-47.3723332,8.4616488,Switzerland,Bezirk Dietikon,Uitikon,N/A,8142,Zurich,ZH,Waldegg,2024-09-24 23:02:11
-47.058726,8.4725542,Switzerland,Schwyz,Arth,N/A,6356,Schwyz,SZ,N/A,2024-09-24 23:02:11
-47.5969907,8.2570831,Switzerland,Bezirk Zurzach,Klingnau,N/A,5313,Aargau,AG,Klingnau,2024-09-24 23:02:11
-46.9794269,9.4297457,Switzerland,Wahlkreis Sarganserland,Pfäfers,N/A,7317,St. Gallen,N/A,Pfäfers,2024-09-24 23:02:11
-46.9793142,9.4223706,Switzerland,Wahlkreis Sarganserland,Pfäfers,N/A,7317,St. Gallen,N/A,Pfäfers,2024-09-24 23:02:11
-46.9788731,9.4190178,Switzerland,Wahlkreis Sarganserland,Vilters-Wangs,N/A,7323,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-46.975409,9.407224,Switzerland,Wahlkreis Sarganserland,Vilters-Wangs,N/A,7323,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-46.9650542,9.3756508,Switzerland,Wahlkreis Sarganserland,Mels,N/A,7326,St. Gallen,N/A,Mels,2024-09-24 23:02:11
-46.9661916,9.3522379,Switzerland,Wahlkreis Sarganserland,Mels,N/A,7326,St. Gallen,N/A,Mels,2024-09-24 23:02:11
-46.9814402,9.3469641,Switzerland,Wahlkreis Sarganserland,Mels,N/A,7326,St. Gallen,N/A,Weisstannen,2024-09-24 23:02:11
-46.7729983,8.7465782,Switzerland,N/A,Silenen,N/A,6475,Uri,UR,Silenen,2024-09-24 23:02:11
-46.7815588,8.7754817,Switzerland,N/A,Silenen,N/A,N/A,Uri,UR,Silenen,2024-09-24 23:02:11
-46.794795,8.8083262,Switzerland,N/A,Silenen,N/A,N/A,Uri,UR,Silenen,2024-09-24 23:02:11
-46.7874793,8.8033043,Switzerland,N/A,Silenen,N/A,N/A,Uri,UR,Silenen,2024-09-24 23:02:11
-46.7600689,8.8063435,Switzerland,N/A,Silenen,N/A,N/A,Uri,UR,Silenen,2024-09-24 23:02:11
-46.7529915,8.8466774,Switzerland,Surselva,Disentis/Mustér,Cavardiras,N/A,Grisons,GR,Disentis/Mustér,2024-09-24 23:02:11
-46.741467,8.8895135,Switzerland,Surselva,Disentis/Mustér,Punt Barcuns,7182,Grisons,GR,Disentis/Mustér,2024-09-24 23:02:11
-46.7236843,8.9267996,Switzerland,Surselva,Sumvitg,N/A,7175,Grisons,GR,Cumpadials,2024-09-24 23:02:11
-46.7219217,8.9106556,Switzerland,Surselva,Sumvitg,N/A,7175,Grisons,GR,Cumpadials,2024-09-24 23:02:11
-47.3391448,8.769131,Switzerland,Bezirk Hinwil,Seegräben,N/A,8607,Zurich,ZH,Sack,2024-09-24 23:02:11
-47.0142772,8.5555356,Switzerland,Schwyz,Lauerz,N/A,6424,Schwyz,SZ,Lauerz,2024-09-24 23:02:11
-47.0157944,8.5638243,Switzerland,Schwyz,Lauerz,N/A,6424,Schwyz,SZ,Lauerz,2024-09-24 23:02:11
-47.380916,7.7497248,Switzerland,Bezirk Waldenburg,Waldenburg,N/A,4437,Basel-Landschaft,BL,Waldenburg,2024-09-24 23:02:11
-47.3811486,7.7586338,Switzerland,Bezirk Waldenburg,Waldenburg,N/A,4437,Basel-Landschaft,BL,Waldenburg,2024-09-24 23:02:11
-47.3786133,7.771399,Switzerland,Bezirk Waldenburg,Waldenburg,N/A,4437,Basel-Landschaft,BL,Waldenburg,2024-09-24 23:02:11
-47.3770474,7.7850876,Switzerland,Bezirk Waldenburg,Langenbruck,Lauch,4438,Basel-Landschaft,BL,Langenbruck,2024-09-24 23:02:11
-47.3741066,7.7953276,Switzerland,Bezirk Waldenburg,Eptingen,N/A,4458,Basel-Landschaft,BL,Eptingen,2024-09-24 23:02:11
-47.3684208,7.8000786,Switzerland,Bezirk Waldenburg,Eptingen,N/A,4438,Basel-Landschaft,BL,Eptingen,2024-09-24 23:02:11
-47.3545211,7.7655252,Switzerland,Bezirk Waldenburg,Langenbruck,N/A,4438,Basel-Landschaft,BL,Langenbruck,2024-09-24 23:02:11
-47.3567646,7.7589523,Switzerland,Bezirk Waldenburg,Langenbruck,N/A,4438,Basel-Landschaft,BL,Langenbruck,2024-09-24 23:02:11
-47.369817,7.7516528,Switzerland,Bezirk Waldenburg,Waldenburg,N/A,4437,Basel-Landschaft,BL,Waldenburg,2024-09-24 23:02:11
-47.000845,6.7975322,Switzerland,N/A,Rochefort,N/A,2019,Neuchâtel,NE,Rochefort,2024-09-24 23:02:11
-47.017624,6.8109911,Switzerland,N/A,Val-de-Ruz,N/A,2019,Neuchâtel,NE,N/A,2024-09-24 23:02:11
-47.0265658,6.8212958,Switzerland,N/A,Val-de-Ruz,N/A,2206,Neuchâtel,NE,Les Geneveys-sur-Coffrane,2024-09-24 23:02:11
-47.0374001,6.8331348,Switzerland,N/A,Val-de-Ruz,N/A,2314,Neuchâtel,NE,N/A,2024-09-24 23:02:11
-47.0487439,6.8467639,Switzerland,N/A,Val-de-Ruz,N/A,2208,Neuchâtel,NE,N/A,2024-09-24 23:02:11
-47.0548538,6.8549186,Switzerland,N/A,Val-de-Ruz,N/A,2208,Neuchâtel,NE,N/A,2024-09-24 23:02:11
-47.0640287,6.8632931,Switzerland,N/A,Val-de-Ruz,N/A,2208,Neuchâtel,NE,N/A,2024-09-24 23:02:11
-47.0592572,6.870724,Switzerland,N/A,Val-de-Ruz,N/A,2052,Neuchâtel,NE,N/A,2024-09-24 23:02:11
-47.0674127,8.2184641,Switzerland,N/A,Lucerne,N/A,6016,Lucerne,LU,N/A,2024-09-24 23:02:11
-47.0710115,8.2077621,Switzerland,N/A,Lucerne,N/A,6016,Lucerne,LU,N/A,2024-09-24 23:02:11
-47.0728553,8.2115095,Switzerland,N/A,Lucerne,N/A,6016,Lucerne,LU,N/A,2024-09-24 23:02:11
-47.0706224,8.1985631,Switzerland,N/A,Neuenkirch,N/A,6016,Lucerne,LU,Hellbühl,2024-09-24 23:02:11
-47.0694164,8.2220825,Switzerland,N/A,Lucerne,N/A,6016,Lucerne,LU,N/A,2024-09-24 23:02:11
-47.0662254,8.2255817,Switzerland,N/A,Lucerne,N/A,6014,Lucerne,LU,N/A,2024-09-24 23:02:11
-47.0600906,8.2084058,Switzerland,N/A,Malters,N/A,6102,Lucerne,LU,Malters,2024-09-24 23:02:11
-47.0573093,8.2275911,Switzerland,N/A,Malters,N/A,6102,Lucerne,LU,Malters,2024-09-24 23:02:11
-47.0725778,8.2264717,Switzerland,N/A,Lucerne,N/A,6016,Lucerne,LU,N/A,2024-09-24 23:02:11
-47.0768969,8.2242565,Switzerland,N/A,Lucerne,N/A,6016,Lucerne,LU,N/A,2024-09-24 23:02:11
-47.3044062,8.8478419,Switzerland,Bezirk Hinwil,Hinwil,N/A,8340,Zurich,ZH,Ringwil,2024-09-24 23:02:11
-47.0112425,8.5674115,Switzerland,Schwyz,Lauerz,N/A,6424,Schwyz,SZ,Lauerz,2024-09-24 23:02:11
-46.8084915,8.4287571,Switzerland,N/A,Engelberg,N/A,6391,Obwalden,OW,Engelberg,2024-09-24 23:02:11
-46.8078592,8.4333772,Switzerland,N/A,Engelberg,N/A,6391,Obwalden,OW,Engelberg,2024-09-24 23:02:11
-46.802739,8.4495195,Switzerland,N/A,Engelberg,N/A,6391,Obwalden,OW,Engelberg,2024-09-24 23:02:11
-46.8090195,8.449072,Switzerland,N/A,Engelberg,N/A,6391,Obwalden,OW,Engelberg,2024-09-24 23:02:11
-46.7975812,8.4661666,Switzerland,N/A,Engelberg,N/A,6391,Obwalden,OW,Engelberg,2024-09-24 23:02:11
-46.7976513,8.4884875,Switzerland,N/A,Attinghausen,N/A,6468,Uri,UR,Attinghausen,2024-09-24 23:02:11
-46.8073903,8.4987666,Switzerland,N/A,Attinghausen,N/A,6468,Uri,UR,Attinghausen,2024-09-24 23:02:11
-46.8200857,8.5091798,Switzerland,N/A,Attinghausen,Butzen,6468,Uri,UR,Attinghausen,2024-09-24 23:02:11
-46.8311462,8.530723,Switzerland,N/A,Attinghausen,N/A,6468,Uri,UR,Attinghausen,2024-09-24 23:02:11
-46.8387007,8.5817857,Switzerland,N/A,Attinghausen,Kulm,6468,Uri,UR,Attinghausen,2024-09-24 23:02:11
-46.840937,8.557679,Switzerland,N/A,Isenthal,N/A,6461,Uri,UR,Isenthal,2024-09-24 23:02:11
-46.8441639,8.5760813,Switzerland,N/A,Attinghausen,Eyfrutt,6468,Uri,UR,Attinghausen,2024-09-24 23:02:11
-46.845412,8.5944996,Switzerland,N/A,Seedorf (UR),N/A,6462,Uri,UR,Seedorf (UR),2024-09-24 23:02:11
-46.8434325,8.5991908,Switzerland,N/A,Erstfeld,N/A,6472,Uri,UR,Erstfeld,2024-09-24 23:02:11
-46.8420383,8.6069284,Switzerland,N/A,Erstfeld,N/A,6472,Uri,UR,Erstfeld,2024-09-24 23:02:11
-47.2634571,8.8113496,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Wolfhausen,2024-09-24 23:02:11
-47.2473322,8.819107,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8645,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2454945,8.8131129,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8633,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2558402,8.8368723,Switzerland,Bezirk Hinwil,Rüti (ZH),N/A,8632,Zurich,ZH,N/A,2024-09-24 23:02:11
-47.2481259,8.8120372,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8633,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2428529,8.8182308,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8645,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2420391,8.8124552,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8645,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2397486,8.8174886,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8645,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2381302,8.815763,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2318108,8.818105,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2327052,8.8213298,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2318265,8.8207999,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.230459,8.8215011,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2295259,8.8204753,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2288785,8.82153,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2268787,8.8174746,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2268787,8.8158322,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2249908,8.8162452,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-24 23:02:11
-47.2540639,8.7717979,Switzerland,Bezirk Meilen,Hombrechtikon,N/A,8634,Zurich,ZH,Hombrechtikon,2024-09-24 23:02:11
-47.2599709,8.7868148,Switzerland,Bezirk Hinwil,Bubikon,N/A,8633,Zurich,ZH,Wolfhausen,2024-09-24 23:02:11
-47.2692331,8.8008541,Switzerland,Bezirk Hinwil,Bubikon,N/A,8633,Zurich,ZH,Bubikon,2024-09-24 23:02:11
-47.2614382,8.7977432,Switzerland,Bezirk Hinwil,Bubikon,N/A,8633,Zurich,ZH,Wolfhausen,2024-09-24 23:02:11
-46.6717412,6.4135073,Switzerland,District du Jura-Nord vaudois,La Praz,N/A,1148,Vaud,VD,La Praz,2024-09-24 23:02:11
-47.0350818,9.0060363,Switzerland,N/A,Glarus,N/A,8750,Glarus,GL,N/A,2024-09-24 23:02:11
-47.0250262,9.0305856,Switzerland,N/A,Glarus,Ahoren,8750,Glarus,GL,N/A,2024-09-24 23:02:11
+46.650143,10.2301992,Switzerland,Region Engiadina Bassa/Val Müstair,Zernez,Stabelchod,7530,Grisons,GR,Zernez,2024-09-26 19:51:54
+47.4309774,9.62017,Switzerland,Wahlkreis Rheintal,Berneck,Eichholz,9442,St. Gallen,N/A,Berneck,2024-09-26 19:51:54
+47.351168,8.4897796,Switzerland,District Zurich,Zurich,N/A,8063,Zurich,ZH,N/A,2024-09-26 19:51:54
+47.3291235,8.5007261,Switzerland,Bezirk Affoltern,Stallikon,N/A,8143,Zurich,ZH,Stallikon,2024-09-26 19:51:54
+47.3152439,8.5050559,Switzerland,Bezirk Affoltern,Stallikon,N/A,8143,Zurich,ZH,Stallikon,2024-09-26 19:51:54
+47.3164826,8.5186003,Switzerland,Bezirk Horgen,Adliswil,N/A,8134,Zurich,ZH,N/A,2024-09-26 19:51:54
+46.6864945,8.5941959,Switzerland,N/A,Wassen,N/A,6484,Uri,UR,Wassen,2024-09-26 19:51:54
+46.758293,8.6574212,Switzerland,N/A,Silenen,N/A,6476,Uri,UR,Amsteg,2024-09-26 19:51:54
+47.5352432,8.0967558,Switzerland,Bezirk Laufenburg,Laufenburg,N/A,5085,Aargau,AG,Sulz,2024-09-26 19:51:54
+46.8255681,6.5042809,Switzerland,District du Jura-Nord vaudois,Sainte-Croix,N/A,1450,Vaud,VD,Sainte-Croix,2024-09-26 19:51:54
+46.83268,6.5145084,Switzerland,District du Jura-Nord vaudois,Sainte-Croix,N/A,1450,Vaud,VD,Sainte-Croix,2024-09-26 19:51:54
+46.8356755,6.522718,Switzerland,District du Jura-Nord vaudois,Sainte-Croix,N/A,1450,Vaud,VD,Sainte-Croix,2024-09-26 19:51:54
+46.8435439,6.5313614,Switzerland,District du Jura-Nord vaudois,Bullet,N/A,1452,Vaud,VD,Les Rasses,2024-09-26 19:51:54
+46.8556668,6.5501737,Switzerland,District du Jura-Nord vaudois,Fiez,N/A,1453,Vaud,VD,Fiez,2024-09-26 19:51:54
+46.8634566,6.5658229,Switzerland,District du Jura-Nord vaudois,Bullet,N/A,1453,Vaud,VD,Bullet,2024-09-26 19:51:54
+46.8609414,6.6144089,Switzerland,District du Jura-Nord vaudois,Mauborget,N/A,1453,Vaud,VD,Mauborget,2024-09-26 19:51:54
+46.8964957,6.6098089,Switzerland,N/A,Val-de-Travers,N/A,2112,Neuchâtel,NE,Môtiers NE,2024-09-26 19:51:54
+47.3265932,9.0257357,Switzerland,Wahlkreis Toggenburg,Mosnang,N/A,9614,St. Gallen,N/A,Libingen,2024-09-26 19:51:54
+47.3204765,9.032205,Switzerland,Wahlkreis Toggenburg,Mosnang,N/A,9614,St. Gallen,N/A,Libingen,2024-09-26 19:51:54
+47.3139131,9.0340285,Switzerland,Wahlkreis Toggenburg,Mosnang,N/A,9622,St. Gallen,N/A,Mosnang,2024-09-26 19:51:54
+47.3096563,9.0309978,Switzerland,Wahlkreis Toggenburg,Mosnang,N/A,9614,St. Gallen,N/A,Mosnang,2024-09-26 19:51:54
+47.3005555,9.0197317,Switzerland,Wahlkreis See-Gaster,Eschenbach (SG),N/A,8733,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2960901,9.0220985,Switzerland,Wahlkreis Toggenburg,Wattwil,N/A,8375,St. Gallen,N/A,Wattwil,2024-09-26 19:51:54
+47.2915794,9.0283607,Switzerland,Wahlkreis Toggenburg,Wattwil,N/A,8375,St. Gallen,N/A,Wattwil,2024-09-26 19:51:54
+47.2808333,9.0325995,Switzerland,Wahlkreis See-Gaster,Eschenbach (SG),N/A,8733,St. Gallen,N/A,Walde SG,2024-09-26 19:51:54
+47.2717847,9.0363372,Switzerland,Wahlkreis See-Gaster,Eschenbach (SG),N/A,8733,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2671226,9.040902,Switzerland,Wahlkreis See-Gaster,Gommiswald,N/A,8726,St. Gallen,N/A,Ricken SG,2024-09-26 19:51:54
+47.3028875,8.5080851,Switzerland,Bezirk Affoltern,Stallikon,N/A,8143,Zurich,ZH,Stallikon,2024-09-26 19:51:54
+47.2857101,8.5134809,Switzerland,Bezirk Horgen,Langnau am Albis,N/A,8135,Zurich,ZH,Langnau am Albis,2024-09-26 19:51:54
+47.2712226,8.5262202,Switzerland,Bezirk Horgen,Langnau am Albis,N/A,8135,Zurich,ZH,Langnau am Albis,2024-09-26 19:51:54
+47.2635986,8.5335671,Switzerland,Bezirk Affoltern,Hausen am Albis,N/A,8915,Zurich,ZH,Hausen am Albis,2024-09-26 19:51:54
+47.2647956,8.555493,Switzerland,Bezirk Horgen,Horgen,N/A,8810,Zurich,ZH,N/A,2024-09-26 19:51:54
+47.5490567,8.1111345,Switzerland,Bezirk Laufenburg,Gansingen,N/A,5272,Aargau,AG,Gansingen,2024-09-26 19:51:54
+47.362355,8.4906313,Switzerland,District Zurich,Zurich,N/A,8063,Zurich,ZH,N/A,2024-09-26 19:51:54
+47.3552026,8.4892329,Switzerland,District Zurich,Zurich,N/A,8063,Zurich,ZH,N/A,2024-09-26 19:51:54
+47.3489275,8.4994754,Switzerland,District Zurich,Zurich,N/A,8063,Zurich,ZH,N/A,2024-09-26 19:51:54
+47.2887772,8.8581679,Switzerland,Bezirk Hinwil,Hinwil,N/A,8340,Zurich,ZH,Hadlikon,2024-09-26 19:51:54
+47.295046,8.850249,Switzerland,Bezirk Hinwil,Hinwil,N/A,8340,Zurich,ZH,Hadlikon,2024-09-26 19:51:54
+47.285254,8.8695647,Switzerland,Bezirk Hinwil,Dürnten,N/A,8635,Zurich,ZH,Breitenmatt,2024-09-26 19:51:54
+47.2831134,8.8494622,Switzerland,Bezirk Hinwil,Dürnten,N/A,8635,Zurich,ZH,Oberdürnten,2024-09-26 19:51:54
+47.2750342,8.8356737,Switzerland,Bezirk Hinwil,Dürnten,N/A,8632,Zurich,ZH,Tann,2024-09-26 19:51:54
+47.2776044,8.8789713,Switzerland,Bezirk Hinwil,Dürnten,N/A,8635,Zurich,ZH,Breitenmatt,2024-09-26 19:51:54
+47.2819308,8.8686143,Switzerland,Bezirk Hinwil,Dürnten,N/A,8635,Zurich,ZH,Breitenmatt,2024-09-26 19:51:54
+47.278424,8.8240752,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Bubikon,2024-09-26 19:51:54
+47.2686736,8.8243599,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Bubikon,2024-09-26 19:51:54
+47.2691917,8.8436149,Switzerland,Bezirk Hinwil,Dürnten,N/A,8632,Zurich,ZH,Tann,2024-09-26 19:51:54
+47.268496,8.8307534,Switzerland,Bezirk Hinwil,Dürnten,N/A,8608,Zurich,ZH,Dürnten,2024-09-26 19:51:54
+47.2646347,8.8295722,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Bubikon,2024-09-26 19:51:54
+47.2616268,8.843317,Switzerland,Bezirk Hinwil,Rüti (ZH),N/A,8630,Zurich,ZH,N/A,2024-09-26 19:51:54
+47.2928383,8.8341464,Switzerland,Bezirk Hinwil,Hinwil,N/A,8349,Zurich,ZH,Hinwil,2024-09-26 19:51:54
+47.2889124,8.8389398,Switzerland,Bezirk Hinwil,Hinwil,N/A,8340,Zurich,ZH,Hadlikon,2024-09-26 19:51:54
+47.2793684,8.8162043,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Bubikon,2024-09-26 19:51:54
+47.273926,8.8957778,Switzerland,Bezirk Hinwil,Wald (ZH),N/A,8663,Zurich,ZH,Wald (ZH),2024-09-26 19:51:54
+47.2715449,8.864675,Switzerland,Bezirk Hinwil,Dürnten,N/A,8635,Zurich,ZH,Oberdürnten,2024-09-26 19:51:54
+47.2672644,8.8559288,Switzerland,Bezirk Hinwil,Dürnten,N/A,8632,Zurich,ZH,Tann,2024-09-26 19:51:54
+47.2637302,8.8556643,Switzerland,Bezirk Hinwil,Rüti (ZH),Joweid Zentrum,8630,Zurich,ZH,N/A,2024-09-26 19:51:54
+47.2678451,8.8666451,Switzerland,Bezirk Hinwil,Rüti (ZH),N/A,8630,Zurich,ZH,N/A,2024-09-26 19:51:54
+47.2698096,8.8204598,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Wolfhausen,2024-09-26 19:51:54
+47.2540752,8.819909,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Wolfhausen,2024-09-26 19:51:54
+47.270668,8.8120444,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Bubikon,2024-09-26 19:51:54
+47.2729998,8.8442826,Switzerland,Bezirk Hinwil,Dürnten,N/A,8632,Zurich,ZH,Tann,2024-09-26 19:51:54
+47.2642278,8.8520052,Switzerland,Bezirk Hinwil,Dürnten,N/A,8632,Zurich,ZH,Tann,2024-09-26 19:51:54
+47.2828357,8.8697479,Switzerland,Bezirk Hinwil,Dürnten,N/A,8635,Zurich,ZH,Breitenmatt,2024-09-26 19:51:54
+47.2736486,8.8562662,Switzerland,Bezirk Hinwil,Dürnten,N/A,8632,Zurich,ZH,Tann,2024-09-26 19:51:54
+47.3001847,8.8212979,Switzerland,Bezirk Hinwil,Hinwil,N/A,8349,Zurich,ZH,Hinwil,2024-09-26 19:51:54
+47.2585925,7.4437102,Switzerland,Amtei Thal-Gäu,Welschenrohr-Gänsbrunnen,N/A,4716,Solothurn,SO,Welschenrohr-Gänsbrunnen,2024-09-26 19:51:54
+47.2573848,7.3944437,Switzerland,Bernese Jura administrative district,Court,N/A,2738,Bern,BE,Court,2024-09-26 19:51:54
+47.2841676,7.385936,Switzerland,Bernese Jura administrative district,Moutier,N/A,2740,Bern,BE,N/A,2024-09-26 19:51:54
+47.289226,7.3930404,Switzerland,Bernese Jura administrative district,Belprahon,N/A,2740,Bern,BE,Belprahon,2024-09-26 19:51:54
+47.2923335,7.4015379,Switzerland,Bernese Jura administrative district,Belprahon,Gressins dessous,2744,Bern,BE,Belprahon,2024-09-26 19:51:54
+47.2974282,7.4120652,Switzerland,Bernese Jura administrative district,Belprahon,N/A,2744,Bern,BE,Belprahon,2024-09-26 19:51:54
+47.3018145,7.4201357,Switzerland,Bernese Jura administrative district,Grandval,N/A,2745,Bern,BE,Grandval,2024-09-26 19:51:54
+47.2954952,7.4551799,Switzerland,Bernese Jura administrative district,Corcelles (BE),La Côte au Boeuf,2747,Bern,BE,Corcelles (BE),2024-09-26 19:51:54
+47.2795081,7.4549841,Switzerland,Bernese Jura administrative district,Crémines,N/A,2746,Bern,BE,Crémines,2024-09-26 19:51:54
+47.2692217,7.4606337,Switzerland,Bernese Jura administrative district,Crémines,N/A,2746,Bern,BE,Crémines,2024-09-26 19:51:54
+47.2647082,7.4663391,Switzerland,Amtei Thal-Gäu,Welschenrohr-Gänsbrunnen,N/A,4716,Solothurn,SO,Gänsbrunnen,2024-09-26 19:51:54
+47.3243165,8.747488,Switzerland,Bezirk Uster,Uster,N/A,8614,Zurich,ZH,Sulzbach,2024-09-26 19:51:54
+46.8276562,9.3566913,Switzerland,Imboden,Trin,N/A,7014,Grisons,GR,Trin Mulin,2024-09-26 19:51:54
+46.8148423,9.3304239,Switzerland,Imboden,Trin,N/A,7016,Grisons,GR,Trin,2024-09-26 19:51:54
+46.8071233,9.3196379,Switzerland,Surselva,Safiental,N/A,7104,Grisons,GR,Versam,2024-09-26 19:51:54
+46.7992609,9.2926408,Switzerland,Surselva,Sagogn,N/A,7152,Grisons,GR,Sagogn,2024-09-26 19:51:54
+47.2733557,9.4699772,Switzerland,N/A,Schwende-Rüte,N/A,9058,Appenzell Innerrhoden,AI,Rüte,2024-09-26 19:51:54
+47.2847553,9.4866094,Switzerland,Wahlkreis Rheintal,Altstätten,N/A,9464,St. Gallen,N/A,Lienz,2024-09-26 19:51:54
+47.2873653,9.4882582,Switzerland,Wahlkreis Rheintal,Altstätten,N/A,9464,St. Gallen,N/A,Lienz,2024-09-26 19:51:54
+47.3004458,9.4947814,Switzerland,Wahlkreis Rheintal,Altstätten,N/A,9058,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.3076614,9.4976513,Switzerland,Wahlkreis Rheintal,Altstätten,N/A,9464,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.3116644,9.4949743,Switzerland,N/A,Schwende-Rüte,N/A,9058,Appenzell Innerrhoden,AI,Rüte,2024-09-26 19:51:54
+47.3208381,9.4905903,Switzerland,N/A,Schwende-Rüte,N/A,9453,Appenzell Innerrhoden,AI,Rüte,2024-09-26 19:51:54
+47.3291531,9.4794768,Switzerland,N/A,Schwende-Rüte,N/A,9056,Appenzell Innerrhoden,AI,Rüte,2024-09-26 19:51:54
+47.3264746,9.4474003,Switzerland,N/A,Schwende-Rüte,N/A,9056,Appenzell Innerrhoden,AI,Rüte,2024-09-26 19:51:54
+47.6020574,8.2314126,Switzerland,Bezirk Zurzach,Klingnau,N/A,5313,Aargau,AG,Klingnau,2024-09-26 19:51:54
+47.5843118,8.2398148,Switzerland,Bezirk Zurzach,Klingnau,N/A,5313,Aargau,AG,Klingnau,2024-09-26 19:51:54
+47.5745137,8.2547056,Switzerland,Bezirk Zurzach,Döttingen,N/A,5312,Aargau,AG,Döttingen,2024-09-26 19:51:54
+47.4705361,7.1289368,Switzerland,District de Porrentruy,Basse-Vendline,Combe au Sanera,2943,Jura,JU,N/A,2024-09-26 19:51:54
+47.4643414,7.0999051,Switzerland,District de Porrentruy,Damphreux-Lugnez,N/A,2933,Jura,JU,Damphreux,2024-09-26 19:51:54
+47.4532464,7.0910017,Switzerland,District de Porrentruy,Cœuve,N/A,2932,Jura,JU,Cœuve,2024-09-26 19:51:54
+47.469056,7.0695034,Switzerland,District de Porrentruy,Damphreux-Lugnez,En l'Aidiaice,2933,Jura,JU,Lugnez,2024-09-26 19:51:54
+47.4924464,7.0359068,Switzerland,District de Porrentruy,Basse-Allaine,N/A,2925,Jura,JU,Buix,2024-09-26 19:51:54
+47.1387062,8.437855,Switzerland,N/A,Risch-Rotkreuz,N/A,6343,Zug,ZG,N/A,2024-09-26 19:51:54
+47.2300876,9.3380956,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2210069,9.3499408,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2281315,9.3530293,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2291379,9.3519242,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2340179,9.3603323,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2403127,9.3686166,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2245686,9.3336317,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+46.9552769,8.3615696,Switzerland,N/A,Stans,N/A,6370,Nidwalden,NW,N/A,2024-09-26 19:51:54
+46.9519948,8.3583168,Switzerland,N/A,Stans,N/A,6371,Nidwalden,NW,N/A,2024-09-26 19:51:54
+46.9496846,8.3540999,Switzerland,N/A,Stans,N/A,6371,Nidwalden,NW,N/A,2024-09-26 19:51:54
+46.9472859,8.3510576,Switzerland,N/A,Stans,N/A,6370,Nidwalden,NW,N/A,2024-09-26 19:51:54
+46.9435259,8.3491933,Switzerland,N/A,Stans,N/A,6371,Nidwalden,NW,N/A,2024-09-26 19:51:54
+46.9360011,8.3482672,Switzerland,N/A,Stans,Alp Bluematt,6370,Nidwalden,NW,N/A,2024-09-26 19:51:54
+46.9316985,8.3474707,Switzerland,N/A,Dallenwil,N/A,6383,Nidwalden,NW,Dallenwil,2024-09-26 19:51:54
+47.1050349,8.675158,Switzerland,Schwyz,Rothenthurm,N/A,6418,Schwyz,SZ,Rothenthurm,2024-09-26 19:51:54
+47.094115,8.6864452,Switzerland,Schwyz,Rothenthurm,N/A,6418,Schwyz,SZ,Rothenthurm,2024-09-26 19:51:54
+47.0731657,8.6907012,Switzerland,Schwyz,Rothenthurm,N/A,6418,Schwyz,SZ,Rothenthurm,2024-09-26 19:51:54
+47.0603091,8.6769881,Switzerland,Schwyz,Schwyz,N/A,8849,Schwyz,SZ,N/A,2024-09-26 19:51:54
+47.0653198,8.6626505,Switzerland,Schwyz,Schwyz,N/A,6417,Schwyz,SZ,N/A,2024-09-26 19:51:54
+47.0730247,8.6420986,Switzerland,Schwyz,Sattel,N/A,6417,Schwyz,SZ,Sattel,2024-09-26 19:51:54
+46.7598806,7.5724681,Switzerland,Thun administrative district,Thierachern,N/A,3634,Bern,BE,Thierachern,2024-09-26 19:51:54
+47.5711865,8.1720509,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5276,Aargau,AG,Wil,2024-09-26 19:51:54
+47.5735287,8.1566963,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5276,Aargau,AG,Wil,2024-09-26 19:51:54
+47.5657155,8.1372072,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5276,Aargau,AG,Mettau,2024-09-26 19:51:54
+47.5768602,8.1454112,Switzerland,Bezirk Laufenburg,Schwaderloch,N/A,5326,Aargau,AG,Schwaderloch,2024-09-26 19:51:54
+47.5845854,8.153593,Switzerland,Bezirk Laufenburg,Schwaderloch,N/A,5326,Aargau,AG,Schwaderloch,2024-09-26 19:51:54
+47.5815338,8.1638673,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5325,Aargau,AG,N/A,2024-09-26 19:51:54
+46.6874174,9.3699912,Switzerland,Viamala,Tschappina,N/A,7428,Grisons,GR,Tschappina,2024-09-26 19:51:54
+46.6901223,9.3641409,Switzerland,Viamala,Tschappina,N/A,7428,Grisons,GR,Tschappina,2024-09-26 19:51:54
+46.706969,9.3413993,Switzerland,Surselva,Safiental,N/A,7107,Grisons,GR,N/A,2024-09-26 19:51:54
+46.631392,9.2784807,Switzerland,Surselva,Safiental,N/A,7109,Grisons,GR,N/A,2024-09-26 19:51:54
+47.2743819,8.7933419,Switzerland,Bezirk Hinwil,Bubikon,N/A,8626,Zurich,ZH,Bubikon,2024-09-26 19:51:54
+47.2899811,8.8731512,Switzerland,Bezirk Hinwil,Hinwil,N/A,8342,Zurich,ZH,Wernetshausen,2024-09-26 19:51:54
+47.2919467,8.8717868,Switzerland,Bezirk Hinwil,Hinwil,N/A,8342,Zurich,ZH,Wernetshausen,2024-09-26 19:51:54
+47.3006265,8.8538109,Switzerland,Bezirk Hinwil,Hinwil,N/A,8340,Zurich,ZH,Wernetshausen,2024-09-26 19:51:54
+47.2382059,9.3533639,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9057,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2202034,9.3339613,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2173451,9.3378799,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2135064,9.345522,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,Wildhaus,2024-09-26 19:51:54
+47.2111651,9.3491776,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,Wildhaus,2024-09-26 19:51:54
+47.2071583,9.3524133,Switzerland,Wahlkreis Toggenburg,Wildhaus-Alt St. Johann,N/A,9658,St. Gallen,N/A,Wildhaus,2024-09-26 19:51:54
+46.694031,9.3579837,Switzerland,Viamala,Tschappina,N/A,7428,Grisons,GR,Tschappina,2024-09-26 19:51:54
+46.6973702,9.355783,Switzerland,Viamala,Tschappina,N/A,7428,Grisons,GR,Tschappina,2024-09-26 19:51:54
+46.7026232,9.3573366,Switzerland,Viamala,Tschappina,N/A,7428,Grisons,GR,Tschappina,2024-09-26 19:51:54
+46.6149023,9.2790415,Switzerland,Surselva,Safiental,N/A,7109,Grisons,GR,N/A,2024-09-26 19:51:54
+46.5916665,9.2744012,Switzerland,Surselva,Safiental,Grossalp,7109,Grisons,GR,N/A,2024-09-26 19:51:54
+47.5831771,8.1767364,Switzerland,Bezirk Zurzach,Leibstadt,N/A,5325,Aargau,AG,Leibstadt,2024-09-26 19:51:54
+47.5770419,8.1721576,Switzerland,Bezirk Zurzach,Leibstadt,N/A,5325,Aargau,AG,Leibstadt,2024-09-26 19:51:54
+47.5700726,8.1791919,Switzerland,Bezirk Zurzach,Leuggern,N/A,5317,Aargau,AG,Etzwil,2024-09-26 19:51:54
+47.5555259,8.1810596,Switzerland,Bezirk Brugg,Mandach,N/A,5318,Aargau,AG,Mandach,2024-09-26 19:51:54
+47.5844347,8.1677826,Switzerland,Bezirk Zurzach,Leibstadt,Hintere Brüehhalde,5325,Aargau,AG,Leibstadt,2024-09-26 19:51:54
+46.7582613,7.5382492,Switzerland,Thun administrative district,Forst-Längenbühl,N/A,3636,Bern,BE,Längenbühl,2024-09-26 19:51:54
+46.7623297,7.5376834,Switzerland,Thun administrative district,Gurzelen,N/A,3636,Bern,BE,Längenbühl,2024-09-26 19:51:54
+46.7624084,7.5348264,Switzerland,Thun administrative district,Gurzelen,N/A,3663,Bern,BE,Gurzelen,2024-09-26 19:51:54
+47.5358736,8.180616,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5318,Aargau,AG,N/A,2024-09-26 19:51:54
+47.5303159,8.164051,Switzerland,Bezirk Brugg,Villigen,N/A,5236,Aargau,AG,Villigen,2024-09-26 19:51:54
+47.5237182,8.1401891,Switzerland,Bezirk Brugg,Mönthal,N/A,5237,Aargau,AG,Mönthal,2024-09-26 19:51:54
+47.5316528,8.1539101,Switzerland,Bezirk Laufenburg,Gansingen,N/A,5272,Aargau,AG,Gansingen,2024-09-26 19:51:54
+47.5516985,8.1493464,Switzerland,Bezirk Laufenburg,Mettauertal,N/A,5276,Aargau,AG,Wil,2024-09-26 19:51:54
+46.3697229,10.0369988,Switzerland,Bernina,Poschiavo,N/A,7741,Grisons,GR,Poschiavo,2024-09-26 19:51:54
+46.3621156,10.046331,Switzerland,Bernina,Poschiavo,N/A,7741,Grisons,GR,Poschiavo,2024-09-26 19:51:54
+46.3515016,10.0477146,Switzerland,Bernina,Poschiavo,N/A,7741,Grisons,GR,San Carlo,2024-09-26 19:51:54
+46.3260896,10.0565728,Switzerland,Bernina,Poschiavo,N/A,7742,Grisons,GR,Cologna,2024-09-26 19:51:54
+47.5209172,8.1705452,Switzerland,Bezirk Brugg,Remigen,N/A,5236,Aargau,AG,Remigen,2024-09-26 19:51:54
+46.3788051,10.0309017,Switzerland,Bernina,Poschiavo,N/A,7710,Grisons,GR,Poschiavo,2024-09-26 19:51:54
+46.3962758,10.0267021,Switzerland,Bernina,Poschiavo,N/A,7710,Grisons,GR,Poschiavo,2024-09-26 19:51:54
+46.4121423,10.0137134,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina,2024-09-26 19:51:54
+46.4160309,10.0048646,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina,2024-09-26 19:51:54
+46.4228898,9.9985475,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina,2024-09-26 19:51:54
+46.4379612,9.9872077,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina,2024-09-26 19:51:54
+46.4431775,9.9747797,Switzerland,Maloja,Pontresina,N/A,7504,Grisons,GR,Pontresina,2024-09-26 19:51:54
+46.4316523,9.9934176,Switzerland,Maloja,Pontresina,Alp da Buond Suot,7504,Grisons,GR,Pontresina,2024-09-26 19:51:54
+47.5637093,8.0882016,Germany,Landkreis Waldshut,N/A,N/A,79725,Baden-Württemberg,BW,N/A,2024-09-26 19:51:54
+47.4229054,8.0566062,Switzerland,Bezirk Aarau,Küttigen,N/A,5024,Aargau,AG,Rombach,2024-09-26 19:51:54
+47.426427,8.0818478,Switzerland,Bezirk Aarau,Biberstein,N/A,5023,Aargau,AG,Biberstein,2024-09-26 19:51:54
+47.4214686,8.0743602,Switzerland,Bezirk Aarau,Biberstein,N/A,5023,Aargau,AG,Biberstein,2024-09-26 19:51:54
+47.4243831,8.1029744,Switzerland,Bezirk Brugg,Biberstein,N/A,5023,Aargau,AG,Biberstein,2024-09-26 19:51:54
+47.0384793,8.6997849,Switzerland,Schwyz,Alpthal,N/A,8849,Schwyz,SZ,Brunni,2024-09-26 19:51:54
+47.0318757,8.6973159,Switzerland,Schwyz,Schwyz,N/A,8849,Schwyz,SZ,N/A,2024-09-26 19:51:54
+47.0292475,8.6932785,Switzerland,Schwyz,Schwyz,N/A,8849,Schwyz,SZ,N/A,2024-09-26 19:51:54
+47.0313045,8.6939265,Switzerland,Schwyz,Schwyz,N/A,8849,Schwyz,SZ,N/A,2024-09-26 19:51:54
+47.0338127,8.6863747,Switzerland,Schwyz,Schwyz,N/A,6432,Schwyz,SZ,N/A,2024-09-26 19:51:54
+47.0377903,8.6965291,Switzerland,Schwyz,Alpthal,N/A,8849,Schwyz,SZ,Brunni,2024-09-26 19:51:54
+47.0439694,8.7048389,Switzerland,Schwyz,Alpthal,N/A,8849,Schwyz,SZ,Brunni,2024-09-26 19:51:54
+47.028879,9.2448662,Switzerland,Wahlkreis Sarganserland,Flums,Lauiboden,N/A,St. Gallen,N/A,Flums,2024-09-26 19:51:54
+47.3501403,8.736159,Switzerland,Bezirk Uster,Uster,N/A,8615,Zurich,ZH,Wermatswil,2024-09-26 19:51:54
+47.5250677,8.0703421,Switzerland,Bezirk Laufenburg,Kaisten,N/A,5083,Aargau,AG,Ittenthal,2024-09-26 19:51:54
+47.5279642,8.0791207,Switzerland,Bezirk Laufenburg,Kaisten,N/A,5083,Aargau,AG,Ittenthal,2024-09-26 19:51:54
+47.5201194,8.0696143,Switzerland,Bezirk Laufenburg,Kaisten,N/A,5083,Aargau,AG,Ittenthal,2024-09-26 19:51:54
+47.5087437,8.0462899,Switzerland,Bezirk Laufenburg,Böztal,N/A,5075,Aargau,AG,Hornussen,2024-09-26 19:51:54
+46.648122,9.0926843,Switzerland,Surselva,Lumnezia,N/A,7149,Grisons,GR,Vrin,2024-09-26 19:51:54
+46.6389767,9.0757543,Switzerland,Surselva,Lumnezia,N/A,7149,Grisons,GR,N/A,2024-09-26 19:51:54
+46.6341223,9.0596659,Switzerland,Surselva,Sumvitg,N/A,7149,Grisons,GR,Sumvitg,2024-09-26 19:51:54
+46.6338109,9.0340723,Switzerland,Surselva,Lumnezia,N/A,N/A,Grisons,GR,N/A,2024-09-26 19:51:54
+46.6334198,9.0094369,Switzerland,Surselva,Sumvitg,N/A,N/A,Grisons,GR,Sumvitg,2024-09-26 19:51:54
+46.623075,8.9994194,Switzerland,Surselva,Sumvitg,N/A,N/A,Grisons,GR,Sumvitg,2024-09-26 19:51:54
+46.6025949,9.0013488,Switzerland,Distretto di Blenio,Blenio,Mutarasc,N/A,Ticino,TI,Blenio,2024-09-26 19:51:54
+46.5831004,8.9971843,Switzerland,Distretto di Blenio,Blenio,N/A,6718,Ticino,TI,Blenio,2024-09-26 19:51:54
+46.5708805,8.9899191,Switzerland,Distretto di Blenio,Blenio,N/A,6718,Ticino,TI,Blenio,2024-09-26 19:51:54
+46.5647079,8.9764791,Switzerland,Distretto di Blenio,Blenio,N/A,6720,Ticino,TI,Campo (Blenio),2024-09-26 19:51:54
+46.5305959,8.9789582,Switzerland,Distretto di Blenio,Blenio,Alpe Carassino,6719,Ticino,TI,Blenio,2024-09-26 19:51:54
+46.7538002,7.5735557,Switzerland,Thun administrative district,Thierachern,N/A,3634,Bern,BE,Thierachern,2024-09-26 19:51:54
+47.3779717,8.4790121,Switzerland,District Zurich,Zurich,N/A,8048,Zurich,ZH,N/A,2024-09-26 19:51:54
+47.3743453,8.4773379,Switzerland,District Zurich,Zurich,N/A,8047,Zurich,ZH,N/A,2024-09-26 19:51:54
+47.3679735,8.4478256,Switzerland,Bezirk Dietikon,Uitikon,N/A,8142,Zurich,ZH,Waldegg,2024-09-26 19:51:54
+47.3734085,8.432874,Switzerland,Bezirk Dietikon,Urdorf,N/A,8902,Zurich,ZH,Urdorf,2024-09-26 19:51:54
+47.3865239,8.4628501,Switzerland,District Zurich,Zurich,N/A,8142,Zurich,ZH,N/A,2024-09-26 19:51:54
+47.382187,8.4266496,Switzerland,Bezirk Dietikon,Urdorf,N/A,8902,Zurich,ZH,Urdorf,2024-09-26 19:51:54
+47.38982,8.4392441,Switzerland,Bezirk Dietikon,Schlieren,N/A,8952,Zurich,ZH,N/A,2024-09-26 19:51:54
+47.3723332,8.4616488,Switzerland,Bezirk Dietikon,Uitikon,N/A,8142,Zurich,ZH,Waldegg,2024-09-26 19:51:54
+47.058726,8.4725542,Switzerland,Schwyz,Arth,N/A,6356,Schwyz,SZ,N/A,2024-09-26 19:51:54
+47.5969907,8.2570831,Switzerland,Bezirk Zurzach,Klingnau,N/A,5313,Aargau,AG,Klingnau,2024-09-26 19:51:54
+46.9794269,9.4297457,Switzerland,Wahlkreis Sarganserland,Pfäfers,N/A,7317,St. Gallen,N/A,Pfäfers,2024-09-26 19:51:54
+46.9793142,9.4223706,Switzerland,Wahlkreis Sarganserland,Pfäfers,N/A,7317,St. Gallen,N/A,Pfäfers,2024-09-26 19:51:54
+46.9788731,9.4190178,Switzerland,Wahlkreis Sarganserland,Vilters-Wangs,N/A,7323,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+46.975409,9.407224,Switzerland,Wahlkreis Sarganserland,Vilters-Wangs,N/A,7323,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+46.9650542,9.3756508,Switzerland,Wahlkreis Sarganserland,Mels,N/A,7326,St. Gallen,N/A,Mels,2024-09-26 19:51:54
+46.9661916,9.3522379,Switzerland,Wahlkreis Sarganserland,Mels,N/A,8887,St. Gallen,N/A,Mels,2024-09-26 19:51:54
+46.9814402,9.3469641,Switzerland,Wahlkreis Sarganserland,Mels,N/A,7326,St. Gallen,N/A,Weisstannen,2024-09-26 19:51:54
+46.7729983,8.7465782,Switzerland,N/A,Silenen,N/A,6475,Uri,UR,Silenen,2024-09-26 19:51:54
+46.7815588,8.7754817,Switzerland,N/A,Silenen,N/A,N/A,Uri,UR,Silenen,2024-09-26 19:51:54
+46.794795,8.8083262,Switzerland,N/A,Silenen,N/A,N/A,Uri,UR,Silenen,2024-09-26 19:51:54
+46.7874793,8.8033043,Switzerland,N/A,Silenen,N/A,N/A,Uri,UR,Silenen,2024-09-26 19:51:54
+46.7600689,8.8063435,Switzerland,N/A,Silenen,N/A,N/A,Uri,UR,Silenen,2024-09-26 19:51:54
+46.7529915,8.8466774,Switzerland,Surselva,Disentis/Mustér,Cavardiras,N/A,Grisons,GR,Disentis/Mustér,2024-09-26 19:51:54
+46.741467,8.8895135,Switzerland,Surselva,Disentis/Mustér,Punt Barcuns,7182,Grisons,GR,Disentis/Mustér,2024-09-26 19:51:54
+46.7236843,8.9267996,Switzerland,Surselva,Sumvitg,N/A,7175,Grisons,GR,Cumpadials,2024-09-26 19:51:54
+46.7219217,8.9106556,Switzerland,Surselva,Sumvitg,N/A,7175,Grisons,GR,Cumpadials,2024-09-26 19:51:54
+47.3391448,8.769131,Switzerland,Bezirk Hinwil,Seegräben,N/A,8607,Zurich,ZH,Sack,2024-09-26 19:51:54
+47.0142772,8.5555356,Switzerland,Schwyz,Lauerz,N/A,6424,Schwyz,SZ,Lauerz,2024-09-26 19:51:54
+47.0157944,8.5638243,Switzerland,Schwyz,Lauerz,N/A,6424,Schwyz,SZ,Lauerz,2024-09-26 19:51:54
+47.380916,7.7497248,Switzerland,Bezirk Waldenburg,Waldenburg,N/A,4437,Basel-Landschaft,BL,Waldenburg,2024-09-26 19:51:54
+47.3811486,7.7586338,Switzerland,Bezirk Waldenburg,Waldenburg,N/A,4437,Basel-Landschaft,BL,Waldenburg,2024-09-26 19:51:54
+47.3786133,7.771399,Switzerland,Bezirk Waldenburg,Waldenburg,N/A,4437,Basel-Landschaft,BL,Waldenburg,2024-09-26 19:51:54
+47.3770474,7.7850876,Switzerland,Bezirk Waldenburg,Langenbruck,Lauch,4438,Basel-Landschaft,BL,Langenbruck,2024-09-26 19:51:54
+47.3741066,7.7953276,Switzerland,Bezirk Waldenburg,Eptingen,N/A,4458,Basel-Landschaft,BL,Eptingen,2024-09-26 19:51:54
+47.3684208,7.8000786,Switzerland,Bezirk Waldenburg,Eptingen,N/A,4438,Basel-Landschaft,BL,Eptingen,2024-09-26 19:51:54
+47.3545211,7.7655252,Switzerland,Bezirk Waldenburg,Langenbruck,N/A,4438,Basel-Landschaft,BL,Langenbruck,2024-09-26 19:51:54
+47.3567646,7.7589523,Switzerland,Bezirk Waldenburg,Langenbruck,N/A,4438,Basel-Landschaft,BL,Langenbruck,2024-09-26 19:51:54
+47.369817,7.7516528,Switzerland,Bezirk Waldenburg,Waldenburg,N/A,4437,Basel-Landschaft,BL,Waldenburg,2024-09-26 19:51:54
+47.000845,6.7975322,Switzerland,N/A,Rochefort,N/A,2019,Neuchâtel,NE,Rochefort,2024-09-26 19:51:54
+47.017624,6.8109911,Switzerland,N/A,Val-de-Ruz,N/A,2019,Neuchâtel,NE,N/A,2024-09-26 19:51:54
+47.0265658,6.8212958,Switzerland,N/A,Val-de-Ruz,N/A,2206,Neuchâtel,NE,Les Geneveys-sur-Coffrane,2024-09-26 19:51:54
+47.0374001,6.8331348,Switzerland,N/A,Val-de-Ruz,N/A,2314,Neuchâtel,NE,N/A,2024-09-26 19:51:54
+47.0487439,6.8467639,Switzerland,N/A,Val-de-Ruz,N/A,2208,Neuchâtel,NE,N/A,2024-09-26 19:51:54
+47.0548538,6.8549186,Switzerland,N/A,Val-de-Ruz,N/A,2208,Neuchâtel,NE,N/A,2024-09-26 19:51:54
+47.0640287,6.8632931,Switzerland,N/A,Val-de-Ruz,N/A,2208,Neuchâtel,NE,N/A,2024-09-26 19:51:54
+47.0592572,6.870724,Switzerland,N/A,Val-de-Ruz,N/A,2052,Neuchâtel,NE,N/A,2024-09-26 19:51:54
+47.0674127,8.2184641,Switzerland,N/A,Lucerne,N/A,6016,Lucerne,LU,N/A,2024-09-26 19:51:54
+47.0710115,8.2077621,Switzerland,N/A,Lucerne,N/A,6016,Lucerne,LU,N/A,2024-09-26 19:51:54
+47.0728553,8.2115095,Switzerland,N/A,Lucerne,N/A,6016,Lucerne,LU,N/A,2024-09-26 19:51:54
+47.0706224,8.1985631,Switzerland,N/A,Neuenkirch,N/A,6016,Lucerne,LU,Hellbühl,2024-09-26 19:51:54
+47.0694164,8.2220825,Switzerland,N/A,Lucerne,N/A,6016,Lucerne,LU,N/A,2024-09-26 19:51:54
+47.0662254,8.2255817,Switzerland,N/A,Lucerne,N/A,6014,Lucerne,LU,N/A,2024-09-26 19:51:54
+47.0600906,8.2084058,Switzerland,N/A,Malters,N/A,6102,Lucerne,LU,Malters,2024-09-26 19:51:54
+47.0573093,8.2275911,Switzerland,N/A,Malters,N/A,6102,Lucerne,LU,Malters,2024-09-26 19:51:54
+47.0725778,8.2264717,Switzerland,N/A,Lucerne,N/A,6016,Lucerne,LU,N/A,2024-09-26 19:51:54
+47.0768969,8.2242565,Switzerland,N/A,Lucerne,N/A,6016,Lucerne,LU,N/A,2024-09-26 19:51:54
+47.3044062,8.8478419,Switzerland,Bezirk Hinwil,Hinwil,N/A,8340,Zurich,ZH,Ringwil,2024-09-26 19:51:54
+47.0112425,8.5674115,Switzerland,Schwyz,Lauerz,N/A,6424,Schwyz,SZ,Lauerz,2024-09-26 19:51:54
+46.8084915,8.4287571,Switzerland,N/A,Engelberg,N/A,6391,Obwalden,OW,Engelberg,2024-09-26 19:51:54
+46.8078592,8.4333772,Switzerland,N/A,Engelberg,N/A,6391,Obwalden,OW,Engelberg,2024-09-26 19:51:54
+46.802739,8.4495195,Switzerland,N/A,Engelberg,N/A,6391,Obwalden,OW,Engelberg,2024-09-26 19:51:54
+46.8090195,8.449072,Switzerland,N/A,Engelberg,N/A,6391,Obwalden,OW,Engelberg,2024-09-26 19:51:54
+46.7975812,8.4661666,Switzerland,N/A,Engelberg,N/A,6391,Obwalden,OW,Engelberg,2024-09-26 19:51:54
+46.7976513,8.4884875,Switzerland,N/A,Attinghausen,N/A,6468,Uri,UR,Attinghausen,2024-09-26 19:51:54
+46.8073903,8.4987666,Switzerland,N/A,Attinghausen,N/A,6468,Uri,UR,Attinghausen,2024-09-26 19:51:54
+46.8200857,8.5091798,Switzerland,N/A,Attinghausen,Butzen,6468,Uri,UR,Attinghausen,2024-09-26 19:51:54
+46.8311462,8.530723,Switzerland,N/A,Attinghausen,N/A,6468,Uri,UR,Attinghausen,2024-09-26 19:51:54
+46.8387007,8.5817857,Switzerland,N/A,Attinghausen,Kulm,6468,Uri,UR,Attinghausen,2024-09-26 19:51:54
+46.840937,8.557679,Switzerland,N/A,Isenthal,N/A,6461,Uri,UR,Isenthal,2024-09-26 19:51:54
+46.8441639,8.5760813,Switzerland,N/A,Attinghausen,Eyfrutt,6468,Uri,UR,Attinghausen,2024-09-26 19:51:54
+46.845412,8.5944996,Switzerland,N/A,Seedorf (UR),N/A,6462,Uri,UR,Seedorf (UR),2024-09-26 19:51:54
+46.8434325,8.5991908,Switzerland,N/A,Erstfeld,N/A,6472,Uri,UR,Erstfeld,2024-09-26 19:51:54
+46.8420383,8.6069284,Switzerland,N/A,Erstfeld,N/A,6472,Uri,UR,Erstfeld,2024-09-26 19:51:54
+47.2634571,8.8113496,Switzerland,Bezirk Hinwil,Bubikon,N/A,8608,Zurich,ZH,Wolfhausen,2024-09-26 19:51:54
+47.2473322,8.819107,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8645,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2454945,8.8131129,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8633,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2558402,8.8368723,Switzerland,Bezirk Hinwil,Rüti (ZH),N/A,8632,Zurich,ZH,N/A,2024-09-26 19:51:54
+47.2481259,8.8120372,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8633,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2428529,8.8182308,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8645,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2420391,8.8124552,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8645,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2397486,8.8174886,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8645,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2381302,8.815763,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2318108,8.818105,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2327052,8.8213298,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2318265,8.8207999,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.230459,8.8215011,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2295259,8.8204753,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2288785,8.82153,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2268787,8.8174746,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2268787,8.8158322,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2249908,8.8162452,Switzerland,Wahlkreis See-Gaster,Rapperswil-Jona,N/A,8640,St. Gallen,N/A,N/A,2024-09-26 19:51:54
+47.2540639,8.7717979,Switzerland,Bezirk Meilen,Hombrechtikon,N/A,8634,Zurich,ZH,Hombrechtikon,2024-09-26 19:51:54
+47.2599709,8.7868148,Switzerland,Bezirk Hinwil,Bubikon,N/A,8633,Zurich,ZH,Wolfhausen,2024-09-26 19:51:54
+47.2692331,8.8008541,Switzerland,Bezirk Hinwil,Bubikon,N/A,8633,Zurich,ZH,Bubikon,2024-09-26 19:51:54
+47.2614382,8.7977432,Switzerland,Bezirk Hinwil,Bubikon,N/A,8633,Zurich,ZH,Wolfhausen,2024-09-26 19:51:54
+46.6717412,6.4135073,Switzerland,District du Jura-Nord vaudois,La Praz,N/A,1148,Vaud,VD,La Praz,2024-09-26 19:51:54
+47.0350818,9.0060363,Switzerland,N/A,Glarus,N/A,8750,Glarus,GL,N/A,2024-09-26 19:51:54
+47.0250262,9.0305856,Switzerland,N/A,Glarus,Ahoren,8750,Glarus,GL,N/A,2024-09-26 19:51:54
