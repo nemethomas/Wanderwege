@@ -13,3 +13,6 @@ venv/
 
 # Config files with sensitive information (e.g., API keys, database credentials)
 config/*.json
+
+# Cache
+.cache.sqlite
