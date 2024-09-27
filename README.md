@@ -6,7 +6,30 @@ This repository contains the scripts used to create a data engineering pipeline 
 
 There are different scripts that handle the generation (via API calls to external providers), ingestion (feed to own database) and transformation (data wrangling and further processing) of data used for this project. Furthermore, the data is then leveraged to build a dynamic user interface for the visualization (Power BI) of the weather forecast data on hiking routes.
 
-## Preparation
+## Main folders and files
+
+* `notebooks`: contains the Jupyter notebooks used to call the external APIs and ingest the data to our database
+
+    - `overpass.ipynb`: Overpass API ([_Link_](https://overpass-turbo.eu/), [_Documentation_](https://wiki.openstreetmap.org/wiki/Overpass_API))
+    - `opencage_addressdata.ipynb`: OpenCage Geocoding API ([_Link_](https://opencagedata.com/), [_Documentation_](https://opencagedata.com/api))
+    - `WeatherForecast.ipynb`: Open-Meteo API ([_Link_](https://open-meteo.com/), [_Documentation_](https://open-meteo.com/en/docs))
+
+* `sql`: SQL scripts used for transformation (view generation) and data description
+
+    - `CreateDataDescriptionSP.sql`: creates a stored procedure to efficiently store data description in the `sys` table
+    - `DataDescription.sql`: makes use of the stored procedure and contains the description for all columns in our tables
+    - `CreateDataDescriptionView.sql`: creates a view that dynamically displays the metadata of our data (data description)
+    - `CreateWeatherAddressView.sql`: generates an 'analyst' view used for the serving part to load the data to Power BI
+
+* `serving`: contains files used for the data visualization
+
+    - `Wanderwege Dashboard.pbix`: Power BI dashboard used to visualize the data and dynamically interact with the data
+
+* `data`: raw (sample) data from APIs stored as `.csv` files (only used for data analysis and sandbox purposes)
+
+* `environment.yaml`: configuration file handling the dependency management and required packages used to create the `conda` environment
+
+## Configuration and preparation
 
 **Pre-requisites**
 
@@ -50,7 +73,7 @@ For the given coordinates, you can request forecast data for intervals of 15min,
 
 There is a time-bound limit of API calls that can be used within the freely available non-commercial use which forces us to restrict the requests for the weather forecast data. Therefore, we reduced our hiking routes to be queried to 300. This way, we can ensure a seamless integration and operation of the data engineering pipeline.
 
-The coordinates of the hiking routes are first retrieved from the table `OVRP_HikingRoutes`. We then gather the weather forecast data, where we extract 19 meteorological data points for each location and hour. We transform the data, create a new table `OPNM_WeatherForecast` in our database `www_db` and ingest the data given the adjusted data types.
+The coordinates of the hiking routes are first retrieved from the table `OVRP_HikingRoutes`. We then gather the weather forecast data, where we extract 19 meteorological data points for each location and hour. We process the data, generate a new table `OPNM_WeatherForecast` in the `www_db` database, and ingest the data using the appropriate data types.
 
 **Geocoding addresses: OpenCage**
 
@@ -58,11 +81,13 @@ File: `opencage_addressdata.ipynb`
 
 To get more information about the extracted hiking route coordinates from Overpass, we call the OpenCage Geocoding API ([_Link_](https://opencagedata.com/), [_Documentation_](https://opencagedata.com/api)). This gives us more granular geographical data like postal code, region and Canton.
 
-The free version of this API also has a limit (2500 calls per day), i.e. we can't request data for all 15'000 coordinates. Given the hiking route coordinates in table `overpass`, we request 8 more data points for each location. We transform the data, create a new table `OPNC_Addresses` in our database `www_db` and ingest the data given the adjusted data types.
+The free version of this API also has a limit (2500 calls per day), i.e. we can't request data for all 15'000 coordinates. Given the hiking route coordinates in table `overpass`, we request 8 more data points for each location. After transforming the data, we create the `OPNC_Addresses` table in the `www_db` database and import the data assigning the fitting data types.
 
+<!---
 ## Database engineering / SQL transformation
 
 File: `CreateDataDescription.sql`
 File: `CreateDataDescriptionView.sql`
 File: `CreateWeatherAddressView.sql`
 File: `DataDescription.sql`
+-->
