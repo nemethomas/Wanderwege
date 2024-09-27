@@ -267,11 +267,11 @@ EXEC dbo.AddOrUpdateMSDescription
     @ColumnName = 'timestamp_apicall',
     @Description = 'Date and time when API call to OpenCage Geocoding was executed';
 
-----------------------
--- [dbo].[overpass] --
-----------------------
+-------------------------------
+-- [dbo].[OVRP_HikingRoutes] --
+-------------------------------
 
-SET @Table = 'overpass';
+SET @Table = 'OVRP_HikingRoutes';
 
 -- [id]
 EXEC dbo.AddOrUpdateMSDescription
