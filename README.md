@@ -25,7 +25,7 @@ There are different scripts that handle the generation (via API calls to externa
 
     - `Wanderwege Dashboard.pbix`: Power BI dashboard used to visualize the data and dynamically interact with the data
 
-* `data`: raw (sample) data from APIs stored as `.csv` files (only used for data analysis and sandbox purposes)
+* `data/processed`: raw (sample) data from APIs stored as `.csv` files (only used for data analysis and sandbox purposes)
 
 * `environment.yaml`: configuration file handling the dependency management and required packages used to create the `conda` environment
 
