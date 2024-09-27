@@ -14,7 +14,7 @@ WITH CTE_COLUMN_INFO_AND_CHECK_CONSTRAINTS AS (
         sc.[name] AS [Column Name],			
         isc.DATA_TYPE AS [Data Type],
         sc.max_length AS [Max Length (Bytes)],
-        CASE WHEN isc.IS_NULLABLE = 'YES' then 'Yes' else 'No' END AS [Is Nullable],
+        CASE WHEN isc.IS_NULLABLE = 'YES' then 'No' else 'Yes' END AS [Mandatory],
         ISNULL(ep.[value], 'N/A') AS [Description]		
     FROM sys.tables AS st	
     INNER JOIN sys.columns AS sc 
