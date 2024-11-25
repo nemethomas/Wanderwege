@@ -16,3 +16,4 @@ config/*.json
 
 # Cache
 .cache.sqlite
+.python_packages
