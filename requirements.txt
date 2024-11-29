@@ -16,3 +16,5 @@ retry-requests
 opencage
 rapidfuzz
 azure-functions
+azure.identity
+azure-keyvault-secrets

@@ -23,3 +23,5 @@ dependencies:
     - opencage
     - rapidfuzz
     - azure-functions
+    - azure.identity
+    - azure-keyvault-secrets
