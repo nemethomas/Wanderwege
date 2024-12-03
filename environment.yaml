@@ -25,3 +25,5 @@ dependencies:
     - azure-functions
     - azure.identity
     - azure-keyvault-secrets
+    - simplekml
+    - scipy
