@@ -7,10 +7,11 @@ GO
     AS
     WITH LatestWeather AS (
         SELECT 
-            W.*,
-            MAX(W.timestamp_apicall) OVER () AS latest_timestamp
+            *
         FROM 
             dbo.OPNM_WeatherForecast_1d_H AS W
+        WHERE
+            timestamp_apicall = (SELECT MAX(timestamp_apicall) FROM dbo.OPNM_WeatherForecast_1d_H)
     )
     SELECT 
          W.[id]
@@ -47,7 +48,5 @@ GO
     LEFT JOIN
         dbo.GEOA_Addresses AS A
     ON W.id = A.id
-    WHERE 
-        W.timestamp_apicall = W.latest_timestamp;
     
 GO
