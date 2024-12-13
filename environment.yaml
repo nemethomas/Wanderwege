@@ -16,10 +16,14 @@ dependencies:
   - requests-cache
   - pyodbc
   - ipykernel
-  - pprint
-  - json
   - pip
   - pip:
     - openmeteo_requests
     - retry-requests
     - opencage
+    - rapidfuzz
+    - azure-functions
+    - azure.identity
+    - azure-keyvault-secrets
+    - simplekml
+    - scipy
