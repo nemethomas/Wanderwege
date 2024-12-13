@@ -30,54 +30,19 @@ EXEC dbo.AddOrUpdateMSDescription
     @ColumnName = 'date',
     @Description = 'Date and time (hourly) for which the weather forecast is valid';
 
--- [lat]
+-- [temperature]
 EXEC dbo.AddOrUpdateMSDescription
     @SchemaName = @Schema,
     @TableName = @Table,
-    @ColumnName = 'lat',
-    @Description = 'Geographical WGS84 latitude of the location coming from Overpass API (hiking route mid point)';
-
--- [lon]
-EXEC dbo.AddOrUpdateMSDescription
-    @SchemaName = @Schema,
-    @TableName = @Table,
-    @ColumnName = 'lon',
-    @Description = 'Geographical WGS84 longitude of the location coming from Overpass API (hiking route mid point)';
-
--- [temperature_2m]
-EXEC dbo.AddOrUpdateMSDescription
-    @SchemaName = @Schema,
-    @TableName = @Table,
-    @ColumnName = 'temperature_2m',
+    @ColumnName = 'temperature',
     @Description = 'Air temperature at 2 meters above ground (in °C)';
 
--- [relative_humidity_2m]
+-- [relative_humidity]
 EXEC dbo.AddOrUpdateMSDescription
     @SchemaName = @Schema,
     @TableName = @Table,
-    @ColumnName = 'relative_humidity_2m',
+    @ColumnName = 'relative_humidity',
     @Description = 'Relative humidity at 2 meters above ground (in %)';
-
--- [dew_point_2m]
-EXEC dbo.AddOrUpdateMSDescription
-    @SchemaName = @Schema,
-    @TableName = @Table,
-    @ColumnName = 'dew_point_2m',
-    @Description = 'Dew point temperature at 2 meters above ground (in °C)';
-
--- [apparent_temperature]
-EXEC dbo.AddOrUpdateMSDescription
-    @SchemaName = @Schema,
-    @TableName = @Table,
-    @ColumnName = 'apparent_temperature',
-    @Description = 'Apparent temperature is the perceived feels-like temperature combining wind chill factor, relative humidity and solar radiation (in °C)';
-
--- [precipitation]
-EXEC dbo.AddOrUpdateMSDescription
-    @SchemaName = @Schema,
-    @TableName = @Table,
-    @ColumnName = 'precipitation',
-    @Description = 'Total precipitation (rain, showers, snow) sum of the preceding hour (in mm)';
 
 -- [rain]
 EXEC dbo.AddOrUpdateMSDescription
@@ -100,27 +65,6 @@ EXEC dbo.AddOrUpdateMSDescription
     @ColumnName = 'snow_depth',
     @Description = 'Snow depth on the ground (in m)';
 
--- [weather_code]
-EXEC dbo.AddOrUpdateMSDescription
-    @SchemaName = @Schema,
-    @TableName = @Table,
-    @ColumnName = 'weather_code',
-    @Description = 'Weather condition as a numeric code. WMO weather interpretation codes: see https://www.nodc.noaa.gov/archive/arc0021/0002199/1.1/data/0-data/HTML/WMO-CODE/WMO4677.HTM)';
-
--- [pressure_msl]
-EXEC dbo.AddOrUpdateMSDescription
-    @SchemaName = @Schema,
-    @TableName = @Table,
-    @ColumnName = 'pressure_msl',
-    @Description = 'Atmospheric air pressure reduced to mean sea level (msl)';
-
--- [surface_pressure]
-EXEC dbo.AddOrUpdateMSDescription
-    @SchemaName = @Schema,
-    @TableName = @Table,
-    @ColumnName = 'surface_pressure',
-    @Description = 'Atmospheric pressure at surface. Surface pressure gets lower with increasing elevation.';
-
 -- [cloud_cover]
 EXEC dbo.AddOrUpdateMSDescription
     @SchemaName = @Schema,
@@ -128,47 +72,12 @@ EXEC dbo.AddOrUpdateMSDescription
     @ColumnName = 'cloud_cover',
     @Description = 'Total cloud cover as an area fraction (in %)';
 
--- [cloud_cover_low]
+-- [wind_speed]
 EXEC dbo.AddOrUpdateMSDescription
     @SchemaName = @Schema,
     @TableName = @Table,
-    @ColumnName = 'cloud_cover_low',
-    @Description = 'Low level clouds and fog up to 3 km altitude (in %)';
-
--- [cloud_cover_mid]
-EXEC dbo.AddOrUpdateMSDescription
-    @SchemaName = @Schema,
-    @TableName = @Table,
-    @ColumnName = 'cloud_cover_mid',
-    @Description = 'Mid level clouds from 3 to 8 km altitude (in %)';
-
--- [cloud_cover_high]
-EXEC dbo.AddOrUpdateMSDescription
-    @SchemaName = @Schema,
-    @TableName = @Table,
-    @ColumnName = 'cloud_cover_high',
-    @Description = 'High level clouds from 8 km altitude (in %)';
-
--- [wind_speed_10m]
-EXEC dbo.AddOrUpdateMSDescription
-    @SchemaName = @Schema,
-    @TableName = @Table,
-    @ColumnName = 'wind_speed_10m',
+    @ColumnName = 'wind_speed',
     @Description = 'Wind speed at 10 meters above ground (in km/h)';
-
--- [wind_gusts_10m]
-EXEC dbo.AddOrUpdateMSDescription
-    @SchemaName = @Schema,
-    @TableName = @Table,
-    @ColumnName = 'wind_gusts_10m',
-    @Description = 'Gusts at 10 meters above ground as a maximum of the preceding hour (in km/h)';
-
--- [is_day]
-EXEC dbo.AddOrUpdateMSDescription
-    @SchemaName = @Schema,
-    @TableName = @Table,
-    @ColumnName = 'is_day',
-    @Description = '1 if the current time step has daylight, 0 at night';
 
 -- [sunshine_duration]
 EXEC dbo.AddOrUpdateMSDescription
@@ -176,6 +85,20 @@ EXEC dbo.AddOrUpdateMSDescription
     @TableName = @Table,
     @ColumnName = 'sunshine_duration',
     @Description = 'The number of seconds of sunshine per hour (direct normalized irradiance exceeding 120 W/m², following the WMO definition)';
+
+-- [weather_score]
+EXEC dbo.AddOrUpdateMSDescription
+    @SchemaName = @Schema,
+    @TableName = @Table,
+    @ColumnName = 'weather_score',
+    @Description = 'Calculated weather score based on the weather variables';
+
+-- [classification]
+EXEC dbo.AddOrUpdateMSDescription
+    @SchemaName = @Schema,
+    @TableName = @Table,
+    @ColumnName = 'classification',
+    @Description = 'Weather classification based on the weather score (< 0.5: bad, 0.5-0.75: ok, >= 0.75: good)';
 
 -- [timestamp_apicall]
 EXEC dbo.AddOrUpdateMSDescription
@@ -307,5 +230,101 @@ EXEC dbo.AddOrUpdateMSDescription
     @TableName = @Table,
     @ColumnName = 'timestamp_apicall',
     @Description = 'Date and time when API call to Overpass was executed';
+
+-- [symbol]
+EXEC dbo.AddOrUpdateMSDescription
+    @SchemaName = @Schema,
+    @TableName = @Table,
+    @ColumnName = 'symbol',
+    @Description = 'Symbol of the hiking route declaring the type and difficulty';
+
+-------------------------------
+-- [dbo].[Google_Elevation] --
+-------------------------------
+
+SET @Table = 'Google_Elevation';
+
+-- [id]
+EXEC dbo.AddOrUpdateMSDescription
+    @SchemaName = @Schema,
+    @TableName = @Table,
+    @ColumnName = 'id',
+    @Description = 'ID for the waypoint coming from Overpass API';
+
+-- [elevation]
+EXEC dbo.AddOrUpdateMSDescription
+    @SchemaName = @Schema,
+    @TableName = @Table,
+    @ColumnName = 'elevation',
+    @Description = 'Elevation in meters';
+
+-- [lat]
+EXEC dbo.AddOrUpdateMSDescription
+    @SchemaName = @Schema,
+    @TableName = @Table,
+    @ColumnName = 'lat',
+    @Description = 'Geographical WGS84 latitude of the waypoint';
+
+-- [lon]
+EXEC dbo.AddOrUpdateMSDescription
+    @SchemaName = @Schema,
+    @TableName = @Table,
+    @ColumnName = 'lon',
+    @Description = 'Geographical WGS84 longitude of the waypoint';
+
+-- [timestamp_apicall]
+EXEC dbo.AddOrUpdateMSDescription
+    @SchemaName = @Schema,
+    @TableName = @Table,
+    @ColumnName = 'timestamp_apicall',
+    @Description = 'Date and time when API call to Google was executed';
+
+----------------------------
+-- [dbo].[GEOA_Addresses] --
+----------------------------
+
+SET @Table = 'GEOA_Addresses';
+
+-- [id]
+EXEC dbo.AddOrUpdateMSDescription
+    @SchemaName = @Schema,
+    @TableName = @Table,
+    @ColumnName = 'id',
+    @Description = 'ID for the hiking route coming from Overpass API';
+
+-- [lat]
+EXEC dbo.AddOrUpdateMSDescription
+    @SchemaName = @Schema,
+    @TableName = @Table,
+    @ColumnName = 'lat',
+    @Description = 'Geographical WGS84 latitude of the location used for geocoding';
+
+-- [lon]
+EXEC dbo.AddOrUpdateMSDescription
+    @SchemaName = @Schema,
+    @TableName = @Table,
+    @ColumnName = 'lon',
+    @Description = 'Geographical WGS84 longitude of the location used for geocoding';
+
+-- [kanton]
+EXEC dbo.AddOrUpdateMSDescription
+    @SchemaName = @Schema,
+    @TableName = @Table,
+    @ColumnName = 'kanton',
+    @Description = 'A subdivision (e.g. district or Bezirk) of a state or country';
+
+-- [gemeindename]
+EXEC dbo.AddOrUpdateMSDescription
+    @SchemaName = @Schema,
+    @TableName = @Table,
+    @ColumnName = 'gemeindename',
+    @Description = 'Refers to the smaller administrative unit, usually a municipality, city, or town. It''s a subdivision of the larger state or county';
+
+-- [timestamp_apicall]
+EXEC dbo.AddOrUpdateMSDescription
+    @SchemaName = @Schema,
+    @TableName = @Table,
+    @ColumnName = 'timestamp_apicall',
+    @Description = 'Date and time when API call to GeoAdmin was executed';
 
 GO
